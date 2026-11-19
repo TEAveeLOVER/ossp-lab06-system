@@ -27,3 +27,19 @@ plt.figure(); plt.plot(n, csvb, "o-", label="CSV"); plt.plot(n, jsonb, "s-", lab
 plt.title("Объём экспортированных файлов")
 plt.xlabel("Число экспортируемых событий, шт."); plt.ylabel("Размер файла, КБ")
 plt.grid(True); plt.legend(); plt.savefig("../report/graph2_size.png", dpi=200)
+
+# Graph 3: effect of EvtFormatMessage (300 events)
+def avg(cfg, col):
+    xs = [float(r[col]) for r in rows if r["config"] == cfg]
+    return sum(xs) / len(xs)
+
+labels = ["With message text\n(EvtFormatMessage)", "Without message text\n(--no-message)"]
+vals = [avg("V", "read_ms"), avg("V_NOMSG", "read_ms")]
+plt.figure()
+bars = plt.bar(labels, vals, color=["#1f77b4", "#ff7f0e"])
+for b, v in zip(bars, vals):
+    plt.text(b.get_x() + b.get_width() / 2, v, f"{v:.1f}", ha="center", va="bottom")
+plt.title("Влияние получения текста сообщения на время чтения (300 событий)")
+plt.ylabel("Среднее время чтения, мс")
+plt.grid(True, axis="y")
+plt.savefig("../report/graph3_nomsg.png", dpi=200)
