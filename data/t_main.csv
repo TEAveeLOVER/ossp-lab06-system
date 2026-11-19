@@ -1,0 +1,215 @@
+﻿record_id,time_utc,provider,level,level_name,event_id,channel,computer,message
+5720,"2026-11-19T15:55:44.076Z","RasClient",4,"Information",20225,"Application","TEAlover","CoID={B71761F9-773D-0003-A156-51B73D77DD01}: Пользователь SYSTEM успешно подключился к серверу удаленного доступа. Имя подключения: vpn1. Параметры подключения:
+TunnelIpAddress = 10.234.158.31
+TunnelIpv6Address = fe80::
+Dial-in User = vpn."
+5719,"2026-11-19T15:55:40.787Z","RasClient",4,"Information",20224,"Application","TEAlover","CoID={B71761F9-773D-0003-A156-51B73D77DD01}: Связь с сервером удаленного доступа установлена пользователем SYSTEM."
+5718,"2026-11-19T15:55:40.784Z","RasClient",4,"Information",20223,"Application","TEAlover","CoID={B71761F9-773D-0003-A156-51B73D77DD01}: Пользователь SYSTEM успешно установил связь с сервером удаленного доступа с помощью следующего устройства: 
+Server address/Phone Number = 219.100.37.31
+Device = WAN Miniport (L2TP)
+Port = VPN3-1
+MediaType = VPN."
+5717,"2026-11-19T15:55:38.643Z","RasClient",4,"Information",20222,"Application","TEAlover","CoID={B71761F9-773D-0003-A156-51B73D77DD01}: Пользователь SYSTEM пытается установить связь с сервером удаленного доступа для подключения vpn1 при помощи следующего устройства: 
+Server address/Phone Number = 219.100.37.31
+Device = WAN Miniport (L2TP)
+Port = VPN3-1
+MediaType = VPN."
+5716,"2026-11-19T15:55:38.630Z","RasClient",4,"Information",20221,"Application","TEAlover","CoID={B71761F9-773D-0003-A156-51B73D77DD01}: Пользователь SYSTEM начал выполнять подключение VPN, используя профиль подключения per-user с именем vpn1. Параметры подключения: 
+Dial-in User = vpn
+VpnStrategy = L2TP
+DataEncryption = Requested
+PrerequisiteEntry = 
+AutoLogon = No
+UseRasCredentials = Yes
+Authentication Type = MS-CHAPv2 
+Ipv4DefaultGateway = Yes
+Ipv4AddressAssignment = By Server
+Ipv4DNSServerAssignment = By Server
+Ipv6DefaultGateway = Yes
+Ipv6AddressAssignment = By Server
+Ipv6DNSServerAssignment = By Server
+IpDnsFlags = 
+IpNBTEnabled = Yes
+UseFlags = Private Connection
+ConnectOnWinlogon = No
+IPsec authentication for L2TP = Pre-shared key."
+5715,"2026-11-19T15:54:57.995Z","RasClient",2,"Error",20227,"Application","TEAlover","CoID={B71761F9-773D-0002-199E-65B73D77DD01}: Пользователь SYSTEM установил удаленное подключение vpn1, которое завершилось сбоем. Возвращен код ошибки 789."
+5714,"2026-11-19T15:54:57.983Z","RasClient",4,"Information",20291,"Application","TEAlover","vpn1 требует внимания."
+5713,"2026-11-19T15:53:52.946Z","RasClient",4,"Information",20222,"Application","TEAlover","CoID={B71761F9-773D-0002-199E-65B73D77DD01}: Пользователь SYSTEM пытается установить связь с сервером удаленного доступа для подключения vpn1 при помощи следующего устройства: 
+Server address/Phone Number = 219.100.37.31
+Device = WAN Miniport (L2TP)
+Port = VPN3-1
+MediaType = VPN."
+5712,"2026-11-19T15:53:52.932Z","RasClient",4,"Information",20221,"Application","TEAlover","CoID={B71761F9-773D-0002-199E-65B73D77DD01}: Пользователь SYSTEM начал выполнять подключение VPN, используя профиль подключения per-user с именем vpn1. Параметры подключения: 
+Dial-in User = vpn
+VpnStrategy = L2TP
+DataEncryption = Requested
+PrerequisiteEntry = 
+AutoLogon = No
+UseRasCredentials = Yes
+Authentication Type = MS-CHAPv2 
+Ipv4DefaultGateway = Yes
+Ipv4AddressAssignment = By Server
+Ipv4DNSServerAssignment = By Server
+Ipv6DefaultGateway = Yes
+Ipv6AddressAssignment = By Server
+Ipv6DNSServerAssignment = By Server
+IpDnsFlags = 
+IpNBTEnabled = Yes
+UseFlags = Private Connection
+ConnectOnWinlogon = No
+IPsec authentication for L2TP = Pre-shared key."
+5711,"2026-11-19T15:53:04.180Z","RasClient",2,"Error",20227,"Application","TEAlover","CoID={B71761F9-773D-0002-3FE3-63B73D77DD01}: Пользователь SYSTEM установил удаленное подключение vpn1, которое завершилось сбоем. Возвращен код ошибки 789."
+5710,"2026-11-19T15:53:04.173Z","RasClient",4,"Information",20291,"Application","TEAlover","vpn1 требует внимания."
+5709,"2026-11-19T15:51:59.131Z","RasClient",4,"Information",20222,"Application","TEAlover","CoID={B71761F9-773D-0002-3FE3-63B73D77DD01}: Пользователь SYSTEM пытается установить связь с сервером удаленного доступа для подключения vpn1 при помощи следующего устройства: 
+Server address/Phone Number = 219.100.37.31
+Device = WAN Miniport (L2TP)
+Port = VPN3-1
+MediaType = VPN."
+5708,"2026-11-19T15:51:59.117Z","RasClient",4,"Information",20221,"Application","TEAlover","CoID={B71761F9-773D-0002-3FE3-63B73D77DD01}: Пользователь SYSTEM начал выполнять подключение VPN, используя профиль подключения per-user с именем vpn1. Параметры подключения: 
+Dial-in User = vpn
+VpnStrategy = L2TP
+DataEncryption = Requested
+PrerequisiteEntry = 
+AutoLogon = No
+UseRasCredentials = Yes
+Authentication Type = MS-CHAPv2 
+Ipv4DefaultGateway = Yes
+Ipv4AddressAssignment = By Server
+Ipv4DNSServerAssignment = By Server
+Ipv6DefaultGateway = Yes
+Ipv6AddressAssignment = By Server
+Ipv6DNSServerAssignment = By Server
+IpDnsFlags = 
+IpNBTEnabled = Yes
+UseFlags = Private Connection
+ConnectOnWinlogon = No
+IPsec authentication for L2TP = Pre-shared key."
+5707,"2026-11-19T15:51:15.996Z","RasClient",2,"Error",20227,"Application","TEAlover","CoID={B71761F9-773D-0000-1685-63B73D77DD01}: Пользователь SYSTEM установил удаленное подключение vpn1, которое завершилось сбоем. Возвращен код ошибки 789."
+5706,"2026-11-19T15:51:15.980Z","RasClient",4,"Information",20291,"Application","TEAlover","vpn1 требует внимания."
+5705,"2026-11-19T15:50:10.917Z","RasClient",4,"Information",20222,"Application","TEAlover","CoID={B71761F9-773D-0000-1685-63B73D77DD01}: Пользователь SYSTEM пытается установить связь с сервером удаленного доступа для подключения vpn1 при помощи следующего устройства: 
+Server address/Phone Number = 219.100.37.31
+Device = WAN Miniport (L2TP)
+Port = VPN3-1
+MediaType = VPN."
+5704,"2026-11-19T15:50:10.902Z","RasClient",4,"Information",20221,"Application","TEAlover","CoID={B71761F9-773D-0000-1685-63B73D77DD01}: Пользователь SYSTEM начал выполнять подключение VPN, используя профиль подключения per-user с именем vpn1. Параметры подключения: 
+Dial-in User = vpn
+VpnStrategy = L2TP
+DataEncryption = Requested
+PrerequisiteEntry = 
+AutoLogon = No
+UseRasCredentials = Yes
+Authentication Type = MS-CHAPv2 
+Ipv4DefaultGateway = Yes
+Ipv4AddressAssignment = By Server
+Ipv4DNSServerAssignment = By Server
+Ipv6DefaultGateway = Yes
+Ipv6AddressAssignment = By Server
+Ipv6DNSServerAssignment = By Server
+IpDnsFlags = 
+IpNBTEnabled = Yes
+UseFlags = Private Connection
+ConnectOnWinlogon = No
+IPsec authentication for L2TP = Pre-shared key."
+5703,"2026-11-19T14:14:27.898Z","VSS",4,"Information",8224,"Application","TEAlover","Служба VSS выключается из-за тайм-аута простоя. "
+5702,"2026-11-19T14:13:23.359Z","Microsoft-Windows-AppModel-State",4,"Information",4,"Application","TEAlover","Функция ApiSet возвратила DeleteStateAtomValue с результат -2147020584"
+5701,"2026-11-19T14:12:05.866Z","Microsoft-Windows-Security-SPP",4,"Information",16384,"Application","TEAlover","Перезапуск службы защиты программного обеспечения успешно запланирован на 2126-10-26T14:12:05Z. Причина: RulesEngine."
+5700,"2026-11-19T09:56:58.692Z","VSS",4,"Information",8231,"Application","TEAlover","служба теневого копирования томов: инициировано создание моментального снимка для набора моментальных снимков {fd9db7f6-6632-4e14-a272-00a9d9945f37}.
+ Командная строка процесса: taskhostw.exe SYSTEM
+ стек вызываемой процедуры:
+ Процесс[0]: taskhostw.exe
+ Процесс[1]: svchost.exe
+ Процесс[2]: services.exe
+"
+5699,"2026-11-19T09:56:57.895Z","Microsoft-Windows-Security-SPP",4,"Information",16394,"Application","TEAlover","Миграция прежних версий без подключения к сети прошла успешно."
+5698,"2026-11-19T08:52:48.683Z","RasClient",4,"Information",20226,"Application","TEAlover","CoID={B71761F9-773D-0001-3081-42B73D77DD01}: Пользователь SYSTEM установил удаленное подключение vpn1, которое было прекращено. При прекращении возвращен код причины 631."
+5697,"2026-11-19T08:36:15.018Z","Microsoft-Windows-Security-SPP",4,"Information",16384,"Application","TEAlover","Перезапуск службы защиты программного обеспечения успешно запланирован на 2126-10-26T08:36:14Z. Причина: RulesEngine."
+5696,"2026-11-19T08:35:44.702Z","Microsoft-Windows-Security-SPP",4,"Information",16394,"Application","TEAlover","Миграция прежних версий без подключения к сети прошла успешно."
+5695,"2026-11-19T08:31:13.297Z","Microsoft-Windows-Security-SPP",4,"Information",16384,"Application","TEAlover","Перезапуск службы защиты программного обеспечения успешно запланирован на 2126-10-26T08:31:13Z. Причина: RulesEngine."
+5694,"2026-11-19T08:30:42.995Z","Microsoft-Windows-Security-SPP",4,"Information",16394,"Application","TEAlover","Миграция прежних версий без подключения к сети прошла успешно."
+5693,"2026-11-19T08:28:34.993Z","Microsoft-Windows-Security-SPP",4,"Information",16384,"Application","TEAlover","Перезапуск службы защиты программного обеспечения успешно запланирован на 2126-10-26T08:28:34Z. Причина: RulesEngine."
+5692,"2026-11-19T08:28:27.307Z","SecurityCenter",4,"Information",15,"Application","TEAlover","Состояние Windows Defender успешно изменено на SECURITY_PRODUCT_STATE_ON."
+5691,"2026-11-19T08:27:40.998Z","Microsoft-Windows-Security-SPP",4,"Information",16394,"Application","TEAlover","Миграция прежних версий без подключения к сети прошла успешно."
+5690,"2026-11-19T08:27:12.189Z","Microsoft-Windows-Security-SPP",4,"Information",16384,"Application","TEAlover","Перезапуск службы защиты программного обеспечения успешно запланирован на 2126-10-26T08:27:12Z. Причина: RulesEngine."
+5689,"2026-11-19T08:26:37.760Z","Microsoft-Windows-Security-SPP",4,"Information",16394,"Application","TEAlover","Миграция прежних версий без подключения к сети прошла успешно."
+5688,"2026-11-19T08:05:44.150Z","Microsoft-Windows-Security-SPP",4,"Information",16384,"Application","TEAlover","Перезапуск службы защиты программного обеспечения успешно запланирован на 2126-10-26T08:05:44Z. Причина: RulesEngine."
+5687,"2026-11-19T08:05:13.842Z","Microsoft-Windows-Security-SPP",4,"Information",16394,"Application","TEAlover","Миграция прежних версий без подключения к сети прошла успешно."
+5686,"2026-11-19T07:59:15.640Z","Microsoft-Windows-Security-SPP",4,"Information",16384,"Application","TEAlover","Перезапуск службы защиты программного обеспечения успешно запланирован на 2126-10-26T07:59:15Z. Причина: RulesEngine."
+5685,"2026-11-19T07:58:52.990Z","RasClient",4,"Information",20225,"Application","TEAlover","CoID={B71761F9-773D-0001-3081-42B73D77DD01}: Пользователь SYSTEM успешно подключился к серверу удаленного доступа. Имя подключения: vpn1. Параметры подключения:
+TunnelIpAddress = 10.234.25.57
+TunnelIpv6Address = fe80::
+Dial-in User = vpn."
+5684,"2026-11-19T07:58:49.408Z","RasClient",4,"Information",20224,"Application","TEAlover","CoID={B71761F9-773D-0001-3081-42B73D77DD01}: Связь с сервером удаленного доступа установлена пользователем SYSTEM."
+5683,"2026-11-19T07:58:49.403Z","RasClient",4,"Information",20223,"Application","TEAlover","CoID={B71761F9-773D-0001-3081-42B73D77DD01}: Пользователь SYSTEM успешно установил связь с сервером удаленного доступа с помощью следующего устройства: 
+Server address/Phone Number = 219.100.37.31
+Device = WAN Miniport (L2TP)
+Port = VPN3-1
+MediaType = VPN."
+5682,"2026-11-19T07:58:48.513Z","RasClient",4,"Information",20222,"Application","TEAlover","CoID={B71761F9-773D-0001-3081-42B73D77DD01}: Пользователь SYSTEM пытается установить связь с сервером удаленного доступа для подключения vpn1 при помощи следующего устройства: 
+Server address/Phone Number = 219.100.37.31
+Device = WAN Miniport (L2TP)
+Port = VPN3-1
+MediaType = VPN."
+5681,"2026-11-19T07:58:48.498Z","RasClient",4,"Information",20221,"Application","TEAlover","CoID={B71761F9-773D-0001-3081-42B73D77DD01}: Пользователь SYSTEM начал выполнять подключение VPN, используя профиль подключения per-user с именем vpn1. Параметры подключения: 
+Dial-in User = vpn
+VpnStrategy = L2TP
+DataEncryption = Requested
+PrerequisiteEntry = 
+AutoLogon = No
+UseRasCredentials = Yes
+Authentication Type = MS-CHAPv2 
+Ipv4DefaultGateway = Yes
+Ipv4AddressAssignment = By Server
+Ipv4DNSServerAssignment = By Server
+Ipv6DefaultGateway = Yes
+Ipv6AddressAssignment = By Server
+Ipv6DNSServerAssignment = By Server
+IpDnsFlags = 
+IpNBTEnabled = Yes
+UseFlags = Private Connection
+ConnectOnWinlogon = No
+IPsec authentication for L2TP = Pre-shared key."
+5680,"2026-11-19T07:55:01.667Z","Microsoft-Windows-Security-SPP",4,"Information",16394,"Application","TEAlover","Миграция прежних версий без подключения к сети прошла успешно."
+5679,"2026-11-19T07:49:44.282Z","edgeupdate",4,"Information",0,"Application","TEAlover","Service stopped."
+5678,"2026-11-19T07:47:52.840Z","Microsoft-Windows-Security-SPP",4,"Information",16384,"Application","TEAlover","Перезапуск службы защиты программного обеспечения успешно запланирован на 2126-10-26T07:47:52Z. Причина: RulesEngine."
+5677,"2026-11-19T07:47:22.755Z","Microsoft-Windows-Security-SPP",4,"Information",1003,"Application","TEAlover","Служба защиты программного обеспечения завершила проверку состояния лицензирования.
+Идентификатор приложения=0ff1ce15-a989-479d-af46-f275c6370663
+Состояние лицензирования=
+1: d77244dc-2b82-4f0a-b8ae-1fca00b7f3e2, 1, 1 [(0 )(1 )(2 )(3 [0x00000000, 0, 0], [( 6 0xC004F009 30 0)( 1 0x00000000)( 6 0xC004F009 30 0)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)( 11 0x00000000 0xC004F009)])]
+
+"
+5676,"2026-11-19T07:47:22.710Z","Microsoft-Windows-Security-SPP",4,"Information",1003,"Application","TEAlover","Служба защиты программного обеспечения завершила проверку состояния лицензирования.
+Идентификатор приложения=0ff1ce15-a989-479d-af46-f275c6370663
+Состояние лицензирования=
+1: d77244dc-2b82-4f0a-b8ae-1fca00b7f3e2, 1, 1 [(0 )(1 )(2 )(3 [0x00000000, 0, 0], [( 6 0xC004F009 30 0)( 1 0x00000000)( 6 0xC004F009 30 0)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)( 11 0x00000000 0xC004F009)])]
+
+"
+5675,"2026-11-19T07:47:22.671Z","Microsoft-Windows-Security-SPP",4,"Information",1003,"Application","TEAlover","Служба защиты программного обеспечения завершила проверку состояния лицензирования.
+Идентификатор приложения=0ff1ce15-a989-479d-af46-f275c6370663
+Состояние лицензирования=
+1: 4c2f32bf-9d0b-4d8c-8ab1-b4c6a0b9992d, 1, 1 [(0 )(1 )(2 )(3 [0x00000000, 0, 0], [( 6 0xC004F009 30 0)( 1 0x00000000)( 6 0xC004F009 30 0)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)( 11 0x00000000 0xC004F009)])]
+
+"
+5674,"2026-11-19T07:47:22.581Z","Microsoft-Windows-Security-SPP",4,"Information",1003,"Application","TEAlover","Служба защиты программного обеспечения завершила проверку состояния лицензирования.
+Идентификатор приложения=0ff1ce15-a989-479d-af46-f275c6370663
+Состояние лицензирования=
+1: 29b4d918-8b78-447b-aa14-8b3b1b3742ae, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+2: 4ab4d849-aabc-43fb-87ee-3aed02518891, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+3: 4c2f32bf-9d0b-4d8c-8ab1-b4c6a0b9992d, 1, 1 [(0 )(1 )(2 )(3 [0x00000000, 0, 0], [( 6 0xC004F009 30 0)( 1 0x00000000)( 6 0xC004F009 30 0)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)( 11 0x00000000 0xC004F009)])]
+4: 84e442c0-87a0-49b5-bcd1-b161b0b35e4b, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+5: 8d368fc1-9470-4be2-8d66-90e836cbb051, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+6: 8fdb1f1e-663f-4f2e-8fdb-7c35aee7d5ea, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+7: d77244dc-2b82-4f0a-b8ae-1fca00b7f3e2, 1, 1 [(0 )(1 )(2 )(3 [0x00000000, 0, 0], [( 6 0xC004F009 30 0)( 1 0x00000000)( 6 0xC004F009 30 0)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)( 11 0x00000000 0xC004F009)])]
+8: eb074198-7384-4bdd-8e6c-c3342dac8435, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+9: fa187091-8246-47b1-964f-80a0b1e5d69a, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+10: fceda083-1203-402a-8ec4-3d7ed9f3648c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+
+"
+5673,"2026-11-19T07:47:22.258Z","Microsoft-Windows-Security-SPP",4,"Information",16394,"Application","TEAlover","Миграция прежних версий без подключения к сети прошла успешно."
+5672,"2026-11-19T07:46:02.973Z","Microsoft-Windows-Security-SPP",4,"Information",16384,"Application","TEAlover","Перезапуск службы защиты программного обеспечения успешно запланирован на 2126-10-26T07:46:02Z. Причина: RulesEngine."
+5671,"2026-11-19T07:45:22.250Z","Microsoft-Windows-Security-SPP",4,"Information",1003,"Application","TEAlover","Служба защиты программного обеспечения завершила проверку состояния лицензирования.
+Идентификатор приложения=0ff1ce15-a989-479d-af46-f275c6370663
+Состояние лицензирования=
+1: d77244dc-2b82-4f0a-b8ae-1fca00b7f3e2, 1, 1 [(0 )(1 )(2 )(3 [0x00000000, 0, 0], [( 6 0xC004F009 30 0)( 1 0x00000000)( 6 0xC004F009 30 0)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)( 11 0x00000000 0xC004F009)])]
+
+"

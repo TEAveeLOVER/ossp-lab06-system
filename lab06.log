@@ -1,0 +1,44 @@
+[11:50:34.865] START log=Application max=50 format=both level=0 xpath=*
+[11:50:34.865] EVT_QUERY status=OK
+[11:50:34.917] READ count=50 time_ms=54.274
+[11:50:34.917] EXPORT file=C:\Else\ossp-labs\lab06-system\scripts\..\data\t_main.csv bytes=22447
+[11:50:34.917] EXPORT file=C:\Else\ossp-labs\lab06-system\scripts\..\data\t_main.json bytes=28413
+[11:50:34.917] EXPORT_DONE time_ms=8.331
+[11:50:34.917] END status=OK rc=0
+[11:50:35.770] START log=NoSuchLog_90 max=100 format=both level=0 xpath=*
+[11:50:35.778] ERROR func=EvtQuery op=open query code=15007 text=Не удалось найти указанный канал.
+[11:50:35.778] HINT журнал с таким именем не найден
+[11:50:35.799] START log=Security max=100 format=both level=0 xpath=*
+[11:50:35.799] ERROR func=EvtQuery op=open query code=5 text=Отказано в доступе.
+[11:50:35.799] HINT недостаточно прав для чтения этого журнала (попробуйте Application)
+[11:50:35.815] ERROR некорректные параметры запуска
+[11:50:35.831] ERROR некорректные параметры запуска
+[11:50:35.863] START log=Application max=5 format=both level=0 xpath=*
+[11:50:35.907] EVT_QUERY status=OK
+[11:50:35.910] READ count=5 time_ms=47.203
+[11:50:35.910] ERROR FILE_OPEN file=Z:\no\such\dir\x.csv
+[11:50:35.912] ERROR FILE_OPEN file=Z:\no\such\dir\x.json
+[11:50:35.912] EXPORT_DONE time_ms=0.797
+[11:50:35.912] END status=FAIL rc=5
+[18:57:01.344] START log=Application max=50 format=both level=0 xpath=*
+[18:57:01.344] EVT_QUERY status=OK
+[18:57:01.407] READ count=50 time_ms=76.385
+[18:57:01.423] EXPORT file=C:\Else\ossp-labs\lab06-system\scripts\..\data\t_main.csv bytes=20804
+[18:57:01.423] EXPORT file=C:\Else\ossp-labs\lab06-system\scripts\..\data\t_main.json bytes=26804
+[18:57:01.423] EXPORT_DONE time_ms=7.803
+[18:57:01.423] END status=OK rc=0
+[18:57:01.707] START log=NoSuchLog_90 max=100 format=both level=0 xpath=*
+[18:57:01.707] ERROR func=EvtQuery op=open query code=15007 text=Не удалось найти указанный канал.
+[18:57:01.707] HINT журнал с таким именем не найден
+[18:57:01.725] START log=Security max=100 format=both level=0 xpath=*
+[18:57:01.725] ERROR func=EvtQuery op=open query code=5 text=Отказано в доступе.
+[18:57:01.725] HINT недостаточно прав для чтения этого журнала (попробуйте Application)
+[18:57:01.745] ERROR некорректные параметры запуска
+[18:57:01.762] ERROR некорректные параметры запуска
+[18:57:01.779] START log=Application max=5 format=both level=0 xpath=*
+[18:57:01.779] EVT_QUERY status=OK
+[18:57:01.787] READ count=5 time_ms=15.457
+[18:57:01.787] ERROR FILE_OPEN file=Z:\no\such\dir\x.csv
+[18:57:01.787] ERROR FILE_OPEN file=Z:\no\such\dir\x.json
+[18:57:01.787] EXPORT_DONE time_ms=0.533
+[18:57:01.787] END status=FAIL rc=5
