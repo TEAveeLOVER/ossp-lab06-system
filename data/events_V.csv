@@ -1,0 +1,1140 @@
+﻿record_id,time_utc,provider,level,level_name,event_id,channel,computer,message
+5720,"2026-11-19T15:55:44.076Z","RasClient",4,"Information",20225,"Application","TEAlover","CoID={B71761F9-773D-0003-A156-51B73D77DD01}: Пользователь SYSTEM успешно подключился к серверу удаленного доступа. Имя подключения: vpn1. Параметры подключения:
+TunnelIpAddress = 10.234.158.31
+TunnelIpv6Address = fe80::
+Dial-in User = vpn."
+5719,"2026-11-19T15:55:40.787Z","RasClient",4,"Information",20224,"Application","TEAlover","CoID={B71761F9-773D-0003-A156-51B73D77DD01}: Связь с сервером удаленного доступа установлена пользователем SYSTEM."
+5718,"2026-11-19T15:55:40.784Z","RasClient",4,"Information",20223,"Application","TEAlover","CoID={B71761F9-773D-0003-A156-51B73D77DD01}: Пользователь SYSTEM успешно установил связь с сервером удаленного доступа с помощью следующего устройства: 
+Server address/Phone Number = 219.100.37.31
+Device = WAN Miniport (L2TP)
+Port = VPN3-1
+MediaType = VPN."
+5717,"2026-11-19T15:55:38.643Z","RasClient",4,"Information",20222,"Application","TEAlover","CoID={B71761F9-773D-0003-A156-51B73D77DD01}: Пользователь SYSTEM пытается установить связь с сервером удаленного доступа для подключения vpn1 при помощи следующего устройства: 
+Server address/Phone Number = 219.100.37.31
+Device = WAN Miniport (L2TP)
+Port = VPN3-1
+MediaType = VPN."
+5716,"2026-11-19T15:55:38.630Z","RasClient",4,"Information",20221,"Application","TEAlover","CoID={B71761F9-773D-0003-A156-51B73D77DD01}: Пользователь SYSTEM начал выполнять подключение VPN, используя профиль подключения per-user с именем vpn1. Параметры подключения: 
+Dial-in User = vpn
+VpnStrategy = L2TP
+DataEncryption = Requested
+PrerequisiteEntry = 
+AutoLogon = No
+UseRasCredentials = Yes
+Authentication Type = MS-CHAPv2 
+Ipv4DefaultGateway = Yes
+Ipv4AddressAssignment = By Server
+Ipv4DNSServerAssignment = By Server
+Ipv6DefaultGateway = Yes
+Ipv6AddressAssignment = By Server
+Ipv6DNSServerAssignment = By Server
+IpDnsFlags = 
+IpNBTEnabled = Yes
+UseFlags = Private Connection
+ConnectOnWinlogon = No
+IPsec authentication for L2TP = Pre-shared key."
+5715,"2026-11-19T15:54:57.995Z","RasClient",2,"Error",20227,"Application","TEAlover","CoID={B71761F9-773D-0002-199E-65B73D77DD01}: Пользователь SYSTEM установил удаленное подключение vpn1, которое завершилось сбоем. Возвращен код ошибки 789."
+5714,"2026-11-19T15:54:57.983Z","RasClient",4,"Information",20291,"Application","TEAlover","vpn1 требует внимания."
+5713,"2026-11-19T15:53:52.946Z","RasClient",4,"Information",20222,"Application","TEAlover","CoID={B71761F9-773D-0002-199E-65B73D77DD01}: Пользователь SYSTEM пытается установить связь с сервером удаленного доступа для подключения vpn1 при помощи следующего устройства: 
+Server address/Phone Number = 219.100.37.31
+Device = WAN Miniport (L2TP)
+Port = VPN3-1
+MediaType = VPN."
+5712,"2026-11-19T15:53:52.932Z","RasClient",4,"Information",20221,"Application","TEAlover","CoID={B71761F9-773D-0002-199E-65B73D77DD01}: Пользователь SYSTEM начал выполнять подключение VPN, используя профиль подключения per-user с именем vpn1. Параметры подключения: 
+Dial-in User = vpn
+VpnStrategy = L2TP
+DataEncryption = Requested
+PrerequisiteEntry = 
+AutoLogon = No
+UseRasCredentials = Yes
+Authentication Type = MS-CHAPv2 
+Ipv4DefaultGateway = Yes
+Ipv4AddressAssignment = By Server
+Ipv4DNSServerAssignment = By Server
+Ipv6DefaultGateway = Yes
+Ipv6AddressAssignment = By Server
+Ipv6DNSServerAssignment = By Server
+IpDnsFlags = 
+IpNBTEnabled = Yes
+UseFlags = Private Connection
+ConnectOnWinlogon = No
+IPsec authentication for L2TP = Pre-shared key."
+5711,"2026-11-19T15:53:04.180Z","RasClient",2,"Error",20227,"Application","TEAlover","CoID={B71761F9-773D-0002-3FE3-63B73D77DD01}: Пользователь SYSTEM установил удаленное подключение vpn1, которое завершилось сбоем. Возвращен код ошибки 789."
+5710,"2026-11-19T15:53:04.173Z","RasClient",4,"Information",20291,"Application","TEAlover","vpn1 требует внимания."
+5709,"2026-11-19T15:51:59.131Z","RasClient",4,"Information",20222,"Application","TEAlover","CoID={B71761F9-773D-0002-3FE3-63B73D77DD01}: Пользователь SYSTEM пытается установить связь с сервером удаленного доступа для подключения vpn1 при помощи следующего устройства: 
+Server address/Phone Number = 219.100.37.31
+Device = WAN Miniport (L2TP)
+Port = VPN3-1
+MediaType = VPN."
+5708,"2026-11-19T15:51:59.117Z","RasClient",4,"Information",20221,"Application","TEAlover","CoID={B71761F9-773D-0002-3FE3-63B73D77DD01}: Пользователь SYSTEM начал выполнять подключение VPN, используя профиль подключения per-user с именем vpn1. Параметры подключения: 
+Dial-in User = vpn
+VpnStrategy = L2TP
+DataEncryption = Requested
+PrerequisiteEntry = 
+AutoLogon = No
+UseRasCredentials = Yes
+Authentication Type = MS-CHAPv2 
+Ipv4DefaultGateway = Yes
+Ipv4AddressAssignment = By Server
+Ipv4DNSServerAssignment = By Server
+Ipv6DefaultGateway = Yes
+Ipv6AddressAssignment = By Server
+Ipv6DNSServerAssignment = By Server
+IpDnsFlags = 
+IpNBTEnabled = Yes
+UseFlags = Private Connection
+ConnectOnWinlogon = No
+IPsec authentication for L2TP = Pre-shared key."
+5707,"2026-11-19T15:51:15.996Z","RasClient",2,"Error",20227,"Application","TEAlover","CoID={B71761F9-773D-0000-1685-63B73D77DD01}: Пользователь SYSTEM установил удаленное подключение vpn1, которое завершилось сбоем. Возвращен код ошибки 789."
+5706,"2026-11-19T15:51:15.980Z","RasClient",4,"Information",20291,"Application","TEAlover","vpn1 требует внимания."
+5705,"2026-11-19T15:50:10.917Z","RasClient",4,"Information",20222,"Application","TEAlover","CoID={B71761F9-773D-0000-1685-63B73D77DD01}: Пользователь SYSTEM пытается установить связь с сервером удаленного доступа для подключения vpn1 при помощи следующего устройства: 
+Server address/Phone Number = 219.100.37.31
+Device = WAN Miniport (L2TP)
+Port = VPN3-1
+MediaType = VPN."
+5704,"2026-11-19T15:50:10.902Z","RasClient",4,"Information",20221,"Application","TEAlover","CoID={B71761F9-773D-0000-1685-63B73D77DD01}: Пользователь SYSTEM начал выполнять подключение VPN, используя профиль подключения per-user с именем vpn1. Параметры подключения: 
+Dial-in User = vpn
+VpnStrategy = L2TP
+DataEncryption = Requested
+PrerequisiteEntry = 
+AutoLogon = No
+UseRasCredentials = Yes
+Authentication Type = MS-CHAPv2 
+Ipv4DefaultGateway = Yes
+Ipv4AddressAssignment = By Server
+Ipv4DNSServerAssignment = By Server
+Ipv6DefaultGateway = Yes
+Ipv6AddressAssignment = By Server
+Ipv6DNSServerAssignment = By Server
+IpDnsFlags = 
+IpNBTEnabled = Yes
+UseFlags = Private Connection
+ConnectOnWinlogon = No
+IPsec authentication for L2TP = Pre-shared key."
+5703,"2026-11-19T14:14:27.898Z","VSS",4,"Information",8224,"Application","TEAlover","Служба VSS выключается из-за тайм-аута простоя. "
+5702,"2026-11-19T14:13:23.359Z","Microsoft-Windows-AppModel-State",4,"Information",4,"Application","TEAlover","Функция ApiSet возвратила DeleteStateAtomValue с результат -2147020584"
+5701,"2026-11-19T14:12:05.866Z","Microsoft-Windows-Security-SPP",4,"Information",16384,"Application","TEAlover","Перезапуск службы защиты программного обеспечения успешно запланирован на 2126-10-26T14:12:05Z. Причина: RulesEngine."
+5700,"2026-11-19T09:56:58.692Z","VSS",4,"Information",8231,"Application","TEAlover","служба теневого копирования томов: инициировано создание моментального снимка для набора моментальных снимков {fd9db7f6-6632-4e14-a272-00a9d9945f37}.
+ Командная строка процесса: taskhostw.exe SYSTEM
+ стек вызываемой процедуры:
+ Процесс[0]: taskhostw.exe
+ Процесс[1]: svchost.exe
+ Процесс[2]: services.exe
+"
+5699,"2026-11-19T09:56:57.895Z","Microsoft-Windows-Security-SPP",4,"Information",16394,"Application","TEAlover","Миграция прежних версий без подключения к сети прошла успешно."
+5698,"2026-11-19T08:52:48.683Z","RasClient",4,"Information",20226,"Application","TEAlover","CoID={B71761F9-773D-0001-3081-42B73D77DD01}: Пользователь SYSTEM установил удаленное подключение vpn1, которое было прекращено. При прекращении возвращен код причины 631."
+5697,"2026-11-19T08:36:15.018Z","Microsoft-Windows-Security-SPP",4,"Information",16384,"Application","TEAlover","Перезапуск службы защиты программного обеспечения успешно запланирован на 2126-10-26T08:36:14Z. Причина: RulesEngine."
+5696,"2026-11-19T08:35:44.702Z","Microsoft-Windows-Security-SPP",4,"Information",16394,"Application","TEAlover","Миграция прежних версий без подключения к сети прошла успешно."
+5695,"2026-11-19T08:31:13.297Z","Microsoft-Windows-Security-SPP",4,"Information",16384,"Application","TEAlover","Перезапуск службы защиты программного обеспечения успешно запланирован на 2126-10-26T08:31:13Z. Причина: RulesEngine."
+5694,"2026-11-19T08:30:42.995Z","Microsoft-Windows-Security-SPP",4,"Information",16394,"Application","TEAlover","Миграция прежних версий без подключения к сети прошла успешно."
+5693,"2026-11-19T08:28:34.993Z","Microsoft-Windows-Security-SPP",4,"Information",16384,"Application","TEAlover","Перезапуск службы защиты программного обеспечения успешно запланирован на 2126-10-26T08:28:34Z. Причина: RulesEngine."
+5692,"2026-11-19T08:28:27.307Z","SecurityCenter",4,"Information",15,"Application","TEAlover","Состояние Windows Defender успешно изменено на SECURITY_PRODUCT_STATE_ON."
+5691,"2026-11-19T08:27:40.998Z","Microsoft-Windows-Security-SPP",4,"Information",16394,"Application","TEAlover","Миграция прежних версий без подключения к сети прошла успешно."
+5690,"2026-11-19T08:27:12.189Z","Microsoft-Windows-Security-SPP",4,"Information",16384,"Application","TEAlover","Перезапуск службы защиты программного обеспечения успешно запланирован на 2126-10-26T08:27:12Z. Причина: RulesEngine."
+5689,"2026-11-19T08:26:37.760Z","Microsoft-Windows-Security-SPP",4,"Information",16394,"Application","TEAlover","Миграция прежних версий без подключения к сети прошла успешно."
+5688,"2026-11-19T08:05:44.150Z","Microsoft-Windows-Security-SPP",4,"Information",16384,"Application","TEAlover","Перезапуск службы защиты программного обеспечения успешно запланирован на 2126-10-26T08:05:44Z. Причина: RulesEngine."
+5687,"2026-11-19T08:05:13.842Z","Microsoft-Windows-Security-SPP",4,"Information",16394,"Application","TEAlover","Миграция прежних версий без подключения к сети прошла успешно."
+5686,"2026-11-19T07:59:15.640Z","Microsoft-Windows-Security-SPP",4,"Information",16384,"Application","TEAlover","Перезапуск службы защиты программного обеспечения успешно запланирован на 2126-10-26T07:59:15Z. Причина: RulesEngine."
+5685,"2026-11-19T07:58:52.990Z","RasClient",4,"Information",20225,"Application","TEAlover","CoID={B71761F9-773D-0001-3081-42B73D77DD01}: Пользователь SYSTEM успешно подключился к серверу удаленного доступа. Имя подключения: vpn1. Параметры подключения:
+TunnelIpAddress = 10.234.25.57
+TunnelIpv6Address = fe80::
+Dial-in User = vpn."
+5684,"2026-11-19T07:58:49.408Z","RasClient",4,"Information",20224,"Application","TEAlover","CoID={B71761F9-773D-0001-3081-42B73D77DD01}: Связь с сервером удаленного доступа установлена пользователем SYSTEM."
+5683,"2026-11-19T07:58:49.403Z","RasClient",4,"Information",20223,"Application","TEAlover","CoID={B71761F9-773D-0001-3081-42B73D77DD01}: Пользователь SYSTEM успешно установил связь с сервером удаленного доступа с помощью следующего устройства: 
+Server address/Phone Number = 219.100.37.31
+Device = WAN Miniport (L2TP)
+Port = VPN3-1
+MediaType = VPN."
+5682,"2026-11-19T07:58:48.513Z","RasClient",4,"Information",20222,"Application","TEAlover","CoID={B71761F9-773D-0001-3081-42B73D77DD01}: Пользователь SYSTEM пытается установить связь с сервером удаленного доступа для подключения vpn1 при помощи следующего устройства: 
+Server address/Phone Number = 219.100.37.31
+Device = WAN Miniport (L2TP)
+Port = VPN3-1
+MediaType = VPN."
+5681,"2026-11-19T07:58:48.498Z","RasClient",4,"Information",20221,"Application","TEAlover","CoID={B71761F9-773D-0001-3081-42B73D77DD01}: Пользователь SYSTEM начал выполнять подключение VPN, используя профиль подключения per-user с именем vpn1. Параметры подключения: 
+Dial-in User = vpn
+VpnStrategy = L2TP
+DataEncryption = Requested
+PrerequisiteEntry = 
+AutoLogon = No
+UseRasCredentials = Yes
+Authentication Type = MS-CHAPv2 
+Ipv4DefaultGateway = Yes
+Ipv4AddressAssignment = By Server
+Ipv4DNSServerAssignment = By Server
+Ipv6DefaultGateway = Yes
+Ipv6AddressAssignment = By Server
+Ipv6DNSServerAssignment = By Server
+IpDnsFlags = 
+IpNBTEnabled = Yes
+UseFlags = Private Connection
+ConnectOnWinlogon = No
+IPsec authentication for L2TP = Pre-shared key."
+5680,"2026-11-19T07:55:01.667Z","Microsoft-Windows-Security-SPP",4,"Information",16394,"Application","TEAlover","Миграция прежних версий без подключения к сети прошла успешно."
+5679,"2026-11-19T07:49:44.282Z","edgeupdate",4,"Information",0,"Application","TEAlover","Service stopped."
+5678,"2026-11-19T07:47:52.840Z","Microsoft-Windows-Security-SPP",4,"Information",16384,"Application","TEAlover","Перезапуск службы защиты программного обеспечения успешно запланирован на 2126-10-26T07:47:52Z. Причина: RulesEngine."
+5677,"2026-11-19T07:47:22.755Z","Microsoft-Windows-Security-SPP",4,"Information",1003,"Application","TEAlover","Служба защиты программного обеспечения завершила проверку состояния лицензирования.
+Идентификатор приложения=0ff1ce15-a989-479d-af46-f275c6370663
+Состояние лицензирования=
+1: d77244dc-2b82-4f0a-b8ae-1fca00b7f3e2, 1, 1 [(0 )(1 )(2 )(3 [0x00000000, 0, 0], [( 6 0xC004F009 30 0)( 1 0x00000000)( 6 0xC004F009 30 0)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)( 11 0x00000000 0xC004F009)])]
+
+"
+5676,"2026-11-19T07:47:22.710Z","Microsoft-Windows-Security-SPP",4,"Information",1003,"Application","TEAlover","Служба защиты программного обеспечения завершила проверку состояния лицензирования.
+Идентификатор приложения=0ff1ce15-a989-479d-af46-f275c6370663
+Состояние лицензирования=
+1: d77244dc-2b82-4f0a-b8ae-1fca00b7f3e2, 1, 1 [(0 )(1 )(2 )(3 [0x00000000, 0, 0], [( 6 0xC004F009 30 0)( 1 0x00000000)( 6 0xC004F009 30 0)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)( 11 0x00000000 0xC004F009)])]
+
+"
+5675,"2026-11-19T07:47:22.671Z","Microsoft-Windows-Security-SPP",4,"Information",1003,"Application","TEAlover","Служба защиты программного обеспечения завершила проверку состояния лицензирования.
+Идентификатор приложения=0ff1ce15-a989-479d-af46-f275c6370663
+Состояние лицензирования=
+1: 4c2f32bf-9d0b-4d8c-8ab1-b4c6a0b9992d, 1, 1 [(0 )(1 )(2 )(3 [0x00000000, 0, 0], [( 6 0xC004F009 30 0)( 1 0x00000000)( 6 0xC004F009 30 0)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)( 11 0x00000000 0xC004F009)])]
+
+"
+5674,"2026-11-19T07:47:22.581Z","Microsoft-Windows-Security-SPP",4,"Information",1003,"Application","TEAlover","Служба защиты программного обеспечения завершила проверку состояния лицензирования.
+Идентификатор приложения=0ff1ce15-a989-479d-af46-f275c6370663
+Состояние лицензирования=
+1: 29b4d918-8b78-447b-aa14-8b3b1b3742ae, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+2: 4ab4d849-aabc-43fb-87ee-3aed02518891, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+3: 4c2f32bf-9d0b-4d8c-8ab1-b4c6a0b9992d, 1, 1 [(0 )(1 )(2 )(3 [0x00000000, 0, 0], [( 6 0xC004F009 30 0)( 1 0x00000000)( 6 0xC004F009 30 0)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)( 11 0x00000000 0xC004F009)])]
+4: 84e442c0-87a0-49b5-bcd1-b161b0b35e4b, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+5: 8d368fc1-9470-4be2-8d66-90e836cbb051, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+6: 8fdb1f1e-663f-4f2e-8fdb-7c35aee7d5ea, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+7: d77244dc-2b82-4f0a-b8ae-1fca00b7f3e2, 1, 1 [(0 )(1 )(2 )(3 [0x00000000, 0, 0], [( 6 0xC004F009 30 0)( 1 0x00000000)( 6 0xC004F009 30 0)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)( 11 0x00000000 0xC004F009)])]
+8: eb074198-7384-4bdd-8e6c-c3342dac8435, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+9: fa187091-8246-47b1-964f-80a0b1e5d69a, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+10: fceda083-1203-402a-8ec4-3d7ed9f3648c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+
+"
+5673,"2026-11-19T07:47:22.258Z","Microsoft-Windows-Security-SPP",4,"Information",16394,"Application","TEAlover","Миграция прежних версий без подключения к сети прошла успешно."
+5672,"2026-11-19T07:46:02.973Z","Microsoft-Windows-Security-SPP",4,"Information",16384,"Application","TEAlover","Перезапуск службы защиты программного обеспечения успешно запланирован на 2126-10-26T07:46:02Z. Причина: RulesEngine."
+5671,"2026-11-19T07:45:22.250Z","Microsoft-Windows-Security-SPP",4,"Information",1003,"Application","TEAlover","Служба защиты программного обеспечения завершила проверку состояния лицензирования.
+Идентификатор приложения=0ff1ce15-a989-479d-af46-f275c6370663
+Состояние лицензирования=
+1: d77244dc-2b82-4f0a-b8ae-1fca00b7f3e2, 1, 1 [(0 )(1 )(2 )(3 [0x00000000, 0, 0], [( 6 0xC004F009 30 0)( 1 0x00000000)( 6 0xC004F009 30 0)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)( 11 0x00000000 0xC004F009)])]
+
+"
+5670,"2026-11-19T07:45:22.195Z","Microsoft-Windows-Security-SPP",4,"Information",1003,"Application","TEAlover","Служба защиты программного обеспечения завершила проверку состояния лицензирования.
+Идентификатор приложения=0ff1ce15-a989-479d-af46-f275c6370663
+Состояние лицензирования=
+1: d77244dc-2b82-4f0a-b8ae-1fca00b7f3e2, 1, 1 [(0 )(1 )(2 )(3 [0x00000000, 0, 0], [( 6 0xC004F009 30 0)( 1 0x00000000)( 6 0xC004F009 30 0)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)( 11 0x00000000 0xC004F009)])]
+
+"
+5669,"2026-11-19T07:45:22.164Z","Microsoft-Windows-Security-SPP",4,"Information",1003,"Application","TEAlover","Служба защиты программного обеспечения завершила проверку состояния лицензирования.
+Идентификатор приложения=0ff1ce15-a989-479d-af46-f275c6370663
+Состояние лицензирования=
+1: 4c2f32bf-9d0b-4d8c-8ab1-b4c6a0b9992d, 1, 1 [(0 )(1 )(2 )(3 [0x00000000, 0, 0], [( 6 0xC004F009 30 0)( 1 0x00000000)( 6 0xC004F009 30 0)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)( 11 0x00000000 0xC004F009)])]
+
+"
+5668,"2026-11-19T07:45:22.108Z","Microsoft-Windows-Security-SPP",4,"Information",1003,"Application","TEAlover","Служба защиты программного обеспечения завершила проверку состояния лицензирования.
+Идентификатор приложения=0ff1ce15-a989-479d-af46-f275c6370663
+Состояние лицензирования=
+1: 29b4d918-8b78-447b-aa14-8b3b1b3742ae, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+2: 4ab4d849-aabc-43fb-87ee-3aed02518891, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+3: 4c2f32bf-9d0b-4d8c-8ab1-b4c6a0b9992d, 1, 1 [(0 )(1 )(2 )(3 [0x00000000, 0, 0], [( 6 0xC004F009 30 0)( 1 0x00000000)( 6 0xC004F009 30 0)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)( 11 0x00000000 0xC004F009)])]
+4: 84e442c0-87a0-49b5-bcd1-b161b0b35e4b, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+5: 8d368fc1-9470-4be2-8d66-90e836cbb051, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+6: 8fdb1f1e-663f-4f2e-8fdb-7c35aee7d5ea, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+7: d77244dc-2b82-4f0a-b8ae-1fca00b7f3e2, 1, 1 [(0 )(1 )(2 )(3 [0x00000000, 0, 0], [( 6 0xC004F009 30 0)( 1 0x00000000)( 6 0xC004F009 30 0)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)( 11 0x00000000 0xC004F009)])]
+8: eb074198-7384-4bdd-8e6c-c3342dac8435, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+9: fa187091-8246-47b1-964f-80a0b1e5d69a, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+10: fceda083-1203-402a-8ec4-3d7ed9f3648c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+
+"
+5667,"2026-11-19T07:45:21.816Z","Microsoft-Windows-Security-SPP",4,"Information",16394,"Application","TEAlover","Миграция прежних версий без подключения к сети прошла успешно."
+5666,"2026-11-19T07:45:04.456Z","Microsoft-Windows-Security-SPP",4,"Information",16384,"Application","TEAlover","Перезапуск службы защиты программного обеспечения успешно запланирован на 2126-10-26T07:45:04Z. Причина: RulesEngine."
+5665,"2026-11-19T07:44:34.274Z","edgeupdate",4,"Information",0,"Application","TEAlover","Service stopped."
+5664,"2026-11-19T07:44:13.046Z","Microsoft-Windows-Security-SPP",4,"Information",1003,"Application","TEAlover","Служба защиты программного обеспечения завершила проверку состояния лицензирования.
+Идентификатор приложения=0ff1ce15-a989-479d-af46-f275c6370663
+Состояние лицензирования=
+1: d77244dc-2b82-4f0a-b8ae-1fca00b7f3e2, 1, 1 [(0 )(1 )(2 )(3 [0x00000000, 0, 0], [( 6 0xC004F009 30 0)( 1 0x00000000)( 6 0xC004F009 30 0)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)( 11 0x00000000 0xC004F009)])]
+
+"
+5663,"2026-11-19T07:44:12.935Z","Microsoft-Windows-Security-SPP",4,"Information",1003,"Application","TEAlover","Служба защиты программного обеспечения завершила проверку состояния лицензирования.
+Идентификатор приложения=0ff1ce15-a989-479d-af46-f275c6370663
+Состояние лицензирования=
+1: d77244dc-2b82-4f0a-b8ae-1fca00b7f3e2, 1, 1 [(0 )(1 )(2 )(3 [0x00000000, 0, 0], [( 6 0xC004F009 30 0)( 1 0x00000000)( 6 0xC004F009 30 0)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)( 11 0x00000000 0xC004F009)])]
+
+"
+5662,"2026-11-19T07:44:12.857Z","Microsoft-Windows-Security-SPP",4,"Information",1003,"Application","TEAlover","Служба защиты программного обеспечения завершила проверку состояния лицензирования.
+Идентификатор приложения=0ff1ce15-a989-479d-af46-f275c6370663
+Состояние лицензирования=
+1: 4c2f32bf-9d0b-4d8c-8ab1-b4c6a0b9992d, 1, 1 [(0 )(1 )(2 )(3 [0x00000000, 0, 0], [( 6 0xC004F009 30 0)( 1 0x00000000)( 6 0xC004F009 30 0)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)( 11 0x00000000 0xC004F009)])]
+
+"
+5661,"2026-11-19T07:44:12.632Z","Microsoft-Windows-Security-SPP",4,"Information",1003,"Application","TEAlover","Служба защиты программного обеспечения завершила проверку состояния лицензирования.
+Идентификатор приложения=0ff1ce15-a989-479d-af46-f275c6370663
+Состояние лицензирования=
+1: 29b4d918-8b78-447b-aa14-8b3b1b3742ae, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+2: 4ab4d849-aabc-43fb-87ee-3aed02518891, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+3: 4c2f32bf-9d0b-4d8c-8ab1-b4c6a0b9992d, 1, 0 [(0 )(1 )(2 )(3 [0x00000000, 0, 0], [( 6 0xC004F009 30 0)( 1 0x00000000)( 6 0xC004F009 30 0)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)( 11 0x00000000 0xC004F009)])]
+4: 84e442c0-87a0-49b5-bcd1-b161b0b35e4b, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+5: 8d368fc1-9470-4be2-8d66-90e836cbb051, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+6: 8fdb1f1e-663f-4f2e-8fdb-7c35aee7d5ea, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+7: d77244dc-2b82-4f0a-b8ae-1fca00b7f3e2, 1, 0 [(0 )(1 )(2 )(3 [0x00000000, 0, 0], [( 6 0xC004F009 30 0)( 1 0x00000000)( 6 0xC004F009 30 0)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)( 11 0x00000000 0xC004F009)])]
+8: eb074198-7384-4bdd-8e6c-c3342dac8435, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+9: fa187091-8246-47b1-964f-80a0b1e5d69a, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+10: fceda083-1203-402a-8ec4-3d7ed9f3648c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+
+"
+5660,"2026-11-18T21:32:14.599Z","Microsoft-Windows-Security-SPP",4,"Information",1033,"Application","TEAlover","Эти политики исключаются, так как они определены только с атрибутом override-only.
+Имена политик=(Security-SPP-Reserved-EnableNotificationMode) 
+Идентификатор приложения=55c92734-d682-4d71-983e-d6ec3f16059f
+Идентификатор SKU=fe74f55b-0338-41d6-b267-4a201abe7285"
+5659,"2026-11-18T21:32:14.598Z","Microsoft-Windows-Security-SPP",4,"Information",1034,"Application","TEAlover","Обнаружено повторяющееся определение политики. Имя политики=Security-SPP-WriteWauMarker  Приоритет=500"
+5658,"2026-11-18T21:32:14.594Z","Microsoft-Windows-Security-SPP",4,"Information",1034,"Application","TEAlover","Обнаружено повторяющееся определение политики. Имя политики=AAD-AddDeviceJoinUserToAdminGroup-Policy  Приоритет=100"
+5657,"2026-11-18T21:32:14.580Z","Microsoft-Windows-Security-SPP",4,"Information",1034,"Application","TEAlover","Обнаружено повторяющееся определение политики. Имя политики=AAD-AddDeviceJoinUserToAdminGroup-Policy  Приоритет=100"
+5656,"2026-11-18T21:32:14.567Z","Microsoft-Windows-Security-SPP",4,"Information",1034,"Application","TEAlover","Обнаружено повторяющееся определение политики. Имя политики=AAD-AddDeviceJoinUserToAdminGroup-Policy  Приоритет=100"
+5655,"2026-11-18T21:32:14.554Z","Microsoft-Windows-Security-SPP",4,"Information",1034,"Application","TEAlover","Обнаружено повторяющееся определение политики. Имя политики=AAD-AddDeviceJoinUserToAdminGroup-Policy  Приоритет=100"
+5654,"2026-11-18T21:32:14.541Z","Microsoft-Windows-Security-SPP",4,"Information",1034,"Application","TEAlover","Обнаружено повторяющееся определение политики. Имя политики=AAD-AddDeviceJoinUserToAdminGroup-Policy  Приоритет=100"
+5653,"2026-11-18T21:32:14.528Z","Microsoft-Windows-Security-SPP",4,"Information",1034,"Application","TEAlover","Обнаружено повторяющееся определение политики. Имя политики=AAD-AddDeviceJoinUserToAdminGroup-Policy  Приоритет=100"
+5652,"2026-11-18T21:32:14.515Z","Microsoft-Windows-Security-SPP",4,"Information",1034,"Application","TEAlover","Обнаружено повторяющееся определение политики. Имя политики=AAD-AddDeviceJoinUserToAdminGroup-Policy  Приоритет=100"
+5651,"2026-11-18T21:32:14.502Z","Microsoft-Windows-Security-SPP",4,"Information",1034,"Application","TEAlover","Обнаружено повторяющееся определение политики. Имя политики=AAD-AddDeviceJoinUserToAdminGroup-Policy  Приоритет=100"
+5650,"2026-11-18T21:32:14.489Z","Microsoft-Windows-Security-SPP",4,"Information",1034,"Application","TEAlover","Обнаружено повторяющееся определение политики. Имя политики=AAD-AddDeviceJoinUserToAdminGroup-Policy  Приоритет=100"
+5649,"2026-11-18T21:32:14.475Z","Microsoft-Windows-Security-SPP",4,"Information",1034,"Application","TEAlover","Обнаружено повторяющееся определение политики. Имя политики=AAD-AddDeviceJoinUserToAdminGroup-Policy  Приоритет=100"
+5648,"2026-11-18T21:32:14.461Z","Microsoft-Windows-Security-SPP",4,"Information",1034,"Application","TEAlover","Обнаружено повторяющееся определение политики. Имя политики=AAD-AddDeviceJoinUserToAdminGroup-Policy  Приоритет=100"
+5647,"2026-11-18T21:32:13.737Z","Microsoft-Windows-Security-SPP",4,"Information",16394,"Application","TEAlover","Миграция прежних версий без подключения к сети прошла успешно."
+5646,"2026-11-18T20:51:39.242Z","RasClient",4,"Information",20226,"Application","TEAlover","CoID={B71761F9-773D-0004-6D11-1BB73D77DD01}: Пользователь SYSTEM установил удаленное подключение vpn1, которое было прекращено. При прекращении возвращен код причины 631."
+5645,"2026-11-18T20:50:45.131Z","Microsoft-Windows-CertificateServicesClient-CertEnroll",2,"Error",87,"Application","TEAlover","Сбой регистрации сертификата SCEP WORKGROUP\TEALOVER$ через https://INTC-KeyId-ba21136573c2c38a5be57cb6c68bfc23bb36ca58.microsoftaik.azure.net/templates/Aik/scep:
+
+SubmitDone
+Submit(Request): Bad Request
+{""Message"":""No valid TPM EK/Platform certificate provided in the TPM identity request message.""}
+HTTP/1.1 400 Bad Request
+Date: Wed, 18 Nov 2026 20:50:44 GMT
+Content-Length: 96
+Content-Type: application/json; charset=utf-8
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000;includeSubDomains
+x-ms-request-id: 64fd34d2-f3ea-4a77-b81b-b3f9c144316c
+
+Метод: POST(5844ms)
+Стадия: SubmitDone
+Неверный запрос (400). 0x80190190 (-2145844848 HTTP_E_STATUS_BAD_REQUEST)"
+5644,"2026-11-18T20:43:47.116Z","SecurityCenter",4,"Information",15,"Application","TEAlover","Состояние Windows Defender успешно изменено на SECURITY_PRODUCT_STATE_ON."
+5643,"2026-11-18T20:43:47.114Z","Microsoft-Windows-Defrag",4,"Information",264,"Application","TEAlover","Модулю оптимизации дисков не удалось завершить дефрагментация диска на (C:) по следующей причине: Операция отменена пользователем. (0x89000006)"
+5642,"2026-11-18T20:42:54.117Z","SecurityCenter",4,"Information",15,"Application","TEAlover","Состояние Windows Defender успешно изменено на SECURITY_PRODUCT_STATE_ON."
+5641,"2026-11-18T20:42:51.861Z","ESENT",4,"Information",326,"Application","TEAlover","svchost (18568,D,50,0) DS_Token_DB: Tс помощью ядра СУБД присоединена база данных (1, C:\WINDOWS\system32\config\systemprofile\AppData\Local\DataSharing\Storage\DSTokenDB2.dat). (Время =0 секунд)  
+ 
+сохраненного кэша:  1 0 
+дополнительные данные:  lgposAttach = 00000003:000E:0268,
+dbv = 1568.300.620 (9620) 
+ 
+внутренняя последовательность времени:  
+[1] 0.000006 +J(0) +M(C:0K, Fs:1, WS:4K # 0K, PF:0K # 0K, P:0K)
+[2] 0.001268 -0.000481 (1) WT +J(0) +M(C:0K, Fs:17, WS:4K # 12K, PF:4K # 8K, P:4K)
+[3] 0.010920 -0.000979 (8) WT +J(CM:0, PgRf:0, Rd:0/0, Dy:0/0, Lg:255/1) +M(C:0K, Fs:29, WS:100K # 40K, PF:20K # 0K, P:20K)
+[4] 0.001281 +J(0)
+[5] -
+[6] 0.000410 -0.000326 (2) CM -0.000226 (2) WT +J(CM:2, PgRf:2, Rd:0/2, Dy:0/0, Lg:0/0) +M(C:0K, Fs:2, WS:8K # 4K, PF:0K # 0K, P:0K)
+[7] 0.000002 +J(0)
+[8] 0.000490 -0.000314 (1) CM -0.000274 (1) WT +J(CM:1, PgRf:1, Rd:4/1, Dy:0/0, Lg:0/0) +M(C:16K, Fs:24, WS:96K # 96K, PF:208K # 168K, P:208K)
+[9] -
+[10] -
+[11] -
+[12] 0.000011 +J(CM:0, PgRf:0, Rd:0/0, Dy:0/0, Lg:54/1) +M(C:0K, Fs:1, WS:4K # 4K, PF:20K # 16K, P:20K)
+[13] 0.000839 -0.000650 (3) CM -0.000532 (3) WT +J(CM:3, PgRf:23, Rd:0/3, Dy:0/0, Lg:0/0) +M(C:-8K, Fs:21, WS:76K # 76K, PF:-4K # 4K, P:-4K)
+[14] 0.000387 -0.000233 (2) CM -0.000161 (2) WT +J(CM:2, PgRf:40, Rd:0/2, Dy:0/0, Lg:0/0) +M(C:0K, Fs:4, WS:16K # 16K, PF:64K # 56K, P:64K)
+[15] 0.000108 -0.000081 (1) CM -0.000043 (1) WT +J(CM:1, PgRf:1, Rd:0/1, Dy:0/0, Lg:0/0)
+[16] 0.000015 +J(CM:0, PgRf:1, Rd:0/0, Dy:0/0, Lg:0/0) +M(C:0K, Fs:1, WS:4K # 4K, PF:0K # 0K, P:0K)
+[17] 0.000482 -0.000398 (1) CM -0.000359 (1) WT +J(CM:1, PgRf:42, Rd:0/1, Dy:0/0, Lg:0/0) +M(C:0K, Fs:9, WS:36K # 36K, PF:0K # 0K, P:0K)
+[18] 0.000002 +J(0)
+[19] 0.0 +J(0)
+[20] 0.000134 -0.000076 (1) CM -0.000032 (1) WT +J(CM:1, PgRf:3, Rd:0/1, Dy:0/0, Lg:0/0) +M(C:0K, Fs:3, WS:12K # 12K, PF:0K # 0K, P:0K)."
+5640,"2026-11-18T20:42:51.843Z","ESENT",4,"Information",105,"Application","TEAlover","svchost (18568,D,0,0) DS_Token_DB: Tпроцесс базы данных запущен новым экземпляром (0). (Время =0.043 секунд)  
+ 
+дополнительные данные: 
+ lgposV2[] = 00000003:0001:0000 - 00000003:000B:0039 - 00000003:000C:0000 - 00000003:000C:0000 (00000000:0000:0000)
+cReInits = 3
+RBSOn = 0
+ 
+ 
+внутренняя последовательность синхронизации:  
+[1] 0.000780 +J(0) +M(C:0K, Fs:175, WS:676K # 676K, PF:3068K # 3068K, P:3068K)
+[2] 0.000345 +J(0) +M(C:8K, Fs:187, WS:736K # 736K, PF:1284K # 1284K, P:1284K)
+[3] 0.000014 +J(0) +M(C:0K, Fs:9, WS:32K # 32K, PF:68K # 68K, P:68K)
+[4] 0.000278 +J(0) +M(C:0K, Fs:177, WS:708K # 708K, PF:196K # 196K, P:196K)
+[5] 0.001184 +J(0) +M(C:0K, Fs:9, WS:36K # 36K, PF:20K # 20K, P:20K)
+[6] 0.004956 +J(0) +M(C:0K, Fs:65, WS:228K # 228K, PF:76K # 76K, P:76K)
+[7] 0.001541 -0.000322 (2) WT +J(0) +M(C:0K, Fs:42, WS:168K # 168K, PF:64K # 64K, P:64K)
+[8] 0.015805 -0.003963 (13) WT +J(CM:0, PgRf:0, Rd:0/0, Dy:0/0, Lg:44616/30) +M(C:0K, Fs:170, WS:384K # 384K, PF:256K # 260K, P:256K)
+[9] 0.000641 +J(0) +M(C:0K, Fs:16, WS:64K # 64K, PF:4K # 0K, P:4K)
+[10] 0.000931 -0.000238 (1) WT +J(0) +M(C:0K, Fs:2, WS:-52K # 8K, PF:-60K # 0K, P:-60K)
+[11] 0.000031 +J(CM:0, PgRf:0, Rd:0/0, Dy:0/0, Lg:49/1) +M(C:0K, Fs:4, WS:16K # 0K, PF:0K # 0K, P:0K)
+[12] 0.000442 +J(0)
+[13] 0.015290 -0.000527 (2) CM -0.001454 (17) WT +J(CM:2, PgRf:2, Rd:0/2, Dy:0/0, Lg:8759/5) +M(C:0K, Fs:74, WS:184K # 204K, PF:180K # 188K, P:180K)
+[14] 0.000019 +J(0)
+[15] 0.000011 +J(0)
+[16] 0.000643 -0.000066 (1) WT +J(0) +M(C:0K, Fs:2, WS:0K # 0K, PF:0K # 0K, P:0K)."
+5639,"2026-11-18T20:42:51.839Z","ESENT",4,"Information",302,"Application","TEAlover","svchost (18568,U,98,0) DS_Token_DB: СУБД успешно завершила восстановление."
+5638,"2026-11-18T20:42:51.825Z","ESENT",4,"Information",301,"Application","TEAlover","svchost (18568,R,98,0) DS_Token_DB: TСУБД завершила воспроизведение файла журнала C:\WINDOWS\system32\config\systemprofile\AppData\Local\DataSharing\Storage\DSS.log.  
+ 
+Статистика обработки:  
+[1] 0.010699 -0.003038 (9) WT +J(CM:0, PgRf:0, Rd:0/0, Dy:0/0, Lg:44616/30) +M(C:0K, Fs:110, WS:224K # 164K, PF:156K # 96K, P:156K). 
+запись журнала типа 'AttachDB ' была видно чаще (3 время) "
+5637,"2026-11-18T20:42:51.811Z","ESENT",4,"Information",300,"Application","TEAlover","svchost (18568,R,98,0) DS_Token_DB: СУБД осуществляет подготовку к восстановлению."
+5636,"2026-11-18T20:42:51.803Z","ESENT",4,"Information",102,"Application","TEAlover","svchost (18568,P,98,0) DS_Token_DB: Запущен новый экземпляр (0) СУБД (10.00.26200.0000)."
+5635,"2026-11-18T20:37:03.059Z","Microsoft-Windows-AppModel-State",4,"Information",4,"Application","TEAlover","Функция ApiSet возвратила OpenStateExplicit:statespace.cpp,249,80070057;[PackageNameAndPublisherIdFromFamilyName 17];statespace.cpp,308,80070057;[Package windows_ie_ac_001 S-1-5-21-155793978-1671963343-1380538316-1002];statespace.cpp,148,80070057;[Create windows_ie_ac_001 userSid S-1-5-21-155793978-1671963343-1380538316-1002];statemanager.cpp,117,80070057;[Create windows_ie_ac_001]; с результат -2147024809"
+5634,"2026-11-18T20:37:03.056Z","Microsoft-Windows-AppModel-State",4,"Information",4,"Application","TEAlover","Функция ApiSet возвратила OpenStateExplicit:statespace.cpp,249,80070057;[PackageNameAndPublisherIdFromFamilyName 16];statespace.cpp,308,80070057;[Package DesktopSpotlight S-1-5-21-155793978-1671963343-1380538316-1002];statespace.cpp,148,80070057;[Create DesktopSpotlight userSid S-1-5-21-155793978-1671963343-1380538316-1002];statemanager.cpp,117,80070057;[Create DesktopSpotlight]; с результат -2147024809"
+5633,"2026-11-18T20:37:03.056Z","Microsoft-Windows-AppModel-State",4,"Information",4,"Application","TEAlover","Функция ApiSet возвратила OpenStateExplicit:statespace.cpp,249,80070057;[PackageNameAndPublisherIdFromFamilyName 49];statespace.cpp,308,80070057;[Package cr.sb.odmf5200eafd3ad904629cbb0f87a78a3c7211081fe S-1-5-21-155793978-1671963343-1380538316-1002];statespace.cpp,148,80070057;[Create cr.sb.odmf5200eafd3ad904629cbb0f87a78a3c7211081fe userSid S-1-5-21-155793978-1671963343-1380538316-1002];statemanager.cpp,117,80070057;[Create cr.sb.odmf5200eafd3ad904629cbb0f87a78a3c7211081fe]; с результат -2147024809"
+5632,"2026-11-18T20:37:03.056Z","Microsoft-Windows-AppModel-State",4,"Information",4,"Application","TEAlover","Функция ApiSet возвратила OpenStateExplicit:statespace.cpp,249,80070057;[PackageNameAndPublisherIdFromFamilyName 49];statespace.cpp,308,80070057;[Package cr.sb.odm3E4D1A088C1F6D498C84F3C86DE73CE49F82A104 S-1-5-21-155793978-1671963343-1380538316-1002];statespace.cpp,148,80070057;[Create cr.sb.odm3E4D1A088C1F6D498C84F3C86DE73CE49F82A104 userSid S-1-5-21-155793978-1671963343-1380538316-1002];statemanager.cpp,117,80070057;[Create cr.sb.odm3E4D1A088C1F6D498C84F3C86DE73CE49F82A104]; с результат -2147024809"
+5631,"2026-11-18T20:37:03.056Z","Microsoft-Windows-AppModel-State",4,"Information",4,"Application","TEAlover","Функция ApiSet возвратила OpenStateExplicit:statespace.cpp,249,80070057;[PackageNameAndPublisherIdFromFamilyName 10];statespace.cpp,308,80070057;[Package ActiveSync S-1-5-21-155793978-1671963343-1380538316-1002];statespace.cpp,148,80070057;[Create ActiveSync userSid S-1-5-21-155793978-1671963343-1380538316-1002];statemanager.cpp,117,80070057;[Create ActiveSync]; с результат -2147024809"
+5630,"2026-11-18T20:37:03.056Z","Microsoft-Windows-AppModel-State",4,"Information",4,"Application","TEAlover","Функция ApiSet возвратила OpenStateExplicit:statespace.cpp,249,80070057;[PackageNameAndPublisherIdFromFamilyName 2];statespace.cpp,308,80070057;[Package .. S-1-5-21-155793978-1671963343-1380538316-1002];statespace.cpp,148,80070057;[Create .. userSid S-1-5-21-155793978-1671963343-1380538316-1002];statemanager.cpp,117,80070057;[Create ..]; с результат -2147024809"
+5629,"2026-11-18T20:37:03.055Z","Microsoft-Windows-AppModel-State",4,"Information",4,"Application","TEAlover","Функция ApiSet возвратила OpenStateExplicit:statespace.cpp,249,80070057;[PackageNameAndPublisherIdFromFamilyName 1];statespace.cpp,308,80070057;[Package . S-1-5-21-155793978-1671963343-1380538316-1002];statespace.cpp,148,80070057;[Create . userSid S-1-5-21-155793978-1671963343-1380538316-1002];statemanager.cpp,117,80070057;[Create .]; с результат -2147024809"
+5628,"2026-11-18T20:32:28.157Z","Microsoft-Windows-Security-SPP",4,"Information",16384,"Application","TEAlover","Перезапуск службы защиты программного обеспечения успешно запланирован на 2126-10-25T20:32:28Z. Причина: RulesEngine."
+5627,"2026-11-18T20:31:57.494Z","Microsoft-Windows-Security-SPP",4,"Information",1003,"Application","TEAlover","Служба защиты программного обеспечения завершила проверку состояния лицензирования.
+Идентификатор приложения=0ff1ce15-a989-479d-af46-f275c6370663
+Состояние лицензирования=
+1: d77244dc-2b82-4f0a-b8ae-1fca00b7f3e2, 1, 1 [(0 )(1 )(2 )(3 [0x00000000, 0, 0], [( 6 0xC004F009 30 0)( 1 0x00000000)( 6 0xC004F009 30 0)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)( 11 0x00000000 0xC004F009)])]
+
+"
+5626,"2026-11-18T20:31:57.443Z","Microsoft-Windows-Security-SPP",4,"Information",1003,"Application","TEAlover","Служба защиты программного обеспечения завершила проверку состояния лицензирования.
+Идентификатор приложения=0ff1ce15-a989-479d-af46-f275c6370663
+Состояние лицензирования=
+1: d77244dc-2b82-4f0a-b8ae-1fca00b7f3e2, 1, 1 [(0 )(1 )(2 )(3 [0x00000000, 0, 0], [( 6 0xC004F009 30 0)( 1 0x00000000)( 6 0xC004F009 30 0)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)( 11 0x00000000 0xC004F009)])]
+
+"
+5625,"2026-11-18T20:31:57.416Z","Microsoft-Windows-Security-SPP",4,"Information",1003,"Application","TEAlover","Служба защиты программного обеспечения завершила проверку состояния лицензирования.
+Идентификатор приложения=0ff1ce15-a989-479d-af46-f275c6370663
+Состояние лицензирования=
+1: 4c2f32bf-9d0b-4d8c-8ab1-b4c6a0b9992d, 1, 1 [(0 )(1 )(2 )(3 [0x00000000, 0, 0], [( 6 0xC004F009 30 0)( 1 0x00000000)( 6 0xC004F009 30 0)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)( 11 0x00000000 0xC004F009)])]
+
+"
+5624,"2026-11-18T20:31:57.376Z","Microsoft-Windows-Security-SPP",4,"Information",1003,"Application","TEAlover","Служба защиты программного обеспечения завершила проверку состояния лицензирования.
+Идентификатор приложения=0ff1ce15-a989-479d-af46-f275c6370663
+Состояние лицензирования=
+1: 29b4d918-8b78-447b-aa14-8b3b1b3742ae, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+2: 4ab4d849-aabc-43fb-87ee-3aed02518891, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+3: 4c2f32bf-9d0b-4d8c-8ab1-b4c6a0b9992d, 1, 1 [(0 )(1 )(2 )(3 [0x00000000, 0, 0], [( 6 0xC004F009 30 0)( 1 0x00000000)( 6 0xC004F009 30 0)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)( 11 0x00000000 0xC004F009)])]
+4: 84e442c0-87a0-49b5-bcd1-b161b0b35e4b, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+5: 8d368fc1-9470-4be2-8d66-90e836cbb051, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+6: 8fdb1f1e-663f-4f2e-8fdb-7c35aee7d5ea, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+7: d77244dc-2b82-4f0a-b8ae-1fca00b7f3e2, 1, 1 [(0 )(1 )(2 )(3 [0x00000000, 0, 0], [( 6 0xC004F009 30 0)( 1 0x00000000)( 6 0xC004F009 30 0)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)( 11 0x00000000 0xC004F009)])]
+8: eb074198-7384-4bdd-8e6c-c3342dac8435, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+9: fa187091-8246-47b1-964f-80a0b1e5d69a, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+10: fceda083-1203-402a-8ec4-3d7ed9f3648c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+
+"
+5623,"2026-11-18T20:31:57.153Z","Microsoft-Windows-Security-SPP",4,"Information",16394,"Application","TEAlover","Миграция прежних версий без подключения к сети прошла успешно."
+5622,"2026-11-18T20:11:37.825Z","Microsoft-Windows-AppXDeploymentServer/Operational",4,"Information",2562,"Application","TEAlover",""
+5621,"2026-11-18T20:02:10.291Z","SecurityCenter",4,"Information",15,"Application","TEAlover","Состояние Windows Defender успешно изменено на SECURITY_PRODUCT_STATE_ON."
+5620,"2026-11-18T20:01:56.083Z","Microsoft-Windows-Security-SPP",4,"Information",16384,"Application","TEAlover","Перезапуск службы защиты программного обеспечения успешно запланирован на 2126-10-25T20:01:56Z. Причина: RulesEngine."
+5619,"2026-11-18T20:00:57.538Z","Microsoft-Windows-Security-SPP",4,"Information",16394,"Application","TEAlover","Миграция прежних версий без подключения к сети прошла успешно."
+5618,"2026-11-18T20:00:36.862Z","Microsoft-Windows-Security-SPP",4,"Information",16384,"Application","TEAlover","Перезапуск службы защиты программного обеспечения успешно запланирован на 2126-10-25T20:00:36Z. Причина: RulesEngine."
+5617,"2026-11-18T19:59:37.245Z","Microsoft-Windows-Security-SPP",4,"Information",16394,"Application","TEAlover","Миграция прежних версий без подключения к сети прошла успешно."
+5616,"2026-11-18T19:51:32.518Z","Chrome",4,"Information",256,"Application","TEAlover","[13184:11852:1118/225132.516:INFO:chrome\browser\extensions\extension_garbage_collector.cc:212] Garbage collection for extensions on file thread is complete."
+5615,"2026-11-18T19:51:02.840Z","Microsoft-Windows-Security-SPP",4,"Information",16384,"Application","TEAlover","Перезапуск службы защиты программного обеспечения успешно запланирован на 2126-10-25T19:51:02Z. Причина: RulesEngine."
+5614,"2026-11-18T19:50:38.970Z","Microsoft-Windows-CertificateServicesClient-CertEnroll",2,"Error",87,"Application","TEAlover","Сбой регистрации сертификата SCEP WORKGROUP\TEALOVER$ через https://INTC-KeyId-ba21136573c2c38a5be57cb6c68bfc23bb36ca58.microsoftaik.azure.net/templates/Aik/scep:
+
+SubmitDone
+Submit(Request): Bad Request
+{""Message"":""No valid TPM EK/Platform certificate provided in the TPM identity request message.""}
+HTTP/1.1 400 Bad Request
+Date: Wed, 18 Nov 2026 19:50:37 GMT
+Content-Length: 96
+Content-Type: application/json; charset=utf-8
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000;includeSubDomains
+x-ms-request-id: 4d0754f1-6434-4773-84b0-1668e336e20b
+
+Метод: POST(7406ms)
+Стадия: SubmitDone
+Неверный запрос (400). 0x80190190 (-2145844848 HTTP_E_STATUS_BAD_REQUEST)"
+5613,"2026-11-18T19:50:32.079Z","Microsoft-Windows-Security-SPP",4,"Information",1003,"Application","TEAlover","Служба защиты программного обеспечения завершила проверку состояния лицензирования.
+Идентификатор приложения=0ff1ce15-a989-479d-af46-f275c6370663
+Состояние лицензирования=
+1: d77244dc-2b82-4f0a-b8ae-1fca00b7f3e2, 1, 1 [(0 )(1 )(2 )(3 [0x00000000, 0, 0], [( 6 0xC004F009 30 0)( 1 0x00000000)( 6 0xC004F009 30 0)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)( 11 0x00000000 0xC004F009)])]
+
+"
+5612,"2026-11-18T19:50:32.021Z","Microsoft-Windows-Security-SPP",4,"Information",1003,"Application","TEAlover","Служба защиты программного обеспечения завершила проверку состояния лицензирования.
+Идентификатор приложения=0ff1ce15-a989-479d-af46-f275c6370663
+Состояние лицензирования=
+1: d77244dc-2b82-4f0a-b8ae-1fca00b7f3e2, 1, 1 [(0 )(1 )(2 )(3 [0x00000000, 0, 0], [( 6 0xC004F009 30 0)( 1 0x00000000)( 6 0xC004F009 30 0)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)( 11 0x00000000 0xC004F009)])]
+
+"
+5611,"2026-11-18T19:50:31.992Z","Microsoft-Windows-Security-SPP",4,"Information",1003,"Application","TEAlover","Служба защиты программного обеспечения завершила проверку состояния лицензирования.
+Идентификатор приложения=0ff1ce15-a989-479d-af46-f275c6370663
+Состояние лицензирования=
+1: 4c2f32bf-9d0b-4d8c-8ab1-b4c6a0b9992d, 1, 1 [(0 )(1 )(2 )(3 [0x00000000, 0, 0], [( 6 0xC004F009 30 0)( 1 0x00000000)( 6 0xC004F009 30 0)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)( 11 0x00000000 0xC004F009)])]
+
+"
+5610,"2026-11-18T19:50:31.951Z","Microsoft-Windows-Security-SPP",4,"Information",1003,"Application","TEAlover","Служба защиты программного обеспечения завершила проверку состояния лицензирования.
+Идентификатор приложения=0ff1ce15-a989-479d-af46-f275c6370663
+Состояние лицензирования=
+1: 29b4d918-8b78-447b-aa14-8b3b1b3742ae, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+2: 4ab4d849-aabc-43fb-87ee-3aed02518891, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+3: 4c2f32bf-9d0b-4d8c-8ab1-b4c6a0b9992d, 1, 0 [(0 )(1 )(2 )(3 [0x00000000, 0, 0], [( 6 0xC004F009 30 0)( 1 0x00000000)( 6 0xC004F009 30 0)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)( 11 0x00000000 0xC004F009)])]
+4: 84e442c0-87a0-49b5-bcd1-b161b0b35e4b, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+5: 8d368fc1-9470-4be2-8d66-90e836cbb051, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+6: 8fdb1f1e-663f-4f2e-8fdb-7c35aee7d5ea, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+7: d77244dc-2b82-4f0a-b8ae-1fca00b7f3e2, 1, 0 [(0 )(1 )(2 )(3 [0x00000000, 0, 0], [( 6 0xC004F009 30 0)( 1 0x00000000)( 6 0xC004F009 30 0)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)( 11 0x00000000 0xC004F009)])]
+8: eb074198-7384-4bdd-8e6c-c3342dac8435, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+9: fa187091-8246-47b1-964f-80a0b1e5d69a, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+10: fceda083-1203-402a-8ec4-3d7ed9f3648c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+
+"
+5609,"2026-11-18T19:50:31.618Z","Microsoft-Windows-Security-SPP",4,"Information",16394,"Application","TEAlover","Миграция прежних версий без подключения к сети прошла успешно."
+5608,"2026-11-18T19:47:51.218Z","Microsoft-Windows-RestartManager",4,"Information",10001,"Application","TEAlover","Завершение сеанса 2, запущенного ‎2026‎-‎11‎-‎18T19:45:18.450666100Z."
+5607,"2026-11-18T19:46:39.274Z","RasClient",4,"Information",20225,"Application","TEAlover","CoID={B71761F9-773D-0004-6D11-1BB73D77DD01}: Пользователь SYSTEM успешно подключился к серверу удаленного доступа. Имя подключения: vpn1. Параметры подключения:
+TunnelIpAddress = 10.234.22.100
+TunnelIpv6Address = fe80::
+Dial-in User = vpn."
+5606,"2026-11-18T19:46:37.478Z","RasClient",4,"Information",20224,"Application","TEAlover","CoID={B71761F9-773D-0004-6D11-1BB73D77DD01}: Связь с сервером удаленного доступа установлена пользователем SYSTEM."
+5605,"2026-11-18T19:46:37.475Z","RasClient",4,"Information",20223,"Application","TEAlover","CoID={B71761F9-773D-0004-6D11-1BB73D77DD01}: Пользователь SYSTEM успешно установил связь с сервером удаленного доступа с помощью следующего устройства: 
+Server address/Phone Number = 219.100.37.31
+Device = WAN Miniport (L2TP)
+Port = VPN3-1
+MediaType = VPN."
+5604,"2026-11-18T19:46:36.519Z","RasClient",4,"Information",20222,"Application","TEAlover","CoID={B71761F9-773D-0004-6D11-1BB73D77DD01}: Пользователь SYSTEM пытается установить связь с сервером удаленного доступа для подключения vpn1 при помощи следующего устройства: 
+Server address/Phone Number = 219.100.37.31
+Device = WAN Miniport (L2TP)
+Port = VPN3-1
+MediaType = VPN."
+5603,"2026-11-18T19:46:36.498Z","RasClient",4,"Information",20221,"Application","TEAlover","CoID={B71761F9-773D-0004-6D11-1BB73D77DD01}: Пользователь SYSTEM начал выполнять подключение VPN, используя профиль подключения per-user с именем vpn1. Параметры подключения: 
+Dial-in User = vpn
+VpnStrategy = L2TP
+DataEncryption = Requested
+PrerequisiteEntry = 
+AutoLogon = No
+UseRasCredentials = Yes
+Authentication Type = MS-CHAPv2 
+Ipv4DefaultGateway = Yes
+Ipv4AddressAssignment = By Server
+Ipv4DNSServerAssignment = By Server
+Ipv6DefaultGateway = Yes
+Ipv6AddressAssignment = By Server
+Ipv6DNSServerAssignment = By Server
+IpDnsFlags = 
+IpNBTEnabled = Yes
+UseFlags = Private Connection
+ConnectOnWinlogon = No
+IPsec authentication for L2TP = Pre-shared key."
+5602,"2026-11-18T19:45:22.571Z","edgeupdate",4,"Information",0,"Application","TEAlover","Service stopped."
+5601,"2026-11-18T19:45:18.459Z","Microsoft-Windows-RestartManager",4,"Information",10000,"Application","TEAlover","Запуск сеанса 2 - ‎2026‎-‎11‎-‎18T19:45:18.450666100Z."
+5600,"2026-11-18T19:44:37.809Z","Microsoft-Windows-AppXDeploymentServer/Operational",4,"Information",2562,"Application","TEAlover",""
+5599,"2026-11-18T19:44:35.492Z","Microsoft-Windows-Winlogon",4,"Information",6000,"Application","TEAlover","Ошибка обработки события уведомления из-за недоступности подписчика уведомлений winlogon <SessionEnv>."
+5598,"2026-11-18T19:44:33.426Z","Microsoft-Windows-Winlogon",4,"Information",6003,"Application","TEAlover","Ошибка обработки критического события уведомления из-за недоступности подписчика уведомлений winlogon <SessionEnv>."
+5597,"2026-11-18T11:05:48.270Z","Microsoft-Windows-Winlogon",4,"Information",6000,"Application","TEAlover","Ошибка обработки события уведомления из-за недоступности подписчика уведомлений winlogon <SessionEnv>."
+5596,"2026-11-18T11:05:48.210Z","Microsoft-Windows-Winlogon",4,"Information",6000,"Application","TEAlover","Ошибка обработки события уведомления из-за недоступности подписчика уведомлений winlogon <WSearch>."
+5595,"2026-11-18T11:05:24.879Z","RasClient",4,"Information",20226,"Application","TEAlover","CoID={B71761F9-773D-0003-19AE-34B73D77DD01}: Пользователь SYSTEM установил удаленное подключение vpn1, которое было прекращено. При прекращении возвращен код причины 631."
+5594,"2026-11-18T11:04:06.885Z","RasClient",4,"Information",20225,"Application","TEAlover","CoID={B71761F9-773D-0003-19AE-34B73D77DD01}: Пользователь SYSTEM успешно подключился к серверу удаленного доступа. Имя подключения: vpn1. Параметры подключения:
+TunnelIpAddress = 10.234.101.184
+TunnelIpv6Address = fe80::
+Dial-in User = vpn."
+5593,"2026-11-18T11:04:03.789Z","RasClient",4,"Information",20224,"Application","TEAlover","CoID={B71761F9-773D-0003-19AE-34B73D77DD01}: Связь с сервером удаленного доступа установлена пользователем SYSTEM."
+5592,"2026-11-18T11:04:03.774Z","RasClient",4,"Information",20223,"Application","TEAlover","CoID={B71761F9-773D-0003-19AE-34B73D77DD01}: Пользователь SYSTEM успешно установил связь с сервером удаленного доступа с помощью следующего устройства: 
+Server address/Phone Number = 219.100.37.31
+Device = WAN Miniport (L2TP)
+Port = VPN3-1
+MediaType = VPN."
+5591,"2026-11-18T11:04:01.771Z","RasClient",4,"Information",20222,"Application","TEAlover","CoID={B71761F9-773D-0003-19AE-34B73D77DD01}: Пользователь SYSTEM пытается установить связь с сервером удаленного доступа для подключения vpn1 при помощи следующего устройства: 
+Server address/Phone Number = 219.100.37.31
+Device = WAN Miniport (L2TP)
+Port = VPN3-1
+MediaType = VPN."
+5590,"2026-11-18T11:04:01.758Z","RasClient",4,"Information",20221,"Application","TEAlover","CoID={B71761F9-773D-0003-19AE-34B73D77DD01}: Пользователь SYSTEM начал выполнять подключение VPN, используя профиль подключения per-user с именем vpn1. Параметры подключения: 
+Dial-in User = vpn
+VpnStrategy = L2TP
+DataEncryption = Requested
+PrerequisiteEntry = 
+AutoLogon = No
+UseRasCredentials = Yes
+Authentication Type = MS-CHAPv2 
+Ipv4DefaultGateway = Yes
+Ipv4AddressAssignment = By Server
+Ipv4DNSServerAssignment = By Server
+Ipv6DefaultGateway = Yes
+Ipv6AddressAssignment = By Server
+Ipv6DNSServerAssignment = By Server
+IpDnsFlags = 
+IpNBTEnabled = Yes
+UseFlags = Private Connection
+ConnectOnWinlogon = No
+IPsec authentication for L2TP = Pre-shared key."
+5589,"2026-11-18T11:03:56.866Z","RasClient",2,"Error",20227,"Application","TEAlover","CoID={B71761F9-773D-0003-2C54-34B73D77DD01}: Пользователь SYSTEM установил удаленное подключение vpn1, которое завершилось сбоем. Возвращен код ошибки 778."
+5588,"2026-11-18T11:03:56.852Z","RasClient",4,"Information",20291,"Application","TEAlover","vpn1 требует внимания."
+5587,"2026-11-18T11:03:47.341Z","RasClient",4,"Information",20224,"Application","TEAlover","CoID={B71761F9-773D-0003-2C54-34B73D77DD01}: Связь с сервером удаленного доступа установлена пользователем SYSTEM."
+5586,"2026-11-18T11:03:47.340Z","RasClient",4,"Information",20223,"Application","TEAlover","CoID={B71761F9-773D-0003-2C54-34B73D77DD01}: Пользователь SYSTEM успешно установил связь с сервером удаленного доступа с помощью следующего устройства: 
+Server address/Phone Number = 219.100.37.31
+Device = WAN Miniport (L2TP)
+Port = VPN3-1
+MediaType = VPN."
+5585,"2026-11-18T11:03:39.335Z","RasClient",4,"Information",20222,"Application","TEAlover","CoID={B71761F9-773D-0003-2C54-34B73D77DD01}: Пользователь SYSTEM пытается установить связь с сервером удаленного доступа для подключения vpn1 при помощи следующего устройства: 
+Server address/Phone Number = 219.100.37.31
+Device = WAN Miniport (L2TP)
+Port = VPN3-1
+MediaType = VPN."
+5584,"2026-11-18T11:03:39.323Z","RasClient",4,"Information",20221,"Application","TEAlover","CoID={B71761F9-773D-0003-2C54-34B73D77DD01}: Пользователь SYSTEM начал выполнять подключение VPN, используя профиль подключения per-user с именем vpn1. Параметры подключения: 
+Dial-in User = vpn
+VpnStrategy = L2TP
+DataEncryption = Requested
+PrerequisiteEntry = 
+AutoLogon = No
+UseRasCredentials = Yes
+Authentication Type = MS-CHAPv2 
+Ipv4DefaultGateway = Yes
+Ipv4AddressAssignment = By Server
+Ipv4DNSServerAssignment = By Server
+Ipv6DefaultGateway = Yes
+Ipv6AddressAssignment = By Server
+Ipv6DNSServerAssignment = By Server
+IpDnsFlags = 
+IpNBTEnabled = Yes
+UseFlags = Private Connection
+ConnectOnWinlogon = No
+IPsec authentication for L2TP = Pre-shared key."
+5583,"2026-11-18T11:03:22.078Z","RasClient",2,"Error",20227,"Application","TEAlover","CoID={B71761F9-773D-0001-5D42-35B73D77DD01}: Пользователь SYSTEM установил удаленное подключение vpn1, которое завершилось сбоем. Возвращен код ошибки 87."
+5582,"2026-11-18T11:03:22.069Z","RasClient",4,"Information",20291,"Application","TEAlover","vpn1 требует внимания."
+5581,"2026-11-18T11:02:19.418Z","RasClient",4,"Information",20222,"Application","TEAlover","CoID={B71761F9-773D-0001-5D42-35B73D77DD01}: Пользователь SYSTEM пытается установить связь с сервером удаленного доступа для подключения vpn1 при помощи следующего устройства: 
+Server address/Phone Number = 219.100.37.31
+Device = WAN Miniport (L2TP)
+Port = VPN3-1
+MediaType = VPN."
+5580,"2026-11-18T11:02:19.311Z","RasClient",4,"Information",20221,"Application","TEAlover","CoID={B71761F9-773D-0001-5D42-35B73D77DD01}: Пользователь SYSTEM начал выполнять подключение VPN, используя профиль подключения per-user с именем vpn1. Параметры подключения: 
+Dial-in User = vpn
+VpnStrategy = L2TP
+DataEncryption = Requested
+PrerequisiteEntry = 
+AutoLogon = No
+UseRasCredentials = Yes
+Authentication Type = MS-CHAPv2 
+Ipv4DefaultGateway = Yes
+Ipv4AddressAssignment = By Server
+Ipv4DNSServerAssignment = By Server
+Ipv6DefaultGateway = Yes
+Ipv6AddressAssignment = By Server
+Ipv6DNSServerAssignment = By Server
+IpDnsFlags = 
+IpNBTEnabled = Yes
+UseFlags = Private Connection
+ConnectOnWinlogon = No
+IPsec authentication for L2TP = Pre-shared key."
+5579,"2026-11-18T11:02:06.218Z","RasClient",2,"Error",20227,"Application","TEAlover","CoID={B71761F9-773D-0000-45B9-3BB73D77DD01}: Пользователь SYSTEM установил удаленное подключение vpn1, которое завершилось сбоем. Возвращен код ошибки 789."
+5578,"2026-11-18T11:02:06.208Z","RasClient",4,"Information",20291,"Application","TEAlover","vpn1 требует внимания."
+5577,"2026-11-18T11:01:39.630Z","Microsoft-Windows-Security-SPP",4,"Information",16384,"Application","TEAlover","Перезапуск службы защиты программного обеспечения успешно запланирован на 2126-10-25T11:01:39Z. Причина: RulesEngine."
+5576,"2026-11-18T11:01:09.306Z","Microsoft-Windows-Security-SPP",4,"Information",16394,"Application","TEAlover","Миграция прежних версий без подключения к сети прошла успешно."
+5575,"2026-11-18T11:01:01.174Z","RasClient",4,"Information",20222,"Application","TEAlover","CoID={B71761F9-773D-0000-45B9-3BB73D77DD01}: Пользователь SYSTEM пытается установить связь с сервером удаленного доступа для подключения vpn1 при помощи следующего устройства: 
+Server address/Phone Number = 219.100.37.31
+Device = WAN Miniport (L2TP)
+Port = VPN3-1
+MediaType = VPN."
+5574,"2026-11-18T11:01:01.153Z","RasClient",4,"Information",20221,"Application","TEAlover","CoID={B71761F9-773D-0000-45B9-3BB73D77DD01}: Пользователь SYSTEM начал выполнять подключение VPN, используя профиль подключения per-user с именем vpn1. Параметры подключения: 
+Dial-in User = vpn
+VpnStrategy = L2TP
+DataEncryption = Requested
+PrerequisiteEntry = 
+AutoLogon = No
+UseRasCredentials = Yes
+Authentication Type = MS-CHAPv2 
+Ipv4DefaultGateway = Yes
+Ipv4AddressAssignment = By Server
+Ipv4DNSServerAssignment = By Server
+Ipv6DefaultGateway = Yes
+Ipv6AddressAssignment = By Server
+Ipv6DNSServerAssignment = By Server
+IpDnsFlags = 
+IpNBTEnabled = Yes
+UseFlags = Private Connection
+ConnectOnWinlogon = No
+IPsec authentication for L2TP = Pre-shared key."
+5573,"2026-11-18T10:59:19.152Z","Microsoft-Windows-Security-SPP",4,"Information",16384,"Application","TEAlover","Перезапуск службы защиты программного обеспечения успешно запланирован на 2126-10-25T10:59:19Z. Причина: RulesEngine."
+5572,"2026-11-18T10:58:48.855Z","Microsoft-Windows-Security-SPP",4,"Information",16394,"Application","TEAlover","Миграция прежних версий без подключения к сети прошла успешно."
+5571,"2026-11-18T10:50:47.003Z","Microsoft-Windows-Security-SPP",4,"Information",16384,"Application","TEAlover","Перезапуск службы защиты программного обеспечения успешно запланирован на 2126-10-25T10:50:46Z. Причина: RulesEngine."
+5570,"2026-11-18T10:50:16.739Z","Microsoft-Windows-Security-SPP",4,"Information",16394,"Application","TEAlover","Миграция прежних версий без подключения к сети прошла успешно."
+5569,"2026-11-18T10:32:24.191Z","Chrome",4,"Information",256,"Application","TEAlover","[5304:16208:1118/133224.190:INFO:chrome\browser\extensions\extension_garbage_collector.cc:212] Garbage collection for extensions on file thread is complete."
+5568,"2026-11-18T10:30:47.722Z","Microsoft-Windows-Security-SPP",4,"Information",16384,"Application","TEAlover","Перезапуск службы защиты программного обеспечения успешно запланирован на 2126-10-25T10:30:47Z. Причина: RulesEngine."
+5567,"2026-11-18T10:30:01.285Z","Microsoft-Windows-Security-SPP",4,"Information",16394,"Application","TEAlover","Миграция прежних версий без подключения к сети прошла успешно."
+5566,"2026-11-18T09:58:40.377Z","Microsoft-Windows-Security-SPP",4,"Information",16384,"Application","TEAlover","Перезапуск службы защиты программного обеспечения успешно запланирован на 2126-10-25T09:58:40Z. Причина: RulesEngine."
+5565,"2026-11-18T09:58:08.762Z","Microsoft-Windows-Security-SPP",4,"Information",16394,"Application","TEAlover","Миграция прежних версий без подключения к сети прошла успешно."
+5564,"2026-11-18T09:49:07.585Z","Microsoft-Windows-Security-SPP",4,"Information",16384,"Application","TEAlover","Перезапуск службы защиты программного обеспечения успешно запланирован на 2126-10-25T09:49:07Z. Причина: RulesEngine."
+5563,"2026-11-18T09:48:37.263Z","Microsoft-Windows-Security-SPP",4,"Information",16394,"Application","TEAlover","Миграция прежних версий без подключения к сети прошла успешно."
+5562,"2026-11-18T09:48:31.676Z","Microsoft-Windows-Security-SPP",4,"Information",16384,"Application","TEAlover","Перезапуск службы защиты программного обеспечения успешно запланирован на 2126-10-25T09:48:31Z. Причина: RulesEngine."
+5561,"2026-11-18T09:48:29.711Z","SecurityCenter",4,"Information",15,"Application","TEAlover","Состояние Windows Defender успешно изменено на SECURITY_PRODUCT_STATE_ON."
+5560,"2026-11-18T09:47:59.247Z","Microsoft-Windows-Security-SPP",4,"Information",16394,"Application","TEAlover","Миграция прежних версий без подключения к сети прошла успешно."
+5559,"2026-11-18T09:46:38.167Z","Microsoft-Windows-Security-SPP",4,"Information",16384,"Application","TEAlover","Перезапуск службы защиты программного обеспечения успешно запланирован на 2126-10-25T09:46:38Z. Причина: RulesEngine."
+5558,"2026-11-18T09:45:42.393Z","Microsoft-Windows-Security-SPP",4,"Information",16394,"Application","TEAlover","Миграция прежних версий без подключения к сети прошла успешно."
+5557,"2026-11-18T09:45:27.887Z","Microsoft-Windows-Security-SPP",4,"Information",16384,"Application","TEAlover","Перезапуск службы защиты программного обеспечения успешно запланирован на 2126-10-25T09:45:27Z. Причина: RulesEngine."
+5556,"2026-11-18T09:44:55.146Z","Microsoft-Windows-Security-SPP",4,"Information",16394,"Application","TEAlover","Миграция прежних версий без подключения к сети прошла успешно."
+5555,"2026-11-18T09:44:47.927Z","Microsoft-Windows-Security-SPP",4,"Information",16384,"Application","TEAlover","Перезапуск службы защиты программного обеспечения успешно запланирован на 2126-10-25T09:44:47Z. Причина: RulesEngine."
+5554,"2026-11-18T09:44:11.249Z","Windows Error Reporting",4,"Information",1001,"Application","TEAlover","Контейнер ошибки 2299865135160351125, тип 5
+Имя события: StoreAgentScanForUpdatesFailure0
+Отклик: Нет данных
+Идентификатор CAB: 0
+
+Сигнатура проблемы:
+P1: Update;
+P2: 80240438
+P3: 26200
+P4: 9974
+P5: Windows.Desktop
+P6: 
+P7: 
+P8: 
+P9: 
+P10: 
+
+Вложенные файлы:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.afee54c0-c00f-404b-b392-1f72118f2ebb.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\NonCritical_Update;_9c952e75f310898b17d364f76f9a2cbf8de35763_00000000_cab_fa8dcbb9-1b94-4bae-8915-b8e9d7e1ff45\WPR_initiated_DiagTrackMiniLogger_OneTrace_User_Logger_20261113_1_EC_0_inject.etl
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.77527f65-2727-4e8e-971f-0b0b699c7dc0.tmp.etl
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\NonCritical_Update;_9c952e75f310898b17d364f76f9a2cbf8de35763_00000000_cab_fa8dcbb9-1b94-4bae-8915-b8e9d7e1ff45\WPR_initiated_DiagTrackMiniLogger_WPR System Collector_inject.etl
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.fdfe6a67-aa76-4592-80ec-d5a80bc4be14.tmp.etl
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.5cd28b3b-ebda-4414-89c9-ea504e6fd973.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.aa340dcb-7de4-4d83-ad25-e432531b5839.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.895d6af7-9fd2-4a67-b3d0-ee074e314373.tmp.xml
+
+Эти файлы можно найти здесь:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_Update;_9c952e75f310898b17d364f76f9a2cbf8de35763_00000000_fa8dcbb9-1b94-4bae-8915-b8e9d7e1ff45
+
+Символ анализа: 
+Повторный поиск решения: 0
+Идентификатор отчета: fa8dcbb9-1b94-4bae-8915-b8e9d7e1ff45
+Состояние отчета: 268435456
+Хэшированный контейнер: 7c08a4145cb15284ffeac327bc89d995
+Идентификатор GUID CAB: 0"
+5553,"2026-11-18T09:44:07.891Z","Windows Error Reporting",4,"Information",1001,"Application","TEAlover","Контейнер ошибки , тип 0
+Имя события: StoreAgentScanForUpdatesFailure0
+Отклик: Нет данных
+Идентификатор CAB: 0
+
+Сигнатура проблемы:
+P1: Update;
+P2: 80240438
+P3: 26200
+P4: 9974
+P5: Windows.Desktop
+P6: 
+P7: 
+P8: 
+P9: 
+P10: 
+
+Вложенные файлы:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.afee54c0-c00f-404b-b392-1f72118f2ebb.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\NonCritical_Update;_9c952e75f310898b17d364f76f9a2cbf8de35763_00000000_cab_fa8dcbb9-1b94-4bae-8915-b8e9d7e1ff45\WPR_initiated_DiagTrackMiniLogger_OneTrace_User_Logger_20261113_1_EC_0_inject.etl
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.77527f65-2727-4e8e-971f-0b0b699c7dc0.tmp.etl
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\NonCritical_Update;_9c952e75f310898b17d364f76f9a2cbf8de35763_00000000_cab_fa8dcbb9-1b94-4bae-8915-b8e9d7e1ff45\WPR_initiated_DiagTrackMiniLogger_WPR System Collector_inject.etl
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.fdfe6a67-aa76-4592-80ec-d5a80bc4be14.tmp.etl
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.5cd28b3b-ebda-4414-89c9-ea504e6fd973.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.aa340dcb-7de4-4d83-ad25-e432531b5839.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.895d6af7-9fd2-4a67-b3d0-ee074e314373.tmp.xml
+
+Эти файлы можно найти здесь:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\NonCritical_Update;_9c952e75f310898b17d364f76f9a2cbf8de35763_00000000_cab_fa8dcbb9-1b94-4bae-8915-b8e9d7e1ff45
+
+Символ анализа: 
+Повторный поиск решения: 0
+Идентификатор отчета: fa8dcbb9-1b94-4bae-8915-b8e9d7e1ff45
+Состояние отчета: 4
+Хэшированный контейнер: 
+Идентификатор GUID CAB: 0"
+5552,"2026-11-18T09:43:10.141Z","Microsoft-Windows-Security-SPP",4,"Information",16394,"Application","TEAlover","Миграция прежних версий без подключения к сети прошла успешно."
+5551,"2026-11-18T09:40:04.388Z","VSS",4,"Information",8224,"Application","TEAlover","Служба VSS выключается из-за тайм-аута простоя. "
+5550,"2026-11-18T09:39:44.915Z","Microsoft-Windows-Security-SPP",4,"Information",16384,"Application","TEAlover","Перезапуск службы защиты программного обеспечения успешно запланирован на 2126-10-25T09:39:44Z. Причина: RulesEngine."
+5549,"2026-11-18T09:39:14.641Z","Microsoft-Windows-Security-SPP",4,"Information",16394,"Application","TEAlover","Миграция прежних версий без подключения к сети прошла успешно."
+5548,"2026-11-18T09:37:37.334Z","Microsoft-Windows-Security-SPP",4,"Information",16384,"Application","TEAlover","Перезапуск службы защиты программного обеспечения успешно запланирован на 2126-10-25T09:37:37Z. Причина: RulesEngine."
+5547,"2026-11-18T09:37:02.807Z","VSS",4,"Information",8231,"Application","TEAlover","служба теневого копирования томов: инициировано создание моментального снимка для набора моментальных снимков {94b0d00c-3eb9-48a6-80db-5811089a0e3b}.
+ Командная строка процесса: taskhostw.exe
+ стек вызываемой процедуры:
+ Процесс[0]: taskhostw.exe
+ Процесс[1]: svchost.exe
+ Процесс[2]: services.exe
+"
+5546,"2026-11-18T09:27:05.513Z","edgeupdate",4,"Information",0,"Application","TEAlover","Service stopped."
+5545,"2026-11-18T09:26:32.793Z","Microsoft-Windows-Security-SPP",4,"Information",16394,"Application","TEAlover","Миграция прежних версий без подключения к сети прошла успешно."
+5544,"2026-11-18T09:26:32.049Z","Microsoft-Windows-Security-SPP",4,"Information",16384,"Application","TEAlover","Перезапуск службы защиты программного обеспечения успешно запланирован на 2126-10-25T09:26:31Z. Причина: RulesEngine."
+5543,"2026-11-18T09:26:03.689Z","Microsoft-Windows-CertificateServicesClient-CertEnroll",2,"Error",87,"Application","TEAlover","Сбой регистрации сертификата SCEP WORKGROUP\TEALOVER$ через https://INTC-KeyId-ba21136573c2c38a5be57cb6c68bfc23bb36ca58.microsoftaik.azure.net/templates/Aik/scep:
+
+SubmitDone
+Submit(Request): Bad Request
+{""Message"":""No valid TPM EK/Platform certificate provided in the TPM identity request message.""}
+HTTP/1.1 400 Bad Request
+Date: Wed, 18 Nov 2026 09:26:01 GMT
+Content-Length: 96
+Content-Type: application/json; charset=utf-8
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000;includeSubDomains
+x-ms-request-id: 4364b0e7-4a09-40d8-9eeb-a2c144595b3c
+
+Метод: POST(3282ms)
+Стадия: SubmitDone
+Неверный запрос (400). 0x80190190 (-2145844848 HTTP_E_STATUS_BAD_REQUEST)"
+5542,"2026-11-18T09:26:01.669Z","Microsoft-Windows-Security-SPP",4,"Information",16394,"Application","TEAlover","Миграция прежних версий без подключения к сети прошла успешно."
+5541,"2026-11-18T09:25:50.668Z","ASUSSystemAnalysis",4,"Information",0,"Application","TEAlover",""
+5540,"2026-11-18T09:24:08.005Z","Microsoft-Windows-Security-SPP",4,"Information",16384,"Application","TEAlover","Перезапуск службы защиты программного обеспечения успешно запланирован на 2126-10-25T09:24:07Z. Причина: RulesEngine."
+5539,"2026-11-18T09:23:37.441Z","Microsoft-Windows-Security-SPP",4,"Information",16394,"Application","TEAlover","Миграция прежних версий без подключения к сети прошла успешно."
+5538,"2026-11-18T09:20:38.200Z","Microsoft-Windows-Security-SPP",4,"Information",16384,"Application","TEAlover","Перезапуск службы защиты программного обеспечения успешно запланирован на 2126-10-25T09:20:38Z. Причина: RulesEngine."
+5537,"2026-11-18T09:20:32.213Z","SecurityCenter",4,"Information",15,"Application","TEAlover","Состояние Windows Defender успешно изменено на SECURITY_PRODUCT_STATE_ON."
+5536,"2026-11-18T09:20:30.111Z","SecurityCenter",4,"Information",15,"Application","TEAlover","Состояние Windows Defender успешно изменено на SECURITY_PRODUCT_STATE_ON."
+5535,"2026-11-18T09:20:26.116Z","SecurityCenter",4,"Information",1,"Application","TEAlover","Служба центра обеспечения безопасности Windows запущена."
+5534,"2026-11-18T09:20:23.692Z","edgeupdate",4,"Information",0,"Application","TEAlover","Service stopped."
+5533,"2026-11-18T09:20:17.622Z","Microsoft-Windows-CAPI2",4,"Information",4111,"Application","TEAlover","Успешное автоматическое обновление стороннего корневого списка с датой вступления в силу: ‎суббота, ‎7 ‎ноября ‎2026 ‎г. 07:01:09."
+5532,"2026-11-18T09:19:47.302Z","Microsoft-Windows-AppXDeploymentServer/Operational",4,"Information",2562,"Application","TEAlover",""
+5531,"2026-11-18T09:19:39.999Z","Microsoft-Windows-Security-SPP",4,"Information",16394,"Application","TEAlover","Миграция прежних версий без подключения к сети прошла успешно."
+5530,"2026-11-18T09:19:27.573Z","Microsoft-Windows-AppXDeploymentServer/Operational",4,"Information",2562,"Application","TEAlover",""
+5529,"2026-11-18T09:19:21.994Z","Microsoft-Windows-Security-SPP",0,"LogAlways",903,"Application","TEAlover","Служба защиты программного обеспечения остановлена.
+"
+5528,"2026-11-18T09:19:21.987Z","Microsoft-Windows-Security-SPP",4,"Information",16384,"Application","TEAlover","Перезапуск службы защиты программного обеспечения успешно запланирован на 2126-10-25T09:19:21Z. Причина: RulesEngine."
+5527,"2026-11-18T09:18:49.835Z","Microsoft-Windows-Security-SPP",0,"LogAlways",902,"Application","TEAlover","Служба защиты программного обеспечения запущена.
+10.0.26100.9974"
+5526,"2026-11-18T09:18:49.784Z","Microsoft-Windows-Security-SPP",4,"Information",1003,"Application","TEAlover","Служба защиты программного обеспечения завершила проверку состояния лицензирования.
+Идентификатор приложения=55c92734-d682-4d71-983e-d6ec3f16059f
+Состояние лицензирования=
+1: 01eb852c-424d-4060-94b8-c10d799d7364, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+2: 040fa323-92b1-4baf-97a2-5b67feaefddb, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+3: 0724cb7d-3437-4cb7-93cb-830375d0079d, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+4: 0ad2ac98-7bb9-4201-8d92-312299201369, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+5: 19de9b2f-0166-4abb-9534-56ea69a80edb, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+6: 1a9a717a-cf13-4ba5-83c3-0fe25fa868d5, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+7: 221a02da-e2a1-4b75-864c-0a4410a33fdf, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+8: 265f3fad-6a1c-4bdd-ae30-c75efa556ccb, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+9: 291ece0e-9c38-40ca-a9e1-32cc7ec19507, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+10: 2936d1d2-913a-4542-b54e-ce5a602a2a38, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+11: 2c293c26-a45a-4a2a-a350-c69a67097529, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+12: 2de67392-b7a7-462a-b1ca-108dd189f588, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+13: 2ffd8952-423e-4903-b993-72a1aa44cf82, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+14: 30a42c86-b7a0-4a34-8c90-ff177cb2acb7, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+15: 345a5db0-d94f-4e3b-a0c0-7c42f7bc3ebf, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+16: 3502365a-f88a-4ba4-822a-5769d3073b65, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+17: 377333b1-8b5d-48d6-9679-1225c872d37c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+18: 3df374ef-d444-4494-a5a1-4b0d9fd0e203, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+19: 3ebce241-ea87-4946-8a4f-80d00e921dff, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+20: 3f1afc82-f8ac-4f6c-8005-1d233e606eee, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+21: 4322a811-697c-44dc-865e-3e2fdcb86009, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+22: 49cd895b-53b2-4dc4-a5f7-b18aa019ad37, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+23: 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+24: 4f3da0d2-271d-4508-ae81-626b60809a38, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+25: 5d78c4e9-aeb3-4b40-8ac2-6a6005e0ad6d, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+26: 60b3ec1b-9545-4921-821f-311b129dd6f6, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+27: 613d217f-7f13-4268-9907-1662339531cd, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+28: 62f0c100-9c53-4e02-b886-a3528ddfe7f6, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+29: 6365275e-368d-46ca-a0ef-fc0404119333, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+30: 721f9237-9341-4453-a661-09e8baa6cca5, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+31: 73111121-5638-40f6-bc11-f1d7b0d64300, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+32: 7a802526-4c94-4bd1-ba14-835a1aca2120, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+33: 7cb546c0-c7d5-44d8-9a5c-69ecdd782b69, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+34: 80083eae-7031-4394-9e88-4901973d56fe, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+35: 82bbc092-bc50-4e16-8e18-b74fc486aec3, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+36: 8ab9bdd1-1f67-4997-82d9-8878520837d9, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+37: 8b351c9c-f398-4515-9900-09df49427262, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+38: 90da7373-1c51-430b-bf26-c97e9c5cdc31, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+39: 92fb8726-92a8-4ffc-94ce-f82e07444653, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+40: 95dca82f-385d-4d39-b85b-5c73fa285d6f, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+41: 97cde3ae-e908-4b59-ac96-a17645c5b57e, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+42: a48938aa-62fa-4966-9d44-9f04da3f72f2, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+43: b0773a15-df3a-4312-9ad2-83d69648e356, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+44: b4bfe195-541e-4e64-ad23-6177f19e395e, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+45: b68e61d2-68ca-4757-be45-0cc2f3e68eee, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+46: bd3762d7-270d-4760-8fb3-d829ca45278a, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+47: c86d5194-4840-4dae-9c1c-0301003a5ab0, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+48: ca7df2e3-5ea0-47b8-9ac1-b1be4d8edd69, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+49: d552befb-48cc-4327-8f39-47d2d94f987c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+50: d6eadb3b-5ca8-4a6b-986e-35b550756111, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+51: df96023b-dcd9-4be2-afa0-c6c871159ebe, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+52: e0c42288-980c-4788-a014-c080d2e1926e, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+53: e4db50ea-bda1-4566-b047-0ca50abc6f07, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+54: e558417a-5123-4f6f-91e7-385c1c7ca9d4, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+55: e7a950a2-e548-4f10-bf16-02ec848e0643, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+56: eb6d346f-1c60-4643-b960-40ec31596c45, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+57: ec868e65-fadf-4759-b23e-93fe37f2cc29, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+58: ef51e000-2659-4f25-8345-3de70a9cf4c4, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+59: f7af7d09-40e4-419c-a49b-eae366689ebd, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+60: fa755fe6-6739-40b9-8d84-6d0ea3b6d1ab, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+61: fe74f55b-0338-41d6-b267-4a201abe7285, 1, 0 [(0 )(1 )(2 [0x00000000, 1, 0], [(?)( 1 0x00000000)(?)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)(?)])(3 )]
+
+"
+5525,"2026-11-18T09:18:49.773Z","Microsoft-Windows-Security-SPP",4,"Information",1033,"Application","TEAlover","Эти политики исключаются, так как они определены только с атрибутом override-only.
+Имена политик=(Security-SPP-Reserved-EnableNotificationMode) 
+Идентификатор приложения=55c92734-d682-4d71-983e-d6ec3f16059f
+Идентификатор SKU=fe74f55b-0338-41d6-b267-4a201abe7285"
+5524,"2026-11-18T09:18:49.772Z","Microsoft-Windows-Security-SPP",4,"Information",1034,"Application","TEAlover","Обнаружено повторяющееся определение политики. Имя политики=Security-SPP-WriteWauMarker  Приоритет=500"
+5523,"2026-11-18T09:18:49.768Z","Microsoft-Windows-Security-SPP",4,"Information",1034,"Application","TEAlover","Обнаружено повторяющееся определение политики. Имя политики=AAD-AddDeviceJoinUserToAdminGroup-Policy  Приоритет=100"
+5522,"2026-11-18T09:18:49.754Z","Microsoft-Windows-Security-SPP",4,"Information",1034,"Application","TEAlover","Обнаружено повторяющееся определение политики. Имя политики=AAD-AddDeviceJoinUserToAdminGroup-Policy  Приоритет=100"
+5521,"2026-11-18T09:18:49.738Z","Microsoft-Windows-Security-SPP",4,"Information",1034,"Application","TEAlover","Обнаружено повторяющееся определение политики. Имя политики=AAD-AddDeviceJoinUserToAdminGroup-Policy  Приоритет=100"
+5520,"2026-11-18T09:18:49.726Z","Microsoft-Windows-Security-SPP",4,"Information",1034,"Application","TEAlover","Обнаружено повторяющееся определение политики. Имя политики=AAD-AddDeviceJoinUserToAdminGroup-Policy  Приоритет=100"
+5519,"2026-11-18T09:18:49.711Z","Microsoft-Windows-Security-SPP",4,"Information",1034,"Application","TEAlover","Обнаружено повторяющееся определение политики. Имя политики=AAD-AddDeviceJoinUserToAdminGroup-Policy  Приоритет=100"
+5518,"2026-11-18T09:18:49.695Z","Microsoft-Windows-Security-SPP",4,"Information",1034,"Application","TEAlover","Обнаружено повторяющееся определение политики. Имя политики=AAD-AddDeviceJoinUserToAdminGroup-Policy  Приоритет=100"
+5517,"2026-11-18T09:18:49.665Z","Microsoft-Windows-Security-SPP",4,"Information",1034,"Application","TEAlover","Обнаружено повторяющееся определение политики. Имя политики=AAD-AddDeviceJoinUserToAdminGroup-Policy  Приоритет=100"
+5516,"2026-11-18T09:18:49.646Z","Microsoft-Windows-Security-SPP",4,"Information",1034,"Application","TEAlover","Обнаружено повторяющееся определение политики. Имя политики=AAD-AddDeviceJoinUserToAdminGroup-Policy  Приоритет=100"
+5515,"2026-11-18T09:18:49.626Z","Microsoft-Windows-Security-SPP",4,"Information",1034,"Application","TEAlover","Обнаружено повторяющееся определение политики. Имя политики=AAD-AddDeviceJoinUserToAdminGroup-Policy  Приоритет=100"
+5514,"2026-11-18T09:18:49.608Z","Microsoft-Windows-Security-SPP",4,"Information",1034,"Application","TEAlover","Обнаружено повторяющееся определение политики. Имя политики=AAD-AddDeviceJoinUserToAdminGroup-Policy  Приоритет=100"
+5513,"2026-11-18T09:18:49.590Z","Microsoft-Windows-Security-SPP",4,"Information",1034,"Application","TEAlover","Обнаружено повторяющееся определение политики. Имя политики=AAD-AddDeviceJoinUserToAdminGroup-Policy  Приоритет=100"
+5512,"2026-11-18T09:18:48.669Z","Microsoft-Windows-Security-SPP",4,"Information",1066,"Application","TEAlover","Состояние инициализации объектов службы.
+C:\WINDOWS\system32\sppwinob.dll, msft:spp/windowsfunctionality/agent/7.0, 0x00000000, 0x00000000
+C:\WINDOWS\system32\sppobjs.dll, msft:rm/algorithm/inherited/1.0, 0x00000000, 0x00000000
+C:\WINDOWS\system32\sppobjs.dll, msft:rm/algorithm/phone/1.0, 0x00000000, 0x00000000
+C:\WINDOWS\system32\sppobjs.dll, msft:rm/algorithm/pkey/detect, 0x00000000, 0x00000000
+C:\WINDOWS\system32\sppobjs.dll, msft:spp/ActionScheduler/1.0, 0x00000000, 0x00000000
+C:\WINDOWS\system32\sppobjs.dll, msft:spp/TaskScheduler/1.0, 0x00000000, 0x00000000
+C:\WINDOWS\system32\sppobjs.dll, msft:spp/statecollector/pkey, 0x00000000, 0x00000000
+C:\WINDOWS\system32\sppobjs.dll, msft:spp/volume/services/kms/1.0, 0x00000000, 0x00000000
+C:\WINDOWS\system32\sppobjs.dll, msft:spp/volume/services/kms/activationinfo/1.0, 0x00000000, 0x00000000
+"
+5511,"2026-11-18T09:18:48.488Z","Microsoft-Windows-Security-SPP",4,"Information",16394,"Application","TEAlover","Миграция прежних версий без подключения к сети прошла успешно."
+5510,"2026-11-18T09:18:48.415Z","Microsoft-Windows-Security-SPP",4,"Information",900,"Application","TEAlover","Выполняется запуск службы защиты программного обеспечения.
+Параметры:TriggerStarted:6"
+5509,"2026-11-18T09:18:46.641Z","Microsoft-Windows-AppModel-State",4,"Information",4,"Application","TEAlover","Функция ApiSet возвратила DeleteStateAtomValue с результат -2147020584"
+5508,"2026-11-18T09:18:39.361Z","Microsoft-Windows-Search",4,"Information",1003,"Application","TEAlover","Служба Windows Search запущена.
+"
+5507,"2026-11-18T09:18:34.988Z","Microsoft-Windows-Winlogon",4,"Information",6000,"Application","TEAlover","Ошибка обработки события уведомления из-за недоступности подписчика уведомлений winlogon <SessionEnv>."
+5506,"2026-11-18T09:18:34.664Z","Microsoft-Windows-Winlogon",4,"Information",6003,"Application","TEAlover","Ошибка обработки критического события уведомления из-за недоступности подписчика уведомлений winlogon <SessionEnv>."
+5505,"2026-11-18T09:18:23.101Z","Microsoft-Windows-WMI",3,"Warning",63,"Application","TEAlover","Поставщик IntelMEProv зарегистрирован в пространстве имен root\Intel_ME инструментария управления Windows и будет использовать учетную запись LocalSystem. Она обладает повышенными привилегиями, поэтому, если поставщик некорректно олицетворяет запросы пользователей, безопасность может оказаться под угрозой."
+5504,"2026-11-18T09:18:23.097Z","Microsoft-Windows-WMI",3,"Warning",63,"Application","TEAlover","Поставщик IntelMEProv зарегистрирован в пространстве имен root\Intel_ME инструментария управления Windows и будет использовать учетную запись LocalSystem. Она обладает повышенными привилегиями, поэтому, если поставщик некорректно олицетворяет запросы пользователей, безопасность может оказаться под угрозой."
+5503,"2026-11-18T09:18:23.092Z","Microsoft-Windows-WMI",3,"Warning",63,"Application","TEAlover","Поставщик IntelMEProv зарегистрирован в пространстве имен root\Intel_ME инструментария управления Windows и будет использовать учетную запись LocalSystem. Она обладает повышенными привилегиями, поэтому, если поставщик некорректно олицетворяет запросы пользователей, безопасность может оказаться под угрозой."
+5502,"2026-11-18T09:18:23.190Z","Intel Graphics Software Service",4,"Information",0,"Application","TEAlover","Service started successfully."
+5501,"2026-11-18T09:18:23.112Z","WMIRegistrationService",4,"Information",2,"Application","TEAlover","Intel(R) WMI Registration Service has successfully finished WMI Registration."
+5500,"2026-11-18T09:18:20.809Z","Microsoft-Windows-WMI",4,"Information",5617,"Application","TEAlover","Подсистемы службы инструментария управления Windows успешно инициализированы."
+5499,"2026-11-18T09:18:20.536Z","Microsoft-Windows-WMI",4,"Information",5615,"Application","TEAlover","Служба инструментария управления Windows запущена успешно"
+5498,"2026-11-18T09:18:21.241Z","PostgreSQL",4,"Information",0,"Application","TEAlover","Server started and accepting connections
+"
+5497,"2026-11-18T09:18:21.037Z","PostgreSQL",4,"Information",0,"Application","TEAlover","2026-11-18 12:18:21 +03 СООБЩЕНИЕ:  передача вывода в протокол процессу сбора протоколов
+2026-11-18 12:18:21 +03 ПОДСКАЗКА:  В дальнейшем протоколы будут выводиться в каталог ""log"".
+"
+5496,"2026-11-18T09:18:20.697Z","PostgreSQL",4,"Information",0,"Application","TEAlover","Waiting for server startup...
+"
+5495,"2026-11-18T09:18:20.560Z","WMIRegistrationService",4,"Information",0,"Application","TEAlover","Intel(R) WMI Registration Service started."
+5494,"2026-11-18T09:18:20.444Z","RtkAudioUniversalService",4,"Information",0,"Application","TEAlover",""
+5493,"2026-11-18T09:18:20.345Z","AsusAppService",4,"Information",0,"Application","TEAlover",""
+5492,"2026-11-18T09:18:20.344Z","IntelDalJhi",4,"Information",0,"Application","TEAlover","Intel(R) Dynamic Application Loader Host Interface Service started."
+5491,"2026-11-18T09:18:17.593Z","Microsoft-Windows-User Profiles Service",4,"Information",1531,"Application","TEAlover","Служба профилей пользователей успешно запущена.  
+
+"
+5490,"2026-11-15T19:26:23.667Z","Microsoft-Windows-User Profiles Service",4,"Information",1532,"Application","TEAlover","Служба профилей пользователей остановлена.  
+
+"
+5489,"2026-11-15T19:26:23.624Z","RtkAudioUniversalService",4,"Information",0,"Application","TEAlover",""
+5488,"2026-11-15T19:26:14.924Z","Microsoft-Windows-WMI",3,"Warning",63,"Application","TEAlover","Поставщик IntelMEProv зарегистрирован в пространстве имен root\Intel_ME инструментария управления Windows и будет использовать учетную запись LocalSystem. Она обладает повышенными привилегиями, поэтому, если поставщик некорректно олицетворяет запросы пользователей, безопасность может оказаться под угрозой."
+5487,"2026-11-15T19:26:14.920Z","Microsoft-Windows-WMI",3,"Warning",63,"Application","TEAlover","Поставщик IntelMEProv зарегистрирован в пространстве имен root\Intel_ME инструментария управления Windows и будет использовать учетную запись LocalSystem. Она обладает повышенными привилегиями, поэтому, если поставщик некорректно олицетворяет запросы пользователей, безопасность может оказаться под угрозой."
+5486,"2026-11-15T19:26:14.915Z","Microsoft-Windows-WMI",3,"Warning",63,"Application","TEAlover","Поставщик IntelMEProv зарегистрирован в пространстве имен root\Intel_ME инструментария управления Windows и будет использовать учетную запись LocalSystem. Она обладает повышенными привилегиями, поэтому, если поставщик некорректно олицетворяет запросы пользователей, безопасность может оказаться под угрозой."
+5485,"2026-11-15T19:26:15.043Z","Intel Graphics Software Service",4,"Information",0,"Application","TEAlover","Service started successfully."
+5484,"2026-11-15T19:26:14.936Z","WMIRegistrationService",4,"Information",2,"Application","TEAlover","Intel(R) WMI Registration Service has successfully finished WMI Registration."
+5483,"2026-11-15T19:26:12.645Z","Microsoft-Windows-WMI",4,"Information",5617,"Application","TEAlover","Подсистемы службы инструментария управления Windows успешно инициализированы."
+5482,"2026-11-15T19:26:12.402Z","Microsoft-Windows-WMI",4,"Information",5615,"Application","TEAlover","Служба инструментария управления Windows запущена успешно"
+5481,"2026-11-15T19:26:13.098Z","PostgreSQL",4,"Information",0,"Application","TEAlover","Server started and accepting connections
+"
+5480,"2026-11-15T19:26:12.862Z","PostgreSQL",4,"Information",0,"Application","TEAlover","2026-11-15 22:26:12 +03 СООБЩЕНИЕ:  передача вывода в протокол процессу сбора протоколов
+2026-11-15 22:26:12 +03 ПОДСКАЗКА:  В дальнейшем протоколы будут выводиться в каталог ""log"".
+"
+5479,"2026-11-15T19:26:12.548Z","PostgreSQL",4,"Information",0,"Application","TEAlover","Waiting for server startup...
+"
+5478,"2026-11-15T19:26:12.411Z","WMIRegistrationService",4,"Information",0,"Application","TEAlover","Intel(R) WMI Registration Service started."
+5477,"2026-11-15T19:26:12.360Z","AsusAppService",4,"Information",0,"Application","TEAlover",""
+5476,"2026-11-15T19:26:12.342Z","RtkAudioUniversalService",4,"Information",0,"Application","TEAlover",""
+5475,"2026-11-15T19:26:12.192Z","IntelDalJhi",4,"Information",0,"Application","TEAlover","Intel(R) Dynamic Application Loader Host Interface Service started."
+5474,"2026-11-15T19:26:09.432Z","Microsoft-Windows-User Profiles Service",4,"Information",1531,"Application","TEAlover","Служба профилей пользователей успешно запущена.  
+
+"
+5473,"2026-11-15T19:25:40.531Z","Microsoft-Windows-User Profiles Service",4,"Information",1532,"Application","TEAlover","Служба профилей пользователей остановлена.  
+
+"
+5472,"2026-11-15T19:25:40.516Z","RtkAudioUniversalService",4,"Information",0,"Application","TEAlover",""
+5471,"2026-11-15T19:25:39.930Z","Microsoft-Windows-Winlogon",3,"Warning",6004,"Application","TEAlover","Ошибка обработки критического события уведомления подписчика уведомлений winlogon <TrustedInstaller>."
+5470,"2026-11-15T19:25:31.207Z","Microsoft-Windows-CertificateServicesClient-CertEnroll",2,"Error",87,"Application","TEAlover","Сбой регистрации сертификата SCEP WORKGROUP\TEALOVER$ через https://INTC-KeyId-ba21136573c2c38a5be57cb6c68bfc23bb36ca58.microsoftaik.azure.net/templates/Aik/scep:
+
+SubmitDone
+Submit(Request): Bad Request
+{""Message"":""No valid TPM EK/Platform certificate provided in the TPM identity request message.""}
+HTTP/1.1 400 Bad Request
+Date: Sun, 15 Nov 2026 19:25:30 GMT
+Content-Length: 96
+Content-Type: application/json; charset=utf-8
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000;includeSubDomains
+x-ms-request-id: 927749d0-f563-4e0a-b992-099effe1b4d8
+
+Метод: POST(3656ms)
+Стадия: SubmitDone
+Неверный запрос (400). 0x80190190 (-2145844848 HTTP_E_STATUS_BAD_REQUEST)"
+5469,"2026-11-15T19:25:27.459Z","Microsoft-Windows-CertificateServicesClient-CertEnroll",2,"Error",87,"Application","TEAlover","Сбой регистрации сертификата SCEP Локальная система через https://INTC-KeyId-ba21136573c2c38a5be57cb6c68bfc23bb36ca58-v2.microsoftaik.azure.net/templates/Aik/scep:
+
+SubmitDone
+Submit(Request): Bad Request
+{""Message"":""No valid TPM EK/Platform certificate provided in the TPM identity request message.""}
+HTTP/1.1 400 Bad Request
+Date: Sun, 15 Nov 2026 19:25:26 GMT
+Content-Length: 96
+Content-Type: application/json; charset=utf-8
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000;includeSubDomains
+x-ms-request-id: 7fa52803-efee-4428-a443-904fe3f511c4
+
+Метод: POST(1218ms)
+Стадия: SubmitDone
+Неверный запрос (400). 0x80190190 (-2145844848 HTTP_E_STATUS_BAD_REQUEST)"
+5468,"2026-11-15T19:25:25.372Z","Microsoft-Windows-WMI",3,"Warning",63,"Application","TEAlover","Поставщик DMWmiBridgeProv1 зарегистрирован в пространстве имен root\cimv2\mdm\dmmap инструментария управления Windows и будет использовать учетную запись LocalSystem. Она обладает повышенными привилегиями, поэтому, если поставщик некорректно олицетворяет запросы пользователей, безопасность может оказаться под угрозой."
+5467,"2026-11-15T19:25:25.370Z","Microsoft-Windows-WMI",3,"Warning",63,"Application","TEAlover","Поставщик DMWmiBridgeProv1 зарегистрирован в пространстве имен root\cimv2\mdm\dmmap инструментария управления Windows и будет использовать учетную запись LocalSystem. Она обладает повышенными привилегиями, поэтому, если поставщик некорректно олицетворяет запросы пользователей, безопасность может оказаться под угрозой."
+5466,"2026-11-15T19:25:25.368Z","Microsoft-Windows-WMI",3,"Warning",63,"Application","TEAlover","Поставщик DMWmiBridgeProv1 зарегистрирован в пространстве имен root\cimv2\mdm\dmmap инструментария управления Windows и будет использовать учетную запись LocalSystem. Она обладает повышенными привилегиями, поэтому, если поставщик некорректно олицетворяет запросы пользователей, безопасность может оказаться под угрозой."
+5465,"2026-11-15T19:25:25.558Z","Microsoft-Windows-CertificateServicesClient-CertEnroll",2,"Error",87,"Application","TEAlover","Сбой регистрации сертификата SCEP Локальная система через https://INTC-KeyId-ba21136573c2c38a5be57cb6c68bfc23bb36ca58-v2.microsoftaik.azure.net/templates/Aik/scep:
+
+SubmitDone
+Submit(Request): Bad Request
+{""Message"":""No valid TPM EK/Platform certificate provided in the TPM identity request message.""}
+HTTP/1.1 400 Bad Request
+Date: Sun, 15 Nov 2026 19:25:24 GMT
+Content-Length: 96
+Content-Type: application/json; charset=utf-8
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000;includeSubDomains
+x-ms-request-id: b3c72ad9-4ff3-4525-9cb8-db344c7c89d4
+
+Метод: POST(1578ms)
+Стадия: SubmitDone
+Неверный запрос (400). 0x80190190 (-2145844848 HTTP_E_STATUS_BAD_REQUEST)"
+5464,"2026-11-15T19:25:25.134Z","Microsoft-Windows-WMI",3,"Warning",63,"Application","TEAlover","Поставщик DMWmiBridgeProv зарегистрирован в пространстве имен root\cimv2\mdm\dmmap инструментария управления Windows и будет использовать учетную запись LocalSystem. Она обладает повышенными привилегиями, поэтому, если поставщик некорректно олицетворяет запросы пользователей, безопасность может оказаться под угрозой."
+5463,"2026-11-15T19:25:25.132Z","Microsoft-Windows-WMI",3,"Warning",63,"Application","TEAlover","Поставщик DMWmiBridgeProv зарегистрирован в пространстве имен root\cimv2\mdm\dmmap инструментария управления Windows и будет использовать учетную запись LocalSystem. Она обладает повышенными привилегиями, поэтому, если поставщик некорректно олицетворяет запросы пользователей, безопасность может оказаться под угрозой."
+5462,"2026-11-15T19:25:25.130Z","Microsoft-Windows-WMI",3,"Warning",63,"Application","TEAlover","Поставщик DMWmiBridgeProv зарегистрирован в пространстве имен root\cimv2\mdm\dmmap инструментария управления Windows и будет использовать учетную запись LocalSystem. Она обладает повышенными привилегиями, поэтому, если поставщик некорректно олицетворяет запросы пользователей, безопасность может оказаться под угрозой."
+5461,"2026-11-15T19:25:23.287Z","Microsoft-Windows-CertificateServicesClient-CertEnroll",2,"Error",87,"Application","TEAlover","Сбой регистрации сертификата SCEP Локальная система через https://INTC-KeyId-ba21136573c2c38a5be57cb6c68bfc23bb36ca58.microsoftaik.azure.net/templates/Aik/scep:
+
+SubmitDone
+Submit(Request): Bad Request
+{""Message"":""No valid TPM EK/Platform certificate provided in the TPM identity request message.""}
+HTTP/1.1 400 Bad Request
+Date: Sun, 15 Nov 2026 19:25:22 GMT
+Content-Length: 96
+Content-Type: application/json; charset=utf-8
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000;includeSubDomains
+x-ms-request-id: 5f50dac1-bbd5-468b-a70e-e2d60d56b7aa
+
+Метод: POST(2172ms)
+Стадия: SubmitDone
+Неверный запрос (400). 0x80190190 (-2145844848 HTTP_E_STATUS_BAD_REQUEST)"
+5460,"2026-11-15T19:25:13.139Z","Microsoft-Windows-WMI",3,"Warning",63,"Application","TEAlover","Поставщик IntelMEProv зарегистрирован в пространстве имен root\Intel_ME инструментария управления Windows и будет использовать учетную запись LocalSystem. Она обладает повышенными привилегиями, поэтому, если поставщик некорректно олицетворяет запросы пользователей, безопасность может оказаться под угрозой."
+5459,"2026-11-15T19:25:13.132Z","Microsoft-Windows-WMI",3,"Warning",63,"Application","TEAlover","Поставщик IntelMEProv зарегистрирован в пространстве имен root\Intel_ME инструментария управления Windows и будет использовать учетную запись LocalSystem. Она обладает повышенными привилегиями, поэтому, если поставщик некорректно олицетворяет запросы пользователей, безопасность может оказаться под угрозой."
+5458,"2026-11-15T19:25:13.122Z","Microsoft-Windows-WMI",3,"Warning",63,"Application","TEAlover","Поставщик IntelMEProv зарегистрирован в пространстве имен root\Intel_ME инструментария управления Windows и будет использовать учетную запись LocalSystem. Она обладает повышенными привилегиями, поэтому, если поставщик некорректно олицетворяет запросы пользователей, безопасность может оказаться под угрозой."
+5457,"2026-11-15T19:25:13.170Z","WMIRegistrationService",4,"Information",2,"Application","TEAlover","Intel(R) WMI Registration Service has successfully finished WMI Registration."
+5456,"2026-11-15T19:25:12.266Z","Microsoft-Windows-WMI",4,"Information",5617,"Application","TEAlover","Подсистемы службы инструментария управления Windows успешно инициализированы."
+5455,"2026-11-15T19:25:12.070Z","Microsoft-Windows-WMI",4,"Information",5615,"Application","TEAlover","Служба инструментария управления Windows запущена успешно"
+5454,"2026-11-15T19:25:12.759Z","PostgreSQL",4,"Information",0,"Application","TEAlover","Server started and accepting connections
+"
+5453,"2026-11-15T19:25:12.650Z","Intel Graphics Software Service",4,"Information",0,"Application","TEAlover","Service started successfully."
+5452,"2026-11-15T19:25:12.469Z","PostgreSQL",4,"Information",0,"Application","TEAlover","2026-11-15 22:25:12 +03 СООБЩЕНИЕ:  передача вывода в протокол процессу сбора протоколов
+2026-11-15 22:25:12 +03 ПОДСКАЗКА:  В дальнейшем протоколы будут выводиться в каталог ""log"".
+"
+5451,"2026-11-15T19:25:12.197Z","PostgreSQL",4,"Information",0,"Application","TEAlover","Waiting for server startup...
+"
+5450,"2026-11-15T19:25:12.080Z","WMIRegistrationService",4,"Information",0,"Application","TEAlover","Intel(R) WMI Registration Service started."
+5449,"2026-11-15T19:25:11.966Z","RtkAudioUniversalService",4,"Information",0,"Application","TEAlover",""
+5448,"2026-11-15T19:25:11.943Z","IntelDalJhi",4,"Information",0,"Application","TEAlover","Intel(R) Dynamic Application Loader Host Interface Service started."
+5447,"2026-11-15T19:25:11.918Z","AsusAppService",4,"Information",0,"Application","TEAlover",""
+5446,"2026-11-15T19:25:09.101Z","Microsoft-Windows-User Profiles Service",4,"Information",1531,"Application","TEAlover","Служба профилей пользователей успешно запущена.  
+
+"
+5445,"2026-11-15T19:24:31.403Z","Microsoft-Windows-User Profiles Service",4,"Information",1532,"Application","TEAlover","Служба профилей пользователей остановлена.  
+
+"
+5444,"2026-11-15T19:24:31.320Z","RtkAudioUniversalService",4,"Information",0,"Application","TEAlover",""
+5443,"2026-11-15T19:23:35.632Z","Microsoft-Windows-Winlogon",4,"Information",6000,"Application","TEAlover","Ошибка обработки события уведомления из-за недоступности подписчика уведомлений winlogon <SessionEnv>."
+5442,"2026-11-15T19:23:35.612Z","Microsoft-Windows-Winlogon",4,"Information",6000,"Application","TEAlover","Ошибка обработки события уведомления из-за недоступности подписчика уведомлений winlogon <WSearch>."
+5441,"2026-11-15T19:16:39.555Z","Microsoft-Windows-Security-SPP",4,"Information",16384,"Application","TEAlover","Перезапуск службы защиты программного обеспечения успешно запланирован на 2126-10-22T19:16:39Z. Причина: RulesEngine."
+5440,"2026-11-15T19:16:09.088Z","Microsoft-Windows-Security-SPP",4,"Information",1003,"Application","TEAlover","Служба защиты программного обеспечения завершила проверку состояния лицензирования.
+Идентификатор приложения=0ff1ce15-a989-479d-af46-f275c6370663
+Состояние лицензирования=
+1: d77244dc-2b82-4f0a-b8ae-1fca00b7f3e2, 1, 1 [(0 )(1 )(2 )(3 [0x00000000, 0, 0], [( 6 0xC004F009 30 0)( 1 0x00000000)( 6 0xC004F009 30 0)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)( 11 0x00000000 0xC004F009)])]
+
+"
+5439,"2026-11-15T19:16:09.037Z","Microsoft-Windows-Security-SPP",4,"Information",1003,"Application","TEAlover","Служба защиты программного обеспечения завершила проверку состояния лицензирования.
+Идентификатор приложения=0ff1ce15-a989-479d-af46-f275c6370663
+Состояние лицензирования=
+1: d77244dc-2b82-4f0a-b8ae-1fca00b7f3e2, 1, 1 [(0 )(1 )(2 )(3 [0x00000000, 0, 0], [( 6 0xC004F009 30 0)( 1 0x00000000)( 6 0xC004F009 30 0)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)( 11 0x00000000 0xC004F009)])]
+
+"
+5438,"2026-11-15T19:16:09.013Z","Microsoft-Windows-Security-SPP",4,"Information",1003,"Application","TEAlover","Служба защиты программного обеспечения завершила проверку состояния лицензирования.
+Идентификатор приложения=0ff1ce15-a989-479d-af46-f275c6370663
+Состояние лицензирования=
+1: 4c2f32bf-9d0b-4d8c-8ab1-b4c6a0b9992d, 1, 1 [(0 )(1 )(2 )(3 [0x00000000, 0, 0], [( 6 0xC004F009 30 0)( 1 0x00000000)( 6 0xC004F009 30 0)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)( 11 0x00000000 0xC004F009)])]
+
+"
+5437,"2026-11-15T19:16:08.975Z","Microsoft-Windows-Security-SPP",4,"Information",1003,"Application","TEAlover","Служба защиты программного обеспечения завершила проверку состояния лицензирования.
+Идентификатор приложения=0ff1ce15-a989-479d-af46-f275c6370663
+Состояние лицензирования=
+1: 29b4d918-8b78-447b-aa14-8b3b1b3742ae, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+2: 4ab4d849-aabc-43fb-87ee-3aed02518891, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+3: 4c2f32bf-9d0b-4d8c-8ab1-b4c6a0b9992d, 1, 0 [(0 )(1 )(2 )(3 [0x00000000, 0, 0], [( 6 0xC004F009 30 0)( 1 0x00000000)( 6 0xC004F009 30 0)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)( 11 0x00000000 0xC004F009)])]
+4: 84e442c0-87a0-49b5-bcd1-b161b0b35e4b, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+5: 8d368fc1-9470-4be2-8d66-90e836cbb051, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+6: 8fdb1f1e-663f-4f2e-8fdb-7c35aee7d5ea, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+7: d77244dc-2b82-4f0a-b8ae-1fca00b7f3e2, 1, 0 [(0 )(1 )(2 )(3 [0x00000000, 0, 0], [( 6 0xC004F009 30 0)( 1 0x00000000)( 6 0xC004F009 30 0)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)( 11 0x00000000 0xC004F009)])]
+8: eb074198-7384-4bdd-8e6c-c3342dac8435, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+9: fa187091-8246-47b1-964f-80a0b1e5d69a, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+10: fceda083-1203-402a-8ec4-3d7ed9f3648c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+
+"
+5436,"2026-11-15T19:16:08.478Z","Microsoft-Windows-Security-SPP",4,"Information",16394,"Application","TEAlover","Миграция прежних версий без подключения к сети прошла успешно."
+5435,"2026-11-15T18:57:29.877Z","Microsoft-Windows-Security-SPP",4,"Information",16384,"Application","TEAlover","Перезапуск службы защиты программного обеспечения успешно запланирован на 2126-10-22T18:57:29Z. Причина: RulesEngine."
+5434,"2026-11-15T18:57:09.067Z","SecurityCenter",4,"Information",15,"Application","TEAlover","Состояние Windows Defender успешно изменено на SECURITY_PRODUCT_STATE_ON."
+5433,"2026-11-15T18:56:22.316Z","Microsoft-Windows-Security-SPP",4,"Information",16394,"Application","TEAlover","Миграция прежних версий без подключения к сети прошла успешно."
+5432,"2026-11-15T18:52:57.254Z","SecurityCenter",4,"Information",15,"Application","TEAlover","Состояние Windows Defender успешно изменено на SECURITY_PRODUCT_STATE_ON."
+5431,"2026-11-15T18:52:45.689Z","Microsoft-Windows-Security-SPP",4,"Information",16384,"Application","TEAlover","Перезапуск службы защиты программного обеспечения успешно запланирован на 2126-10-22T18:52:45Z. Причина: RulesEngine."
+5430,"2026-11-15T18:51:25.509Z","Microsoft-Windows-Security-SPP",4,"Information",16394,"Application","TEAlover","Миграция прежних версий без подключения к сети прошла успешно."
+5429,"2026-11-15T18:46:35.680Z","Microsoft-Windows-Security-SPP",4,"Information",16384,"Application","TEAlover","Перезапуск службы защиты программного обеспечения успешно запланирован на 2126-10-22T18:46:35Z. Причина: RulesEngine."
+5428,"2026-11-15T18:46:05.288Z","Microsoft-Windows-Security-SPP",4,"Information",16394,"Application","TEAlover","Миграция прежних версий без подключения к сети прошла успешно."
+5427,"2026-11-15T18:45:03.260Z","edgeupdate",4,"Information",0,"Application","TEAlover","Service stopped."
+5426,"2026-11-15T18:44:46.230Z","Microsoft-Windows-AppXDeploymentServer/Operational",4,"Information",2562,"Application","TEAlover",""
+5425,"2026-11-15T18:43:52.375Z","Windows Error Reporting",4,"Information",1001,"Application","TEAlover","Контейнер ошибки , тип 0
+Имя события: crashpad_log
+Отклик: Нет данных
+Идентификатор CAB: 0
+
+Сигнатура проблемы:
+P1: setup.exe
+P2: 157.0.4341.60
+P3: EdgeInstallerError|msedge
+P4: 0x21f
+P5: 
+P6: 
+P7: 
+P8: 
+P9: 
+P10: 
+
+Вложенные файлы:
+\\?\C:\Windows\SystemTemp\msedge_installer.log
+
+Эти файлы можно найти здесь:
+NULL
+
+Символ анализа: 
+Повторный поиск решения: 0
+Идентификатор отчета: a7573db0-7a1c-495b-be40-f08ff33ac9c5
+Состояние отчета: 268697600
+Хэшированный контейнер: 
+Идентификатор GUID CAB: 0"
+5424,"2026-11-15T18:43:52.357Z","Windows Error Reporting",4,"Information",1001,"Application","TEAlover","Контейнер ошибки 1716074878455362981, тип 5
+Имя события: crashpad_log
+Отклик: Нет данных
+Идентификатор CAB: 0
+
+Сигнатура проблемы:
+P1: setup.exe
+P2: 157.0.4341.60
+P3: EdgeInstallerError|msedge
+P4: 0x21f
+P5: 
+P6: 
+P7: 
+P8: 
+P9: 
+P10: 
+
+Вложенные файлы:
+\\?\C:\Windows\SystemTemp\msedge_installer.log
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.53a7e685-ce2b-47d6-9ad4-03f456bbcb62.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.223fabca-d32e-4ac0-be84-a486b77909c8.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.fc9ed111-5ade-4588-a92c-9cfd9d8f9ef4.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.38243de6-d974-4f5e-a634-eb219ebf29ae.tmp.xml
+
+Эти файлы можно найти здесь:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_setup.exe_7d6316e37a34d73a46c63dce788c72da701d7643_00000000_a7573db0-7a1c-495b-be40-f08ff33ac9c5
+
+Символ анализа: 
+Повторный поиск решения: 0
+Идентификатор отчета: a7573db0-7a1c-495b-be40-f08ff33ac9c5
+Состояние отчета: 268435456
+Хэшированный контейнер: 1039997855ab6e8397d0b902824db5a5
+Идентификатор GUID CAB: 0"
+5423,"2026-11-15T18:42:04.292Z","Microsoft-Windows-Security-SPP",4,"Information",16384,"Application","TEAlover","Перезапуск службы защиты программного обеспечения успешно запланирован на 2126-10-22T18:42:04Z. Причина: RulesEngine."
+5422,"2026-11-15T18:41:35.664Z","Microsoft-Windows-Security-SPP",4,"Information",1033,"Application","TEAlover","Эти политики исключаются, так как они определены только с атрибутом override-only.
+Имена политик=(Security-SPP-Reserved-EnableNotificationMode) 
+Идентификатор приложения=55c92734-d682-4d71-983e-d6ec3f16059f
+Идентификатор SKU=fe74f55b-0338-41d6-b267-4a201abe7285"
+5421,"2026-11-15T18:41:35.664Z","Microsoft-Windows-Security-SPP",4,"Information",1034,"Application","TEAlover","Обнаружено повторяющееся определение политики. Имя политики=Security-SPP-WriteWauMarker  Приоритет=500"

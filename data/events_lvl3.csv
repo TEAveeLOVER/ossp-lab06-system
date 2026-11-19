@@ -1,0 +1,1335 @@
+﻿record_id,time_utc,provider,level,level_name,event_id,channel,computer,message
+5715,"2026-11-19T15:54:57.995Z","RasClient",2,"Error",20227,"Application","TEAlover","CoID={B71761F9-773D-0002-199E-65B73D77DD01}: Пользователь SYSTEM установил удаленное подключение vpn1, которое завершилось сбоем. Возвращен код ошибки 789."
+5711,"2026-11-19T15:53:04.180Z","RasClient",2,"Error",20227,"Application","TEAlover","CoID={B71761F9-773D-0002-3FE3-63B73D77DD01}: Пользователь SYSTEM установил удаленное подключение vpn1, которое завершилось сбоем. Возвращен код ошибки 789."
+5707,"2026-11-19T15:51:15.996Z","RasClient",2,"Error",20227,"Application","TEAlover","CoID={B71761F9-773D-0000-1685-63B73D77DD01}: Пользователь SYSTEM установил удаленное подключение vpn1, которое завершилось сбоем. Возвращен код ошибки 789."
+5645,"2026-11-18T20:50:45.131Z","Microsoft-Windows-CertificateServicesClient-CertEnroll",2,"Error",87,"Application","TEAlover","Сбой регистрации сертификата SCEP WORKGROUP\TEALOVER$ через https://INTC-KeyId-ba21136573c2c38a5be57cb6c68bfc23bb36ca58.microsoftaik.azure.net/templates/Aik/scep:
+
+SubmitDone
+Submit(Request): Bad Request
+{""Message"":""No valid TPM EK/Platform certificate provided in the TPM identity request message.""}
+HTTP/1.1 400 Bad Request
+Date: Wed, 18 Nov 2026 20:50:44 GMT
+Content-Length: 96
+Content-Type: application/json; charset=utf-8
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000;includeSubDomains
+x-ms-request-id: 64fd34d2-f3ea-4a77-b81b-b3f9c144316c
+
+Метод: POST(5844ms)
+Стадия: SubmitDone
+Неверный запрос (400). 0x80190190 (-2145844848 HTTP_E_STATUS_BAD_REQUEST)"
+5614,"2026-11-18T19:50:38.970Z","Microsoft-Windows-CertificateServicesClient-CertEnroll",2,"Error",87,"Application","TEAlover","Сбой регистрации сертификата SCEP WORKGROUP\TEALOVER$ через https://INTC-KeyId-ba21136573c2c38a5be57cb6c68bfc23bb36ca58.microsoftaik.azure.net/templates/Aik/scep:
+
+SubmitDone
+Submit(Request): Bad Request
+{""Message"":""No valid TPM EK/Platform certificate provided in the TPM identity request message.""}
+HTTP/1.1 400 Bad Request
+Date: Wed, 18 Nov 2026 19:50:37 GMT
+Content-Length: 96
+Content-Type: application/json; charset=utf-8
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000;includeSubDomains
+x-ms-request-id: 4d0754f1-6434-4773-84b0-1668e336e20b
+
+Метод: POST(7406ms)
+Стадия: SubmitDone
+Неверный запрос (400). 0x80190190 (-2145844848 HTTP_E_STATUS_BAD_REQUEST)"
+5589,"2026-11-18T11:03:56.866Z","RasClient",2,"Error",20227,"Application","TEAlover","CoID={B71761F9-773D-0003-2C54-34B73D77DD01}: Пользователь SYSTEM установил удаленное подключение vpn1, которое завершилось сбоем. Возвращен код ошибки 778."
+5583,"2026-11-18T11:03:22.078Z","RasClient",2,"Error",20227,"Application","TEAlover","CoID={B71761F9-773D-0001-5D42-35B73D77DD01}: Пользователь SYSTEM установил удаленное подключение vpn1, которое завершилось сбоем. Возвращен код ошибки 87."
+5579,"2026-11-18T11:02:06.218Z","RasClient",2,"Error",20227,"Application","TEAlover","CoID={B71761F9-773D-0000-45B9-3BB73D77DD01}: Пользователь SYSTEM установил удаленное подключение vpn1, которое завершилось сбоем. Возвращен код ошибки 789."
+5543,"2026-11-18T09:26:03.689Z","Microsoft-Windows-CertificateServicesClient-CertEnroll",2,"Error",87,"Application","TEAlover","Сбой регистрации сертификата SCEP WORKGROUP\TEALOVER$ через https://INTC-KeyId-ba21136573c2c38a5be57cb6c68bfc23bb36ca58.microsoftaik.azure.net/templates/Aik/scep:
+
+SubmitDone
+Submit(Request): Bad Request
+{""Message"":""No valid TPM EK/Platform certificate provided in the TPM identity request message.""}
+HTTP/1.1 400 Bad Request
+Date: Wed, 18 Nov 2026 09:26:01 GMT
+Content-Length: 96
+Content-Type: application/json; charset=utf-8
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000;includeSubDomains
+x-ms-request-id: 4364b0e7-4a09-40d8-9eeb-a2c144595b3c
+
+Метод: POST(3282ms)
+Стадия: SubmitDone
+Неверный запрос (400). 0x80190190 (-2145844848 HTTP_E_STATUS_BAD_REQUEST)"
+5505,"2026-11-18T09:18:23.101Z","Microsoft-Windows-WMI",3,"Warning",63,"Application","TEAlover","Поставщик IntelMEProv зарегистрирован в пространстве имен root\Intel_ME инструментария управления Windows и будет использовать учетную запись LocalSystem. Она обладает повышенными привилегиями, поэтому, если поставщик некорректно олицетворяет запросы пользователей, безопасность может оказаться под угрозой."
+5504,"2026-11-18T09:18:23.097Z","Microsoft-Windows-WMI",3,"Warning",63,"Application","TEAlover","Поставщик IntelMEProv зарегистрирован в пространстве имен root\Intel_ME инструментария управления Windows и будет использовать учетную запись LocalSystem. Она обладает повышенными привилегиями, поэтому, если поставщик некорректно олицетворяет запросы пользователей, безопасность может оказаться под угрозой."
+5503,"2026-11-18T09:18:23.092Z","Microsoft-Windows-WMI",3,"Warning",63,"Application","TEAlover","Поставщик IntelMEProv зарегистрирован в пространстве имен root\Intel_ME инструментария управления Windows и будет использовать учетную запись LocalSystem. Она обладает повышенными привилегиями, поэтому, если поставщик некорректно олицетворяет запросы пользователей, безопасность может оказаться под угрозой."
+5488,"2026-11-15T19:26:14.924Z","Microsoft-Windows-WMI",3,"Warning",63,"Application","TEAlover","Поставщик IntelMEProv зарегистрирован в пространстве имен root\Intel_ME инструментария управления Windows и будет использовать учетную запись LocalSystem. Она обладает повышенными привилегиями, поэтому, если поставщик некорректно олицетворяет запросы пользователей, безопасность может оказаться под угрозой."
+5487,"2026-11-15T19:26:14.920Z","Microsoft-Windows-WMI",3,"Warning",63,"Application","TEAlover","Поставщик IntelMEProv зарегистрирован в пространстве имен root\Intel_ME инструментария управления Windows и будет использовать учетную запись LocalSystem. Она обладает повышенными привилегиями, поэтому, если поставщик некорректно олицетворяет запросы пользователей, безопасность может оказаться под угрозой."
+5486,"2026-11-15T19:26:14.915Z","Microsoft-Windows-WMI",3,"Warning",63,"Application","TEAlover","Поставщик IntelMEProv зарегистрирован в пространстве имен root\Intel_ME инструментария управления Windows и будет использовать учетную запись LocalSystem. Она обладает повышенными привилегиями, поэтому, если поставщик некорректно олицетворяет запросы пользователей, безопасность может оказаться под угрозой."
+5471,"2026-11-15T19:25:39.930Z","Microsoft-Windows-Winlogon",3,"Warning",6004,"Application","TEAlover","Ошибка обработки критического события уведомления подписчика уведомлений winlogon <TrustedInstaller>."
+5470,"2026-11-15T19:25:31.207Z","Microsoft-Windows-CertificateServicesClient-CertEnroll",2,"Error",87,"Application","TEAlover","Сбой регистрации сертификата SCEP WORKGROUP\TEALOVER$ через https://INTC-KeyId-ba21136573c2c38a5be57cb6c68bfc23bb36ca58.microsoftaik.azure.net/templates/Aik/scep:
+
+SubmitDone
+Submit(Request): Bad Request
+{""Message"":""No valid TPM EK/Platform certificate provided in the TPM identity request message.""}
+HTTP/1.1 400 Bad Request
+Date: Sun, 15 Nov 2026 19:25:30 GMT
+Content-Length: 96
+Content-Type: application/json; charset=utf-8
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000;includeSubDomains
+x-ms-request-id: 927749d0-f563-4e0a-b992-099effe1b4d8
+
+Метод: POST(3656ms)
+Стадия: SubmitDone
+Неверный запрос (400). 0x80190190 (-2145844848 HTTP_E_STATUS_BAD_REQUEST)"
+5469,"2026-11-15T19:25:27.459Z","Microsoft-Windows-CertificateServicesClient-CertEnroll",2,"Error",87,"Application","TEAlover","Сбой регистрации сертификата SCEP Локальная система через https://INTC-KeyId-ba21136573c2c38a5be57cb6c68bfc23bb36ca58-v2.microsoftaik.azure.net/templates/Aik/scep:
+
+SubmitDone
+Submit(Request): Bad Request
+{""Message"":""No valid TPM EK/Platform certificate provided in the TPM identity request message.""}
+HTTP/1.1 400 Bad Request
+Date: Sun, 15 Nov 2026 19:25:26 GMT
+Content-Length: 96
+Content-Type: application/json; charset=utf-8
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000;includeSubDomains
+x-ms-request-id: 7fa52803-efee-4428-a443-904fe3f511c4
+
+Метод: POST(1218ms)
+Стадия: SubmitDone
+Неверный запрос (400). 0x80190190 (-2145844848 HTTP_E_STATUS_BAD_REQUEST)"
+5468,"2026-11-15T19:25:25.372Z","Microsoft-Windows-WMI",3,"Warning",63,"Application","TEAlover","Поставщик DMWmiBridgeProv1 зарегистрирован в пространстве имен root\cimv2\mdm\dmmap инструментария управления Windows и будет использовать учетную запись LocalSystem. Она обладает повышенными привилегиями, поэтому, если поставщик некорректно олицетворяет запросы пользователей, безопасность может оказаться под угрозой."
+5467,"2026-11-15T19:25:25.370Z","Microsoft-Windows-WMI",3,"Warning",63,"Application","TEAlover","Поставщик DMWmiBridgeProv1 зарегистрирован в пространстве имен root\cimv2\mdm\dmmap инструментария управления Windows и будет использовать учетную запись LocalSystem. Она обладает повышенными привилегиями, поэтому, если поставщик некорректно олицетворяет запросы пользователей, безопасность может оказаться под угрозой."
+5466,"2026-11-15T19:25:25.368Z","Microsoft-Windows-WMI",3,"Warning",63,"Application","TEAlover","Поставщик DMWmiBridgeProv1 зарегистрирован в пространстве имен root\cimv2\mdm\dmmap инструментария управления Windows и будет использовать учетную запись LocalSystem. Она обладает повышенными привилегиями, поэтому, если поставщик некорректно олицетворяет запросы пользователей, безопасность может оказаться под угрозой."
+5465,"2026-11-15T19:25:25.558Z","Microsoft-Windows-CertificateServicesClient-CertEnroll",2,"Error",87,"Application","TEAlover","Сбой регистрации сертификата SCEP Локальная система через https://INTC-KeyId-ba21136573c2c38a5be57cb6c68bfc23bb36ca58-v2.microsoftaik.azure.net/templates/Aik/scep:
+
+SubmitDone
+Submit(Request): Bad Request
+{""Message"":""No valid TPM EK/Platform certificate provided in the TPM identity request message.""}
+HTTP/1.1 400 Bad Request
+Date: Sun, 15 Nov 2026 19:25:24 GMT
+Content-Length: 96
+Content-Type: application/json; charset=utf-8
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000;includeSubDomains
+x-ms-request-id: b3c72ad9-4ff3-4525-9cb8-db344c7c89d4
+
+Метод: POST(1578ms)
+Стадия: SubmitDone
+Неверный запрос (400). 0x80190190 (-2145844848 HTTP_E_STATUS_BAD_REQUEST)"
+5464,"2026-11-15T19:25:25.134Z","Microsoft-Windows-WMI",3,"Warning",63,"Application","TEAlover","Поставщик DMWmiBridgeProv зарегистрирован в пространстве имен root\cimv2\mdm\dmmap инструментария управления Windows и будет использовать учетную запись LocalSystem. Она обладает повышенными привилегиями, поэтому, если поставщик некорректно олицетворяет запросы пользователей, безопасность может оказаться под угрозой."
+5463,"2026-11-15T19:25:25.132Z","Microsoft-Windows-WMI",3,"Warning",63,"Application","TEAlover","Поставщик DMWmiBridgeProv зарегистрирован в пространстве имен root\cimv2\mdm\dmmap инструментария управления Windows и будет использовать учетную запись LocalSystem. Она обладает повышенными привилегиями, поэтому, если поставщик некорректно олицетворяет запросы пользователей, безопасность может оказаться под угрозой."
+5462,"2026-11-15T19:25:25.130Z","Microsoft-Windows-WMI",3,"Warning",63,"Application","TEAlover","Поставщик DMWmiBridgeProv зарегистрирован в пространстве имен root\cimv2\mdm\dmmap инструментария управления Windows и будет использовать учетную запись LocalSystem. Она обладает повышенными привилегиями, поэтому, если поставщик некорректно олицетворяет запросы пользователей, безопасность может оказаться под угрозой."
+5461,"2026-11-15T19:25:23.287Z","Microsoft-Windows-CertificateServicesClient-CertEnroll",2,"Error",87,"Application","TEAlover","Сбой регистрации сертификата SCEP Локальная система через https://INTC-KeyId-ba21136573c2c38a5be57cb6c68bfc23bb36ca58.microsoftaik.azure.net/templates/Aik/scep:
+
+SubmitDone
+Submit(Request): Bad Request
+{""Message"":""No valid TPM EK/Platform certificate provided in the TPM identity request message.""}
+HTTP/1.1 400 Bad Request
+Date: Sun, 15 Nov 2026 19:25:22 GMT
+Content-Length: 96
+Content-Type: application/json; charset=utf-8
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000;includeSubDomains
+x-ms-request-id: 5f50dac1-bbd5-468b-a70e-e2d60d56b7aa
+
+Метод: POST(2172ms)
+Стадия: SubmitDone
+Неверный запрос (400). 0x80190190 (-2145844848 HTTP_E_STATUS_BAD_REQUEST)"
+5460,"2026-11-15T19:25:13.139Z","Microsoft-Windows-WMI",3,"Warning",63,"Application","TEAlover","Поставщик IntelMEProv зарегистрирован в пространстве имен root\Intel_ME инструментария управления Windows и будет использовать учетную запись LocalSystem. Она обладает повышенными привилегиями, поэтому, если поставщик некорректно олицетворяет запросы пользователей, безопасность может оказаться под угрозой."
+5459,"2026-11-15T19:25:13.132Z","Microsoft-Windows-WMI",3,"Warning",63,"Application","TEAlover","Поставщик IntelMEProv зарегистрирован в пространстве имен root\Intel_ME инструментария управления Windows и будет использовать учетную запись LocalSystem. Она обладает повышенными привилегиями, поэтому, если поставщик некорректно олицетворяет запросы пользователей, безопасность может оказаться под угрозой."
+5458,"2026-11-15T19:25:13.122Z","Microsoft-Windows-WMI",3,"Warning",63,"Application","TEAlover","Поставщик IntelMEProv зарегистрирован в пространстве имен root\Intel_ME инструментария управления Windows и будет использовать учетную запись LocalSystem. Она обладает повышенными привилегиями, поэтому, если поставщик некорректно олицетворяет запросы пользователей, безопасность может оказаться под угрозой."
+5399,"2026-11-13T12:54:23.974Z","RasClient",2,"Error",20227,"Application","TEAlover","CoID={6BCEA695-6A5A-0002-DC66-A16C5A6ADD01}: Пользователь SYSTEM установил удаленное подключение vpn1, которое завершилось сбоем. Возвращен код ошибки 87."
+5395,"2026-11-13T12:53:13.668Z","RasClient",2,"Error",20227,"Application","TEAlover","CoID={6BCEA695-6A5A-0000-8926-A76C5A6ADD01}: Пользователь SYSTEM установил удаленное подключение vpn1, которое завершилось сбоем. Возвращен код ошибки 789."
+5339,"2026-11-12T23:42:33.014Z","ESENT",3,"Warning",508,"Application","TEAlover","wuaueng.dll (10700,D,0,0) SUS20ClientDataStore: Запрос на запись в файл ""C:\WINDOWS\SoftwareDistribution\DataStore\Logs\edb.log"" со смещением 843776 (0x00000000000ce000) размером 4096 (0x00001000) байт выполнен, но его выполнение в ОС заняло слишком много времени (41 секунд). Вероятно, эта ошибка вызвана сбоем оборудования. Обратитесь к поставщику оборудования, чтобы установить причину ошибки."
+5338,"2026-11-12T23:42:29.747Z","ESENT",3,"Warning",533,"Application","TEAlover","wuaueng.dll (10700,D,0,0) SUS20ClientDataStore: Запрос на запись в файл ""C:\WINDOWS\SoftwareDistribution\DataStore\Logs\edb.log"" со смещением 843776 (0x00000000000ce000) размером 4096 (0x00001000) байт не выполнен в течение 36 с. Скорее всего, данная проблема связана с неисправным оборудованием. Обратитесь к поставщику оборудования, чтобы установить причину проблемы."
+5197,"2026-11-10T09:41:29.695Z",".NET Runtime",2,"Error",1000,"Application","TEAlover","Category: Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware
+EventId: 1
+SpanId: 4a3d151474851472
+TraceId: 3a2d72413dc15a933e4da46ce57e600a
+ParentId: 0000000000000000
+ConnectionId: 0HNPV1R2J4TTP
+RequestId: 0HNPV1R2J4TTP:0000000F
+RequestPath: /api/rooms/luxury
+
+An unhandled exception has occurred while executing the request.
+
+Exception: 
+Microsoft.AspNetCore.Routing.Matching.AmbiguousMatchException: The request matched multiple endpoints. Matches: 
+
+HTTP: GET /api/Rooms/{category?}
+WEB_453504_Поплыко.API.Controllers.RoomsController.GetRoom (WEB_453504_Поплыко.API)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ReportAmbiguity(Span`1 candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ProcessFinalCandidates(HttpContext httpContext, Span`1 candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.Select(HttpContext httpContext, Span`1 candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcher.MatchAsync(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+"
+5196,"2026-11-10T09:41:19.431Z",".NET Runtime",3,"Warning",1000,"Application","TEAlover","Category: Microsoft.EntityFrameworkCore.Query
+EventId: 10102
+SpanId: f310292245635efd
+TraceId: 235f6a21947cea3a59e0da999c2bb0bf
+ParentId: 0000000000000000
+ConnectionId: 0HNPV1R2J4TTP
+RequestId: 0HNPV1R2J4TTP:00000007
+RequestPath: /api/rooms
+ActionId: 73d0bee9-8484-4f91-aa49-98799329ecd5
+ActionName: WEB_453504_Поплыко.API.Controllers.RoomsController.GetRooms (WEB_453504_Поплыко.API)
+
+The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+"
+5195,"2026-11-10T09:41:19.429Z",".NET Runtime",3,"Warning",1000,"Application","TEAlover","Category: Microsoft.EntityFrameworkCore.Query
+EventId: 10102
+SpanId: f310292245635efd
+TraceId: 235f6a21947cea3a59e0da999c2bb0bf
+ParentId: 0000000000000000
+ConnectionId: 0HNPV1R2J4TTP
+RequestId: 0HNPV1R2J4TTP:00000007
+RequestPath: /api/rooms
+ActionId: 73d0bee9-8484-4f91-aa49-98799329ecd5
+ActionName: WEB_453504_Поплыко.API.Controllers.RoomsController.GetRooms (WEB_453504_Поплыко.API)
+
+The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+"
+5194,"2026-11-10T09:40:25.432Z","VBScriptDeprecationAlert",3,"Warning",4096,"Application","TEAlover",""
+5178,"2026-11-06T15:55:52.572Z",".NET Runtime",2,"Error",1000,"Application","TEAlover","Category: Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware
+EventId: 1
+SpanId: 736384bf90b0d51c
+TraceId: 693c61cac85bdc0760dd3cb10beac641
+ParentId: 0000000000000000
+ConnectionId: 0HNPS3PB0NJ85
+RequestId: 0HNPS3PB0NJ85:00000007
+RequestPath: /api/rooms/family
+
+An unhandled exception has occurred while executing the request.
+
+Exception: 
+Microsoft.AspNetCore.Routing.Matching.AmbiguousMatchException: The request matched multiple endpoints. Matches: 
+
+HTTP: GET /api/Rooms/{category?}
+WEB_453504_Поплыко.API.Controllers.RoomsController.GetRoom (WEB_453504_Поплыко.API)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ReportAmbiguity(Span`1 candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ProcessFinalCandidates(HttpContext httpContext, Span`1 candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.Select(HttpContext httpContext, Span`1 candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcher.MatchAsync(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+"
+5176,"2026-11-06T15:55:25.048Z",".NET Runtime",2,"Error",1000,"Application","TEAlover","Category: Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware
+EventId: 1
+SpanId: 1871f6c975e3a0ef
+TraceId: 5de45a501654f732b92a193b206e0d30
+ParentId: 0000000000000000
+ConnectionId: 0HNPS3PB0NJ84
+RequestId: 0HNPS3PB0NJ84:00000015
+RequestPath: /api/rooms/luxury
+
+An unhandled exception has occurred while executing the request.
+
+Exception: 
+Microsoft.AspNetCore.Routing.Matching.AmbiguousMatchException: The request matched multiple endpoints. Matches: 
+
+HTTP: GET /api/Rooms/{category?}
+WEB_453504_Поплыко.API.Controllers.RoomsController.GetRoom (WEB_453504_Поплыко.API)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ReportAmbiguity(Span`1 candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ProcessFinalCandidates(HttpContext httpContext, Span`1 candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.Select(HttpContext httpContext, Span`1 candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcher.MatchAsync(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+"
+5175,"2026-11-06T15:55:14.987Z",".NET Runtime",2,"Error",1000,"Application","TEAlover","Category: Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware
+EventId: 1
+SpanId: cc2c9383c759b177
+TraceId: 0873b6653019d134c93ff9dd2a2fce84
+ParentId: 0000000000000000
+ConnectionId: 0HNPS3PB0NJ84
+RequestId: 0HNPS3PB0NJ84:0000000D
+RequestPath: /api/rooms/standard
+
+An unhandled exception has occurred while executing the request.
+
+Exception: 
+Microsoft.AspNetCore.Routing.Matching.AmbiguousMatchException: The request matched multiple endpoints. Matches: 
+
+HTTP: GET /api/Rooms/{category?}
+WEB_453504_Поплыко.API.Controllers.RoomsController.GetRoom (WEB_453504_Поплыко.API)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ReportAmbiguity(Span`1 candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ProcessFinalCandidates(HttpContext httpContext, Span`1 candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.Select(HttpContext httpContext, Span`1 candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcher.MatchAsync(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+"
+5174,"2026-11-06T15:51:55.609Z",".NET Runtime",3,"Warning",1000,"Application","TEAlover","Category: Microsoft.EntityFrameworkCore.Query
+EventId: 10102
+SpanId: 03f12e8f7e9c72e0
+TraceId: f3525e1214c84eec7e9b3919cf294397
+ParentId: 0000000000000000
+ConnectionId: 0HNPS3NGJLG0U
+RequestId: 0HNPS3NGJLG0U:00000007
+RequestPath: /api/rooms
+ActionId: 5aa8de73-5291-43ee-990b-a681d285189e
+ActionName: WEB_453504_Поплыко.API.Controllers.RoomsController.GetRooms (WEB_453504_Поплыко.API)
+
+The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+"
+5173,"2026-11-06T15:51:55.608Z",".NET Runtime",3,"Warning",1000,"Application","TEAlover","Category: Microsoft.EntityFrameworkCore.Query
+EventId: 10102
+SpanId: 03f12e8f7e9c72e0
+TraceId: f3525e1214c84eec7e9b3919cf294397
+ParentId: 0000000000000000
+ConnectionId: 0HNPS3NGJLG0U
+RequestId: 0HNPS3NGJLG0U:00000007
+RequestPath: /api/rooms
+ActionId: 5aa8de73-5291-43ee-990b-a681d285189e
+ActionName: WEB_453504_Поплыко.API.Controllers.RoomsController.GetRooms (WEB_453504_Поплыко.API)
+
+The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+"
+5169,"2026-11-06T15:47:50.995Z",".NET Runtime",3,"Warning",1000,"Application","TEAlover","Category: Microsoft.EntityFrameworkCore.Query
+EventId: 10102
+SpanId: 42b93f49bb1376bd
+TraceId: 6ac8d2b8cba191bb194215939f41f92f
+ParentId: 0000000000000000
+ConnectionId: 0HNPS3L7LPA86
+RequestId: 0HNPS3L7LPA86:00000007
+RequestPath: /api/rooms
+ActionId: 8bc1f776-026d-4e1e-937a-ba2e1071a91c
+ActionName: WEB_453504_Поплыко.API.Controllers.RoomsController.GetRooms (WEB_453504_Поплыко.API)
+
+The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+"
+5168,"2026-11-06T15:47:50.992Z",".NET Runtime",3,"Warning",1000,"Application","TEAlover","Category: Microsoft.EntityFrameworkCore.Query
+EventId: 10102
+SpanId: 42b93f49bb1376bd
+TraceId: 6ac8d2b8cba191bb194215939f41f92f
+ParentId: 0000000000000000
+ConnectionId: 0HNPS3L7LPA86
+RequestId: 0HNPS3L7LPA86:00000007
+RequestPath: /api/rooms
+ActionId: 8bc1f776-026d-4e1e-937a-ba2e1071a91c
+ActionName: WEB_453504_Поплыко.API.Controllers.RoomsController.GetRooms (WEB_453504_Поплыко.API)
+
+The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+"
+5167,"2026-11-06T15:39:20.146Z",".NET Runtime",3,"Warning",1000,"Application","TEAlover","Category: Microsoft.EntityFrameworkCore.Query
+EventId: 10102
+SpanId: 071e163ddb714538
+TraceId: b98a2ae48b511e81e01cff336218133e
+ParentId: 0000000000000000
+ConnectionId: 0HNPS3GFFDTPB
+RequestId: 0HNPS3GFFDTPB:00000007
+RequestPath: /api/rooms
+ActionId: 2e91badc-0e8d-4913-b23d-7695d8fb21b1
+ActionName: WEB_453504_Поплыко.API.Controllers.RoomsController.GetRooms (WEB_453504_Поплыко.API)
+
+The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+"
+5166,"2026-11-06T15:39:20.145Z",".NET Runtime",3,"Warning",1000,"Application","TEAlover","Category: Microsoft.EntityFrameworkCore.Query
+EventId: 10102
+SpanId: 071e163ddb714538
+TraceId: b98a2ae48b511e81e01cff336218133e
+ParentId: 0000000000000000
+ConnectionId: 0HNPS3GFFDTPB
+RequestId: 0HNPS3GFFDTPB:00000007
+RequestPath: /api/rooms
+ActionId: 2e91badc-0e8d-4913-b23d-7695d8fb21b1
+ActionName: WEB_453504_Поплыко.API.Controllers.RoomsController.GetRooms (WEB_453504_Поплыко.API)
+
+The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+"
+5161,"2026-11-06T15:36:11.262Z",".NET Runtime",3,"Warning",1000,"Application","TEAlover","Category: Microsoft.EntityFrameworkCore.Query
+EventId: 10102
+SpanId: 151c1de53b74b4bd
+TraceId: bcbd79e3c165d7e878545035f7e8c383
+ParentId: 0000000000000000
+ConnectionId: 0HNPS3EN46E7E
+RequestId: 0HNPS3EN46E7E:00000007
+RequestPath: /api/rooms
+ActionId: e2b27a99-df52-43ff-b59f-8d5a780abb0f
+ActionName: WEB_453504_Поплыко.API.Controllers.RoomsController.GetRooms (WEB_453504_Поплыко.API)
+
+The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+"
+5160,"2026-11-06T15:36:11.261Z",".NET Runtime",3,"Warning",1000,"Application","TEAlover","Category: Microsoft.EntityFrameworkCore.Query
+EventId: 10102
+SpanId: 151c1de53b74b4bd
+TraceId: bcbd79e3c165d7e878545035f7e8c383
+ParentId: 0000000000000000
+ConnectionId: 0HNPS3EN46E7E
+RequestId: 0HNPS3EN46E7E:00000007
+RequestPath: /api/rooms
+ActionId: e2b27a99-df52-43ff-b59f-8d5a780abb0f
+ActionName: WEB_453504_Поплыко.API.Controllers.RoomsController.GetRooms (WEB_453504_Поплыко.API)
+
+The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+"
+5146,"2026-11-06T15:21:48.618Z",".NET Runtime",3,"Warning",1000,"Application","TEAlover","Category: Microsoft.EntityFrameworkCore.Query
+EventId: 10102
+SpanId: 804ef7393b970633
+TraceId: 381a4cf077faaad5e880d3ce4ae4492a
+ParentId: 0000000000000000
+ConnectionId: 0HNPS36M1GPUR
+RequestId: 0HNPS36M1GPUR:00000007
+RequestPath: /api/rooms
+ActionId: 95e64a21-01ea-409d-ad4b-1edd8c76b99b
+ActionName: WEB_453504_Поплыко.API.Controllers.RoomsController.GetRooms (WEB_453504_Поплыко.API)
+
+The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+"
+5145,"2026-11-06T15:21:48.616Z",".NET Runtime",3,"Warning",1000,"Application","TEAlover","Category: Microsoft.EntityFrameworkCore.Query
+EventId: 10102
+SpanId: 804ef7393b970633
+TraceId: 381a4cf077faaad5e880d3ce4ae4492a
+ParentId: 0000000000000000
+ConnectionId: 0HNPS36M1GPUR
+RequestId: 0HNPS36M1GPUR:00000007
+RequestPath: /api/rooms
+ActionId: 95e64a21-01ea-409d-ad4b-1edd8c76b99b
+ActionName: WEB_453504_Поплыко.API.Controllers.RoomsController.GetRooms (WEB_453504_Поплыко.API)
+
+The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+"
+5143,"2026-11-06T15:18:04.517Z",".NET Runtime",3,"Warning",1000,"Application","TEAlover","Category: Microsoft.EntityFrameworkCore.Query
+EventId: 10102
+SpanId: 174033276cb06915
+TraceId: 62d5108f46eddaea496bbb5c68d1f349
+ParentId: 0000000000000000
+ConnectionId: 0HNPS34JA5RAE
+RequestId: 0HNPS34JA5RAE:00000007
+RequestPath: /api/rooms
+ActionId: ab0bd063-2d0e-42a6-954e-035c322ffc10
+ActionName: WEB_453504_Поплыко.API.Controllers.RoomsController.GetRooms (WEB_453504_Поплыко.API)
+
+The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+"
+5142,"2026-11-06T15:18:04.515Z",".NET Runtime",3,"Warning",1000,"Application","TEAlover","Category: Microsoft.EntityFrameworkCore.Query
+EventId: 10102
+SpanId: 174033276cb06915
+TraceId: 62d5108f46eddaea496bbb5c68d1f349
+ParentId: 0000000000000000
+ConnectionId: 0HNPS34JA5RAE
+RequestId: 0HNPS34JA5RAE:00000007
+RequestPath: /api/rooms
+ActionId: ab0bd063-2d0e-42a6-954e-035c322ffc10
+ActionName: WEB_453504_Поплыко.API.Controllers.RoomsController.GetRooms (WEB_453504_Поплыко.API)
+
+The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+"
+5127,"2026-11-06T14:39:09.299Z",".NET Runtime",3,"Warning",1000,"Application","TEAlover","Category: Microsoft.EntityFrameworkCore.Query
+EventId: 10102
+SpanId: 6caafaa828df1c10
+TraceId: 6ae84232363e37176de09a0bde15cb8a
+ParentId: 0000000000000000
+ConnectionId: 0HNPS2EPIHMP2
+RequestId: 0HNPS2EPIHMP2:00000009
+RequestPath: /api/rooms
+ActionId: 65ec83eb-a6a3-47d9-aaad-6370cd3dff77
+ActionName: WEB_453504_Поплыко.API.Controllers.RoomsController.GetRooms (WEB_453504_Поплыко.API)
+
+The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+"
+5126,"2026-11-06T14:39:09.297Z",".NET Runtime",3,"Warning",1000,"Application","TEAlover","Category: Microsoft.EntityFrameworkCore.Query
+EventId: 10102
+SpanId: 6caafaa828df1c10
+TraceId: 6ae84232363e37176de09a0bde15cb8a
+ParentId: 0000000000000000
+ConnectionId: 0HNPS2EPIHMP2
+RequestId: 0HNPS2EPIHMP2:00000009
+RequestPath: /api/rooms
+ActionId: 65ec83eb-a6a3-47d9-aaad-6370cd3dff77
+ActionName: WEB_453504_Поплыко.API.Controllers.RoomsController.GetRooms (WEB_453504_Поплыко.API)
+
+The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+"
+5123,"2026-11-06T14:29:39.384Z",".NET Runtime",3,"Warning",1000,"Application","TEAlover","Category: Microsoft.EntityFrameworkCore.Query
+EventId: 10102
+SpanId: f7198c4b7a07d19c
+TraceId: 54d3414b04c603847c59a9263b79af44
+ParentId: 0000000000000000
+ConnectionId: 0HNPS29HL01FH
+RequestId: 0HNPS29HL01FH:00000007
+RequestPath: /api/rooms
+ActionId: e92af96c-0115-4360-9cb4-d085df70e77f
+ActionName: WEB_453504_Поплыко.API.Controllers.RoomsController.GetRooms (WEB_453504_Поплыко.API)
+
+The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+"
+5122,"2026-11-06T14:29:39.382Z",".NET Runtime",3,"Warning",1000,"Application","TEAlover","Category: Microsoft.EntityFrameworkCore.Query
+EventId: 10102
+SpanId: f7198c4b7a07d19c
+TraceId: 54d3414b04c603847c59a9263b79af44
+ParentId: 0000000000000000
+ConnectionId: 0HNPS29HL01FH
+RequestId: 0HNPS29HL01FH:00000007
+RequestPath: /api/rooms
+ActionId: e92af96c-0115-4360-9cb4-d085df70e77f
+ActionName: WEB_453504_Поплыко.API.Controllers.RoomsController.GetRooms (WEB_453504_Поплыко.API)
+
+The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+"
+5117,"2026-11-06T14:04:24.801Z",".NET Runtime",3,"Warning",1000,"Application","TEAlover","Category: Microsoft.EntityFrameworkCore.Query
+EventId: 10102
+SpanId: bb68c9d6a83650b0
+TraceId: 69fd6961d1f12825eb723761bf9bd578
+ParentId: 0000000000000000
+ConnectionId: 0HNPS1REDV583
+RequestId: 0HNPS1REDV583:00000007
+RequestPath: /api/rooms
+ActionId: 90a37786-cd3c-45e3-9561-f7c4359bcb1b
+ActionName: WEB_453504_Поплыко.API.Controllers.RoomsController.GetRooms (WEB_453504_Поплыко.API)
+
+The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+"
+5116,"2026-11-06T14:04:24.801Z",".NET Runtime",3,"Warning",1000,"Application","TEAlover","Category: Microsoft.EntityFrameworkCore.Query
+EventId: 10102
+SpanId: bb68c9d6a83650b0
+TraceId: 69fd6961d1f12825eb723761bf9bd578
+ParentId: 0000000000000000
+ConnectionId: 0HNPS1REDV583
+RequestId: 0HNPS1REDV583:00000007
+RequestPath: /api/rooms
+ActionId: 90a37786-cd3c-45e3-9561-f7c4359bcb1b
+ActionName: WEB_453504_Поплыко.API.Controllers.RoomsController.GetRooms (WEB_453504_Поплыко.API)
+
+The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+"
+5115,"2026-11-06T13:57:56.276Z",".NET Runtime",3,"Warning",1000,"Application","TEAlover","Category: Microsoft.EntityFrameworkCore.Query
+EventId: 10102
+SpanId: 80329b1c471b6746
+TraceId: 4c869543533ff7bfa446c79802b3be41
+ParentId: 0000000000000000
+ConnectionId: 0HNPS1NQKM5C0
+RequestId: 0HNPS1NQKM5C0:00000007
+RequestPath: /api/rooms
+ActionId: 6c5c0962-2471-4e11-920f-a4679b8984d3
+ActionName: WEB_453504_Поплыко.API.Controllers.RoomsController.GetRooms (WEB_453504_Поплыко.API)
+
+The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+"
+5114,"2026-11-06T13:57:56.276Z",".NET Runtime",3,"Warning",1000,"Application","TEAlover","Category: Microsoft.EntityFrameworkCore.Query
+EventId: 10102
+SpanId: 80329b1c471b6746
+TraceId: 4c869543533ff7bfa446c79802b3be41
+ParentId: 0000000000000000
+ConnectionId: 0HNPS1NQKM5C0
+RequestId: 0HNPS1NQKM5C0:00000007
+RequestPath: /api/rooms
+ActionId: 6c5c0962-2471-4e11-920f-a4679b8984d3
+ActionName: WEB_453504_Поплыко.API.Controllers.RoomsController.GetRooms (WEB_453504_Поплыко.API)
+
+The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+"
+5113,"2026-11-06T13:56:31.774Z",".NET Runtime",3,"Warning",1000,"Application","TEAlover","Category: Microsoft.EntityFrameworkCore.Query
+EventId: 10102
+SpanId: 1f8a58373dd23c98
+TraceId: 6056e5300511cddc3cc2fd043cf5f967
+ParentId: 0000000000000000
+ConnectionId: 0HNPS1N1EE4DO
+RequestId: 0HNPS1N1EE4DO:00000007
+RequestPath: /api/rooms
+ActionId: c59ba4f9-663c-4e9b-9c9b-4116e89d05d7
+ActionName: WEB_453504_Поплыко.API.Controllers.RoomsController.GetRooms (WEB_453504_Поплыко.API)
+
+The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+"
+5112,"2026-11-06T13:56:31.773Z",".NET Runtime",3,"Warning",1000,"Application","TEAlover","Category: Microsoft.EntityFrameworkCore.Query
+EventId: 10102
+SpanId: 1f8a58373dd23c98
+TraceId: 6056e5300511cddc3cc2fd043cf5f967
+ParentId: 0000000000000000
+ConnectionId: 0HNPS1N1EE4DO
+RequestId: 0HNPS1N1EE4DO:00000007
+RequestPath: /api/rooms
+ActionId: c59ba4f9-663c-4e9b-9c9b-4116e89d05d7
+ActionName: WEB_453504_Поплыко.API.Controllers.RoomsController.GetRooms (WEB_453504_Поплыко.API)
+
+The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+"
+5108,"2026-11-06T13:46:12.709Z",".NET Runtime",3,"Warning",1000,"Application","TEAlover","Category: Microsoft.EntityFrameworkCore.Query
+EventId: 10102
+SpanId: 8731f584357a8dde
+TraceId: 1b3e6516f9c6733fc76aba5873f789ca
+ParentId: 0000000000000000
+ConnectionId: 0HNPS1H8QA9QH
+RequestId: 0HNPS1H8QA9QH:00000007
+RequestPath: /api/rooms
+ActionId: 90deb0f7-41a2-4791-91ad-84c1b4e1dbf9
+ActionName: WEB_453504_Поплыко.API.Controllers.RoomsController.GetRooms (WEB_453504_Поплыко.API)
+
+The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+"
+5107,"2026-11-06T13:46:12.708Z",".NET Runtime",3,"Warning",1000,"Application","TEAlover","Category: Microsoft.EntityFrameworkCore.Query
+EventId: 10102
+SpanId: 8731f584357a8dde
+TraceId: 1b3e6516f9c6733fc76aba5873f789ca
+ParentId: 0000000000000000
+ConnectionId: 0HNPS1H8QA9QH
+RequestId: 0HNPS1H8QA9QH:00000007
+RequestPath: /api/rooms
+ActionId: 90deb0f7-41a2-4791-91ad-84c1b4e1dbf9
+ActionName: WEB_453504_Поплыко.API.Controllers.RoomsController.GetRooms (WEB_453504_Поплыко.API)
+
+The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+"
+5094,"2026-11-06T13:37:01.268Z","VBScriptDeprecationAlert",3,"Warning",4096,"Application","TEAlover",""
+5049,"2026-11-04T21:28:40.948Z","Application Error",2,"Error",1000,"Application","TEAlover","Имя сбойного приложения: devenv.exe, версия: 17.14.37614.0, метка времени: 0x6a7f52bc
+Имя сбойного модуля: ntdll.dll, версия: 10.0.26100.9711, метка времени: 0x5fd39a05
+Код исключения: 0xc0000374
+Смещение ошибки: 0x0000000000118095
+Идентификатор сбойного процесса: 0x228C
+Время запуска сбойного приложения: 0x1DD6CA0AD5C2318
+Путь сбойного приложения: C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\devenv.exe
+Путь сбойного модуля: C:\WINDOWS\SYSTEM32\ntdll.dll
+Идентификатор отчета: 4d14b0db-39db-4e7c-869b-51235f7b698c
+Полное имя сбойного пакета: 
+Код приложения, связанного со сбойным пакетом: "
+4902,"2026-11-03T10:12:00.261Z","RasClient",2,"Error",20227,"Application","TEAlover","CoID={6BCEA695-6A5A-0001-6E32-E76B5A6ADD01}: Пользователь SYSTEM установил удаленное подключение vpn1, которое завершилось сбоем. Возвращен код ошибки 789."
+4898,"2026-11-03T10:10:50.246Z","RasClient",2,"Error",20227,"Application","TEAlover","CoID={6BCEA695-6A5A-0001-D325-E76B5A6ADD01}: Пользователь SYSTEM установил удаленное подключение vpn1, которое завершилось сбоем. Возвращен код ошибки 789."
+4851,"2026-11-02T01:31:35.359Z","Microsoft-Windows-CertificateServicesClient-CertEnroll",2,"Error",87,"Application","TEAlover","Сбой регистрации сертификата SCEP WORKGROUP\TEALOVER$ через https://INTC-KeyId-ba21136573c2c38a5be57cb6c68bfc23bb36ca58.microsoftaik.azure.net/templates/Aik/scep:
+
+SubmitDone
+Submit(Request): Bad Request
+{""Message"":""No valid TPM EK/Platform certificate provided in the TPM identity request message.""}
+HTTP/1.1 400 Bad Request
+Date: Mon, 02 Nov 2026 01:31:34 GMT
+Content-Length: 96
+Content-Type: application/json; charset=utf-8
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000;includeSubDomains
+x-ms-request-id: e5a68f21-ab72-4ae7-9db3-d0fe2ba08dee
+
+Метод: POST(4360ms)
+Стадия: SubmitDone
+Неверный запрос (400). 0x80190190 (-2145844848 HTTP_E_STATUS_BAD_REQUEST)"
+4833,"2026-11-01T23:41:21.657Z","Microsoft-Windows-CertificateServicesClient-CertEnroll",2,"Error",87,"Application","TEAlover","Сбой регистрации сертификата SCEP WORKGROUP\TEALOVER$ через https://INTC-KeyId-ba21136573c2c38a5be57cb6c68bfc23bb36ca58.microsoftaik.azure.net/templates/Aik/scep:
+
+SubmitDone
+Submit(Request): Bad Request
+{""Message"":""No valid TPM EK/Platform certificate provided in the TPM identity request message.""}
+HTTP/1.1 400 Bad Request
+Date: Sun, 01 Nov 2026 23:41:20 GMT
+Content-Length: 96
+Content-Type: application/json; charset=utf-8
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000;includeSubDomains
+x-ms-request-id: 47095ec4-dcbf-4f7c-b9e4-668ec6c76c18
+
+Метод: POST(3688ms)
+Стадия: SubmitDone
+Неверный запрос (400). 0x80190190 (-2145844848 HTTP_E_STATUS_BAD_REQUEST)"
+4832,"2026-11-01T23:41:17.891Z","Microsoft-Windows-CertificateServicesClient-CertEnroll",2,"Error",87,"Application","TEAlover","Сбой регистрации сертификата SCEP Локальная система через https://INTC-KeyId-ba21136573c2c38a5be57cb6c68bfc23bb36ca58-v2.microsoftaik.azure.net/templates/Aik/scep:
+
+SubmitDone
+Submit(Request): Bad Request
+{""Message"":""No valid TPM EK/Platform certificate provided in the TPM identity request message.""}
+HTTP/1.1 400 Bad Request
+Date: Sun, 01 Nov 2026 23:41:17 GMT
+Content-Length: 96
+Content-Type: application/json; charset=utf-8
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000;includeSubDomains
+x-ms-request-id: 60ee1574-e792-4f2c-9719-82cb61910588
+
+Метод: POST(1422ms)
+Стадия: SubmitDone
+Неверный запрос (400). 0x80190190 (-2145844848 HTTP_E_STATUS_BAD_REQUEST)"
+4813,"2026-11-01T23:41:15.850Z","Microsoft-Windows-CertificateServicesClient-CertEnroll",2,"Error",87,"Application","TEAlover","Сбой регистрации сертификата SCEP Локальная система через https://INTC-KeyId-ba21136573c2c38a5be57cb6c68bfc23bb36ca58-v2.microsoftaik.azure.net/templates/Aik/scep:
+
+SubmitDone
+Submit(Request): Bad Request
+{""Message"":""No valid TPM EK/Platform certificate provided in the TPM identity request message.""}
+HTTP/1.1 400 Bad Request
+Date: Sun, 01 Nov 2026 23:41:15 GMT
+Content-Length: 96
+Content-Type: application/json; charset=utf-8
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000;includeSubDomains
+x-ms-request-id: 2e69efc2-7b3c-4f1e-9d72-647ef4630cc1
+
+Метод: POST(1547ms)
+Стадия: SubmitDone
+Неверный запрос (400). 0x80190190 (-2145844848 HTTP_E_STATUS_BAD_REQUEST)"
+4812,"2026-11-01T23:41:13.384Z","Microsoft-Windows-CertificateServicesClient-CertEnroll",2,"Error",87,"Application","TEAlover","Сбой регистрации сертификата SCEP Локальная система через https://INTC-KeyId-ba21136573c2c38a5be57cb6c68bfc23bb36ca58.microsoftaik.azure.net/templates/Aik/scep:
+
+SubmitDone
+Submit(Request): Bad Request
+{""Message"":""No valid TPM EK/Platform certificate provided in the TPM identity request message.""}
+HTTP/1.1 400 Bad Request
+Date: Sun, 01 Nov 2026 23:41:12 GMT
+Content-Length: 96
+Content-Type: application/json; charset=utf-8
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000;includeSubDomains
+x-ms-request-id: a5e5b9ce-7449-4dde-934b-0b059b3568a8
+
+Метод: POST(1844ms)
+Стадия: SubmitDone
+Неверный запрос (400). 0x80190190 (-2145844848 HTTP_E_STATUS_BAD_REQUEST)"
+4811,"2026-11-01T23:41:06.121Z","Microsoft-Windows-WMI",3,"Warning",63,"Application","TEAlover","Поставщик IntelMEProv зарегистрирован в пространстве имен root\Intel_ME инструментария управления Windows и будет использовать учетную запись LocalSystem. Она обладает повышенными привилегиями, поэтому, если поставщик некорректно олицетворяет запросы пользователей, безопасность может оказаться под угрозой."
+4810,"2026-11-01T23:41:06.116Z","Microsoft-Windows-WMI",3,"Warning",63,"Application","TEAlover","Поставщик IntelMEProv зарегистрирован в пространстве имен root\Intel_ME инструментария управления Windows и будет использовать учетную запись LocalSystem. Она обладает повышенными привилегиями, поэтому, если поставщик некорректно олицетворяет запросы пользователей, безопасность может оказаться под угрозой."
+4809,"2026-11-01T23:41:06.111Z","Microsoft-Windows-WMI",3,"Warning",63,"Application","TEAlover","Поставщик IntelMEProv зарегистрирован в пространстве имен root\Intel_ME инструментария управления Windows и будет использовать учетную запись LocalSystem. Она обладает повышенными привилегиями, поэтому, если поставщик некорректно олицетворяет запросы пользователей, безопасность может оказаться под угрозой."
+4794,"2026-10-31T03:23:20.926Z","Microsoft-Windows-WMI",3,"Warning",63,"Application","TEAlover","Поставщик IntelMEProv зарегистрирован в пространстве имен root\Intel_ME инструментария управления Windows и будет использовать учетную запись LocalSystem. Она обладает повышенными привилегиями, поэтому, если поставщик некорректно олицетворяет запросы пользователей, безопасность может оказаться под угрозой."
+4793,"2026-10-31T03:23:20.921Z","Microsoft-Windows-WMI",3,"Warning",63,"Application","TEAlover","Поставщик IntelMEProv зарегистрирован в пространстве имен root\Intel_ME инструментария управления Windows и будет использовать учетную запись LocalSystem. Она обладает повышенными привилегиями, поэтому, если поставщик некорректно олицетворяет запросы пользователей, безопасность может оказаться под угрозой."
+4792,"2026-10-31T03:23:20.916Z","Microsoft-Windows-WMI",3,"Warning",63,"Application","TEAlover","Поставщик IntelMEProv зарегистрирован в пространстве имен root\Intel_ME инструментария управления Windows и будет использовать учетную запись LocalSystem. Она обладает повышенными привилегиями, поэтому, если поставщик некорректно олицетворяет запросы пользователей, безопасность может оказаться под угрозой."
+4777,"2026-10-31T03:22:43.583Z","Microsoft-Windows-Winlogon",3,"Warning",6004,"Application","TEAlover","Ошибка обработки критического события уведомления подписчика уведомлений winlogon <TrustedInstaller>."
+4776,"2026-10-31T03:22:43.161Z","Microsoft-Windows-CertificateServicesClient-CertEnroll",2,"Error",87,"Application","TEAlover","Сбой регистрации сертификата SCEP WORKGROUP\TEALOVER$ через https://INTC-KeyId-ba21136573c2c38a5be57cb6c68bfc23bb36ca58.microsoftaik.azure.net/templates/Aik/scep:
+
+SubmitDone
+Submit(Request): Bad Request
+{""Message"":""No valid TPM EK/Platform certificate provided in the TPM identity request message.""}
+HTTP/1.1 400 Bad Request
+Date: Sat, 31 Oct 2026 03:22:43 GMT
+Content-Length: 96
+Content-Type: application/json; charset=utf-8
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000;includeSubDomains
+x-ms-request-id: ffc1010c-6379-4f49-bb57-bb34584009f5
+
+Метод: POST(3078ms)
+Стадия: SubmitDone
+Неверный запрос (400). 0x80190190 (-2145844848 HTTP_E_STATUS_BAD_REQUEST)"
+4775,"2026-10-31T03:22:39.884Z","Microsoft-Windows-CertificateServicesClient-CertEnroll",2,"Error",87,"Application","TEAlover","Сбой регистрации сертификата SCEP Локальная система через https://INTC-KeyId-ba21136573c2c38a5be57cb6c68bfc23bb36ca58-v2.microsoftaik.azure.net/templates/Aik/scep:
+
+SubmitDone
+Submit(Request): Bad Request
+{""Message"":""No valid TPM EK/Platform certificate provided in the TPM identity request message.""}
+HTTP/1.1 400 Bad Request
+Date: Sat, 31 Oct 2026 03:22:40 GMT
+Content-Length: 96
+Content-Type: application/json; charset=utf-8
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000;includeSubDomains
+x-ms-request-id: 7d5c347e-07f3-4579-b158-bd7dffae4f89
+
+Метод: POST(1938ms)
+Стадия: SubmitDone
+Неверный запрос (400). 0x80190190 (-2145844848 HTTP_E_STATUS_BAD_REQUEST)"
+4774,"2026-10-31T03:22:37.273Z","Microsoft-Windows-CertificateServicesClient-CertEnroll",2,"Error",87,"Application","TEAlover","Сбой регистрации сертификата SCEP Локальная система через https://INTC-KeyId-ba21136573c2c38a5be57cb6c68bfc23bb36ca58-v2.microsoftaik.azure.net/templates/Aik/scep:
+
+SubmitDone
+Submit(Request): Bad Request
+{""Message"":""No valid TPM EK/Platform certificate provided in the TPM identity request message.""}
+HTTP/1.1 400 Bad Request
+Date: Sat, 31 Oct 2026 03:22:37 GMT
+Content-Length: 96
+Content-Type: application/json; charset=utf-8
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000;includeSubDomains
+x-ms-request-id: e6089dcf-0271-436e-b996-d60b28732661
+
+Метод: POST(5906ms)
+Стадия: SubmitDone
+Неверный запрос (400). 0x80190190 (-2145844848 HTTP_E_STATUS_BAD_REQUEST)"
+4773,"2026-10-31T03:22:27.411Z","Microsoft-Windows-CertificateServicesClient-CertEnroll",2,"Error",87,"Application","TEAlover","Сбой регистрации сертификата SCEP Локальная система через https://INTC-KeyId-ba21136573c2c38a5be57cb6c68bfc23bb36ca58.microsoftaik.azure.net/templates/Aik/scep:
+
+SubmitDone
+Submit(Request): Bad Request
+{""Message"":""No valid TPM EK/Platform certificate provided in the TPM identity request message.""}
+HTTP/1.1 400 Bad Request
+Date: Sat, 31 Oct 2026 03:22:27 GMT
+Content-Length: 96
+Content-Type: application/json; charset=utf-8
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000;includeSubDomains
+x-ms-request-id: fdbc7b29-9148-4bb7-bcd0-b86fc47a215b
+
+Метод: POST(1672ms)
+Стадия: SubmitDone
+Неверный запрос (400). 0x80190190 (-2145844848 HTTP_E_STATUS_BAD_REQUEST)"
+4772,"2026-10-31T03:22:17.814Z","Microsoft-Windows-WMI",3,"Warning",63,"Application","TEAlover","Поставщик IntelMEProv зарегистрирован в пространстве имен root\Intel_ME инструментария управления Windows и будет использовать учетную запись LocalSystem. Она обладает повышенными привилегиями, поэтому, если поставщик некорректно олицетворяет запросы пользователей, безопасность может оказаться под угрозой."
+4771,"2026-10-31T03:22:17.808Z","Microsoft-Windows-WMI",3,"Warning",63,"Application","TEAlover","Поставщик IntelMEProv зарегистрирован в пространстве имен root\Intel_ME инструментария управления Windows и будет использовать учетную запись LocalSystem. Она обладает повышенными привилегиями, поэтому, если поставщик некорректно олицетворяет запросы пользователей, безопасность может оказаться под угрозой."
+4770,"2026-10-31T03:22:17.802Z","Microsoft-Windows-WMI",3,"Warning",63,"Application","TEAlover","Поставщик IntelMEProv зарегистрирован в пространстве имен root\Intel_ME инструментария управления Windows и будет использовать учетную запись LocalSystem. Она обладает повышенными привилегиями, поэтому, если поставщик некорректно олицетворяет запросы пользователей, безопасность может оказаться под угрозой."
+4735,"2026-10-31T03:05:32.721Z",".NET Runtime",3,"Warning",1000,"Application","TEAlover","Category: Microsoft.EntityFrameworkCore.Query
+EventId: 10102
+SpanId: 3ab975680d8972c7
+TraceId: 4bf0596accd5fcaaca71e0ff462176d6
+ParentId: 0000000000000000
+ConnectionId: 0HNPMVF9F4RGU
+RequestId: 0HNPMVF9F4RGU:00000007
+RequestPath: /api/rooms
+ActionId: 7e299509-155e-414e-9ecc-fd2270cd1a8a
+ActionName: WEB_453504_Поплыко.API.Controllers.RoomsController.GetRooms (WEB_453504_Поплыко.API)
+
+The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+"
+4734,"2026-10-31T03:05:32.720Z",".NET Runtime",3,"Warning",1000,"Application","TEAlover","Category: Microsoft.EntityFrameworkCore.Query
+EventId: 10102
+SpanId: 3ab975680d8972c7
+TraceId: 4bf0596accd5fcaaca71e0ff462176d6
+ParentId: 0000000000000000
+ConnectionId: 0HNPMVF9F4RGU
+RequestId: 0HNPMVF9F4RGU:00000007
+RequestPath: /api/rooms
+ActionId: 7e299509-155e-414e-9ecc-fd2270cd1a8a
+ActionName: WEB_453504_Поплыко.API.Controllers.RoomsController.GetRooms (WEB_453504_Поплыко.API)
+
+The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+"
+4732,"2026-10-31T03:04:25.393Z",".NET Runtime",3,"Warning",1000,"Application","TEAlover","Category: Microsoft.EntityFrameworkCore.Query
+EventId: 10102
+SpanId: ae213825beecd078
+TraceId: 0f03ae7e3a103e5e003e0e778f890c89
+ParentId: 0000000000000000
+ConnectionId: 0HNPMVEKCK1T2
+RequestId: 0HNPMVEKCK1T2:0000000B
+RequestPath: /api/rooms
+ActionId: 6dfd595b-f263-4bba-a1fe-d87c50ec8890
+ActionName: WEB_453504_Поплыко.API.Controllers.RoomsController.GetRooms (WEB_453504_Поплыко.API)
+
+The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+"
+4731,"2026-10-31T03:04:25.391Z",".NET Runtime",3,"Warning",1000,"Application","TEAlover","Category: Microsoft.EntityFrameworkCore.Query
+EventId: 10102
+SpanId: ae213825beecd078
+TraceId: 0f03ae7e3a103e5e003e0e778f890c89
+ParentId: 0000000000000000
+ConnectionId: 0HNPMVEKCK1T2
+RequestId: 0HNPMVEKCK1T2:0000000B
+RequestPath: /api/rooms
+ActionId: 6dfd595b-f263-4bba-a1fe-d87c50ec8890
+ActionName: WEB_453504_Поплыко.API.Controllers.RoomsController.GetRooms (WEB_453504_Поплыко.API)
+
+The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+"
+4709,"2026-10-31T02:25:36.809Z",".NET Runtime",3,"Warning",1000,"Application","TEAlover","Category: Microsoft.EntityFrameworkCore.Query
+EventId: 10102
+SpanId: 94ffbf942c2b8f53
+TraceId: 2f3d2ec53d58d8ec4c7ebba46b68ddf9
+ParentId: f2ccb74fd9df4379
+ConnectionId: 0HNPMUOJJM2FC
+RequestId: 0HNPMUOJJM2FC:00000001
+RequestPath: /api/Rooms
+ActionId: b57ce8ce-d403-4769-b943-68d5b67aea09
+ActionName: WEB_453504_Поплыко.API.Controllers.RoomsController.GetRooms (WEB_453504_Поплыко.API)
+
+The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+"
+4708,"2026-10-31T02:25:36.808Z",".NET Runtime",3,"Warning",1000,"Application","TEAlover","Category: Microsoft.EntityFrameworkCore.Query
+EventId: 10102
+SpanId: 94ffbf942c2b8f53
+TraceId: 2f3d2ec53d58d8ec4c7ebba46b68ddf9
+ParentId: f2ccb74fd9df4379
+ConnectionId: 0HNPMUOJJM2FC
+RequestId: 0HNPMUOJJM2FC:00000001
+RequestPath: /api/Rooms
+ActionId: b57ce8ce-d403-4769-b943-68d5b67aea09
+ActionName: WEB_453504_Поплыко.API.Controllers.RoomsController.GetRooms (WEB_453504_Поплыко.API)
+
+The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+"
+4696,"2026-10-31T01:42:04.136Z","RasClient",2,"Error",20227,"Application","TEAlover","CoID={A7B48740-66BF-000B-EAF3-C1A7BF66DD01}: Пользователь SYSTEM установил удаленное подключение vpn1, которое завершилось сбоем. Возвращен код ошибки 720."
+4676,"2026-10-31T00:05:07.180Z",".NET Runtime",3,"Warning",1000,"Application","TEAlover","Category: Microsoft.EntityFrameworkCore.Query
+EventId: 10102
+SpanId: 6eafc1294c85df1e
+TraceId: 063986b7eba021db813a37a4ec457bde
+ParentId: 6e0c5a67454f2695
+ConnectionId: 0HNPMSAFBRSBN
+RequestId: 0HNPMSAFBRSBN:00000001
+RequestPath: /api/Rooms
+ActionId: f6f94785-c8ac-4d52-9d03-d761802211ae
+ActionName: WEB_453504_Поплыко.API.Controllers.RoomsController.GetRooms (WEB_453504_Поплыко.API)
+
+The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+"
+4675,"2026-10-31T00:05:07.178Z",".NET Runtime",3,"Warning",1000,"Application","TEAlover","Category: Microsoft.EntityFrameworkCore.Query
+EventId: 10102
+SpanId: 6eafc1294c85df1e
+TraceId: 063986b7eba021db813a37a4ec457bde
+ParentId: 6e0c5a67454f2695
+ConnectionId: 0HNPMSAFBRSBN
+RequestId: 0HNPMSAFBRSBN:00000001
+RequestPath: /api/Rooms
+ActionId: f6f94785-c8ac-4d52-9d03-d761802211ae
+ActionName: WEB_453504_Поплыко.API.Controllers.RoomsController.GetRooms (WEB_453504_Поплыко.API)
+
+The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+"
+4672,"2026-10-31T00:01:48.818Z",".NET Runtime",2,"Error",1000,"Application","TEAlover","Category: WEB_453504_Поплыко.UI.Services.RoomService.ApiRoomService
+EventId: 0
+SpanId: c466bf8db538028e
+TraceId: fc3260f33e3c4667ec6524ad4794dbfc
+ParentId: 0000000000000000
+ConnectionId: 0HNPMS7P8KM76
+RequestId: 0HNPMS7P8KM76:000000A1
+RequestPath: /Catalog
+ActionId: 5fa5d34e-8b73-45b9-a86a-3a968645b562
+ActionName: WEB_453504_Поплыко.UI.Controllers.ProductController.Index (WEB_453504_Поплыко.UI)
+
+----> Ошибка: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. (localhost:7002)
+"
+4671,"2026-10-31T00:00:48.264Z",".NET Runtime",2,"Error",1000,"Application","TEAlover","Category: WEB_453504_Поплыко.UI.Services.RoomService.ApiRoomService
+EventId: 0
+SpanId: 6a4aed67ac8254b4
+TraceId: 503871d365173b69e4771787076c3789
+ParentId: 0000000000000000
+ConnectionId: 0HNPMS7P8KM76
+RequestId: 0HNPMS7P8KM76:00000051
+RequestPath: /Catalog
+ActionId: 5fa5d34e-8b73-45b9-a86a-3a968645b562
+ActionName: WEB_453504_Поплыко.UI.Controllers.ProductController.Index (WEB_453504_Поплыко.UI)
+
+----> Ошибка: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. (localhost:7002)
+"
+4670,"2026-10-31T00:00:34.233Z",".NET Runtime",2,"Error",1000,"Application","TEAlover","Category: WEB_453504_Поплыко.UI.Services.RoomService.ApiRoomService
+EventId: 0
+SpanId: 2a6d615cfdd6436c
+TraceId: 5cfe9bc44ba146fe358c7c664811bcb8
+ParentId: 0000000000000000
+ConnectionId: 0HNPMS7P8KM76
+RequestId: 0HNPMS7P8KM76:0000002D
+RequestPath: /Catalog
+ActionId: 5fa5d34e-8b73-45b9-a86a-3a968645b562
+ActionName: WEB_453504_Поплыко.UI.Controllers.ProductController.Index (WEB_453504_Поплыко.UI)
+
+----> Ошибка: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. (localhost:7002)
+"
+4667,"2026-10-31T00:00:08.660Z","Application Error",2,"Error",1000,"Application","TEAlover","Имя сбойного приложения: WEB_453504_Поплыко.API.exe, версия: 1.0.0.0, метка времени: 0x6a5a0000
+Имя сбойного модуля: KERNELBASE.dll, версия: 10.0.26100.9444, метка времени: 0x28606b21
+Код исключения: 0xe0434352
+Смещение ошибки: 0x00000000000c41ca
+Идентификатор сбойного процесса: 0x5A6C
+Время запуска сбойного приложения: 0x1DD68CACA45380F
+Путь сбойного приложения: C:\BSUIR\3 year\1 semester\СППР\LR1_3\LR1\WEB_453504_Поплыко\WEB_453504_Поплыко.API\bin\Debug\net9.0\WEB_453504_Поплыко.API.exe
+Путь сбойного модуля: C:\WINDOWS\System32\KERNELBASE.dll
+Идентификатор отчета: abb8c30e-9932-44f9-95d3-2f87d8539813
+Полное имя сбойного пакета: 
+Код приложения, связанного со сбойным пакетом: "
+4666,"2026-10-31T00:00:08.233Z",".NET Runtime",2,"Error",1026,"Application","TEAlover","Application: WEB_453504_Поплыко.API.exe
+CoreCLR Version: 9.0.1926.36724
+.NET Version: 9.0.19
+Description: The process was terminated due to an unhandled exception.
+Exception Info: System.IO.InvalidDataException: Failed to load configuration from file 'C:\BSUIR\3 year\1 semester\СППР\LR1_3\LR1\WEB_453504_Поплыко\WEB_453504_Поплыко.API\appsettings.json'.
+ ---> System.FormatException: A duplicate key 'ConnectionStrings:DefaultConnection' was found.
+   at Microsoft.Extensions.Configuration.Json.JsonConfigurationFileParser.VisitValue(JsonElement value)
+   at Microsoft.Extensions.Configuration.Json.JsonConfigurationFileParser.VisitObjectElement(JsonElement element)
+   at Microsoft.Extensions.Configuration.Json.JsonConfigurationFileParser.VisitValue(JsonElement value)
+   at Microsoft.Extensions.Configuration.Json.JsonConfigurationFileParser.VisitObjectElement(JsonElement element)
+   at Microsoft.Extensions.Configuration.Json.JsonConfigurationFileParser.ParseStream(Stream input)
+   at Microsoft.Extensions.Configuration.Json.JsonConfigurationProvider.Load(Stream stream)
+   at Microsoft.Extensions.Configuration.FileConfigurationProvider.Load(Boolean reload)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.Configuration.FileConfigurationProvider.Load(Boolean reload)
+   at Microsoft.Extensions.Configuration.ConfigurationManager.AddSource(IConfigurationSource source)
+   at Microsoft.Extensions.Configuration.ConfigurationManager.Microsoft.Extensions.Configuration.IConfigurationBuilder.Add(IConfigurationSource source)
+   at Microsoft.Extensions.Configuration.ConfigurationExtensions.Add[TSource](IConfigurationBuilder builder, Action`1 configureSource)
+   at Microsoft.Extensions.Configuration.JsonConfigurationExtensions.AddJsonFile(IConfigurationBuilder builder, String path, Boolean optional, Boolean reloadOnChange)
+   at Microsoft.Extensions.Hosting.HostingHostBuilderExtensions.ApplyDefaultAppConfiguration(HostBuilderContext hostingContext, IConfigurationBuilder appConfigBuilder, String[] args)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder..ctor(HostApplicationBuilderSettings settings)
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder..ctor(WebApplicationOptions options, Action`1 configureDefaults)
+   at Microsoft.AspNetCore.Builder.WebApplication.CreateBuilder(String[] args)
+   at Program.<Main>$(String[] args) in C:\BSUIR\3 year\1 semester\СППР\LR1_3\LR1\WEB_453504_Поплыко\WEB_453504_Поплыко.API\Program.cs:line 5
+   at Program.<Main>(String[] args)
+"
+4660,"2026-10-30T23:30:48.102Z",".NET Runtime",3,"Warning",1000,"Application","TEAlover","Category: Microsoft.EntityFrameworkCore.Query
+EventId: 10102
+SpanId: 2cec1b436c46b5c3
+TraceId: 0ae5dd44df82cf03e19752f9db800a8c
+ParentId: f19a4061c9f42dcf
+ConnectionId: 0HNPMRN968E9O
+RequestId: 0HNPMRN968E9O:00000002
+RequestPath: /api/Rooms
+ActionId: f0779e68-0e3d-4b29-ab35-35ec72eafb14
+ActionName: WEB_453504_Поплыко.API.Controllers.RoomsController.GetRooms (WEB_453504_Поплыко.API)
+
+The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+"
+4659,"2026-10-30T23:30:48.101Z",".NET Runtime",3,"Warning",1000,"Application","TEAlover","Category: Microsoft.EntityFrameworkCore.Query
+EventId: 10102
+SpanId: 2cec1b436c46b5c3
+TraceId: 0ae5dd44df82cf03e19752f9db800a8c
+ParentId: f19a4061c9f42dcf
+ConnectionId: 0HNPMRN968E9O
+RequestId: 0HNPMRN968E9O:00000002
+RequestPath: /api/Rooms
+ActionId: f0779e68-0e3d-4b29-ab35-35ec72eafb14
+ActionName: WEB_453504_Поплыко.API.Controllers.RoomsController.GetRooms (WEB_453504_Поплыко.API)
+
+The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+"
+4658,"2026-10-30T23:30:45.943Z",".NET Runtime",3,"Warning",1000,"Application","TEAlover","Category: Microsoft.EntityFrameworkCore.Query
+EventId: 10102
+SpanId: 8895206e45e5e3b3
+TraceId: ce61f9993f1323aba321ca4968f8970e
+ParentId: 00658af7a13e9833
+ConnectionId: 0HNPMRN968E9O
+RequestId: 0HNPMRN968E9O:00000001
+RequestPath: /api/Rooms
+ActionId: f0779e68-0e3d-4b29-ab35-35ec72eafb14
+ActionName: WEB_453504_Поплыко.API.Controllers.RoomsController.GetRooms (WEB_453504_Поплыко.API)
+
+The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+"
+4657,"2026-10-30T23:30:45.942Z",".NET Runtime",3,"Warning",1000,"Application","TEAlover","Category: Microsoft.EntityFrameworkCore.Query
+EventId: 10102
+SpanId: 8895206e45e5e3b3
+TraceId: ce61f9993f1323aba321ca4968f8970e
+ParentId: 00658af7a13e9833
+ConnectionId: 0HNPMRN968E9O
+RequestId: 0HNPMRN968E9O:00000001
+RequestPath: /api/Rooms
+ActionId: f0779e68-0e3d-4b29-ab35-35ec72eafb14
+ActionName: WEB_453504_Поплыко.API.Controllers.RoomsController.GetRooms (WEB_453504_Поплыко.API)
+
+The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+"
+4656,"2026-10-30T23:25:07.576Z",".NET Runtime",3,"Warning",1000,"Application","TEAlover","Category: Microsoft.EntityFrameworkCore.Query
+EventId: 10102
+SpanId: ac3e263873b3a268
+TraceId: 0d401f2848e2b68f6c65cb1000237368
+ParentId: fa152a6ab87edacb
+ConnectionId: 0HNPMRK1RST87
+RequestId: 0HNPMRK1RST87:00000002
+RequestPath: /api/Rooms
+ActionId: f99d9e01-385b-4c46-8592-21d6bc154654
+ActionName: WEB_453504_Поплыко.API.Controllers.RoomsController.GetRooms (WEB_453504_Поплыко.API)
+
+The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+"
+4655,"2026-10-30T23:25:07.575Z",".NET Runtime",3,"Warning",1000,"Application","TEAlover","Category: Microsoft.EntityFrameworkCore.Query
+EventId: 10102
+SpanId: ac3e263873b3a268
+TraceId: 0d401f2848e2b68f6c65cb1000237368
+ParentId: fa152a6ab87edacb
+ConnectionId: 0HNPMRK1RST87
+RequestId: 0HNPMRK1RST87:00000002
+RequestPath: /api/Rooms
+ActionId: f99d9e01-385b-4c46-8592-21d6bc154654
+ActionName: WEB_453504_Поплыко.API.Controllers.RoomsController.GetRooms (WEB_453504_Поплыко.API)
+
+The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+"
+4654,"2026-10-30T23:24:59.210Z",".NET Runtime",3,"Warning",1000,"Application","TEAlover","Category: Microsoft.EntityFrameworkCore.Query
+EventId: 10102
+SpanId: bfd81ce11cd15953
+TraceId: 48628175c8aa147c494276eb4ec0a6d7
+ParentId: 6ded2b4e5de22798
+ConnectionId: 0HNPMRK1RST87
+RequestId: 0HNPMRK1RST87:00000001
+RequestPath: /api/Rooms
+ActionId: f99d9e01-385b-4c46-8592-21d6bc154654
+ActionName: WEB_453504_Поплыко.API.Controllers.RoomsController.GetRooms (WEB_453504_Поплыко.API)
+
+The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+"
+4653,"2026-10-30T23:24:59.209Z",".NET Runtime",3,"Warning",1000,"Application","TEAlover","Category: Microsoft.EntityFrameworkCore.Query
+EventId: 10102
+SpanId: bfd81ce11cd15953
+TraceId: 48628175c8aa147c494276eb4ec0a6d7
+ParentId: 6ded2b4e5de22798
+ConnectionId: 0HNPMRK1RST87
+RequestId: 0HNPMRK1RST87:00000001
+RequestPath: /api/Rooms
+ActionId: f99d9e01-385b-4c46-8592-21d6bc154654
+ActionName: WEB_453504_Поплыко.API.Controllers.RoomsController.GetRooms (WEB_453504_Поплыко.API)
+
+The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+"
+4652,"2026-10-30T23:10:45.268Z",".NET Runtime",3,"Warning",1000,"Application","TEAlover","Category: Microsoft.AspNetCore.Builder.StaticAssetDevelopmentRuntimeHandler
+EventId: 1
+SpanId: 4e12868abd143706
+TraceId: b98a0ab399c4473a88f04140e709f463
+ParentId: 0000000000000000
+ConnectionId: 0HNPMR85GA449
+RequestId: 0HNPMR85GA449:0000003D
+RequestPath: /Images/82cc4be7-b893-4e30-9c52-d928a4feafc5.png
+
+The static asset '/Images/82cc4be7-b893-4e30-9c52-d928a4feafc5.png' was not found in the built time manifest. This file will not be available at runtime if it is not available at compile time during the publish process. If the file was not added to the project during development, and is created at runtime, use the StaticFiles middleware to serve it instead.
+"
+4651,"2026-10-30T23:03:55.473Z",".NET Runtime",3,"Warning",1000,"Application","TEAlover","Category: Microsoft.EntityFrameworkCore.Query
+EventId: 10102
+SpanId: 2ff41509856f3ef6
+TraceId: 99cd85707ec7ed12b414b3d2c0cc668a
+ParentId: f74079b00753526d
+ConnectionId: 0HNPMR897REC6
+RequestId: 0HNPMR897REC6:00000001
+RequestPath: /api/Rooms
+ActionId: 5a2b9971-040c-42ef-87a3-56891d40244d
+ActionName: WEB_453504_Поплыко.API.Controllers.RoomsController.GetRooms (WEB_453504_Поплыко.API)
+
+The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+"
+4650,"2026-10-30T23:03:55.471Z",".NET Runtime",3,"Warning",1000,"Application","TEAlover","Category: Microsoft.EntityFrameworkCore.Query
+EventId: 10102
+SpanId: 2ff41509856f3ef6
+TraceId: 99cd85707ec7ed12b414b3d2c0cc668a
+ParentId: f74079b00753526d
+ConnectionId: 0HNPMR897REC6
+RequestId: 0HNPMR897REC6:00000001
+RequestPath: /api/Rooms
+ActionId: 5a2b9971-040c-42ef-87a3-56891d40244d
+ActionName: WEB_453504_Поплыко.API.Controllers.RoomsController.GetRooms (WEB_453504_Поплыко.API)
+
+The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+"
+4647,"2026-10-30T22:44:56.364Z",".NET Runtime",3,"Warning",1000,"Application","TEAlover","Category: Microsoft.EntityFrameworkCore.Query
+EventId: 10102
+SpanId: 9fd41281719b4dad
+TraceId: e5f222132e2146bba73ed03d1341bcae
+ParentId: 9ffd69ec2a4c1aaa
+ConnectionId: 0HNPMQTLOG8HQ
+RequestId: 0HNPMQTLOG8HQ:00000001
+RequestPath: /api/Rooms
+ActionId: aa56ed3a-e546-4b94-8302-8a4b3b24cc62
+ActionName: WEB_453504_Поплыко.API.Controllers.RoomsController.GetRooms (WEB_453504_Поплыко.API)
+
+The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+"
+4646,"2026-10-30T22:44:56.363Z",".NET Runtime",3,"Warning",1000,"Application","TEAlover","Category: Microsoft.EntityFrameworkCore.Query
+EventId: 10102
+SpanId: 9fd41281719b4dad
+TraceId: e5f222132e2146bba73ed03d1341bcae
+ParentId: 9ffd69ec2a4c1aaa
+ConnectionId: 0HNPMQTLOG8HQ
+RequestId: 0HNPMQTLOG8HQ:00000001
+RequestPath: /api/Rooms
+ActionId: aa56ed3a-e546-4b94-8302-8a4b3b24cc62
+ActionName: WEB_453504_Поплыко.API.Controllers.RoomsController.GetRooms (WEB_453504_Поплыко.API)
+
+The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+"
+4645,"2026-10-30T22:43:45.487Z",".NET Runtime",2,"Error",1000,"Application","TEAlover","Category: WEB_453504_Поплыко.UI.Services.RoomService.ApiRoomService
+EventId: 0
+SpanId: b64aeb0112433365
+TraceId: 03dd0912e4b16e04b2ccc0c305aaeb3b
+ParentId: 0000000000000000
+ConnectionId: 0HNPMQSK5LNBB
+RequestId: 0HNPMQSK5LNBB:000000D7
+RequestPath: /Product
+ActionId: b3033b29-ebce-461d-bf46-2bd208cea419
+ActionName: WEB_453504_Поплыко.UI.Controllers.ProductController.Index (WEB_453504_Поплыко.UI)
+
+----> Не удалось получить данные. Error: Unauthorized
+"
+4644,"2026-10-30T22:43:40.715Z",".NET Runtime",2,"Error",1000,"Application","TEAlover","Category: WEB_453504_Поплыко.UI.Services.RoomService.ApiRoomService
+EventId: 0
+SpanId: 706354c6b0df853b
+TraceId: 59230e2a9f4c131cda2a36eb7609c150
+ParentId: 0000000000000000
+ConnectionId: 0HNPMQSK5LNBB
+RequestId: 0HNPMQSK5LNBB:000000B7
+RequestPath: /Product
+ActionId: b3033b29-ebce-461d-bf46-2bd208cea419
+ActionName: WEB_453504_Поплыко.UI.Controllers.ProductController.Index (WEB_453504_Поплыко.UI)
+
+----> Не удалось получить данные. Error: Unauthorized
+"
+4643,"2026-10-30T22:43:36.150Z",".NET Runtime",2,"Error",1000,"Application","TEAlover","Category: WEB_453504_Поплыко.UI.Services.RoomService.ApiRoomService
+EventId: 0
+SpanId: 2b5e8dec050337d0
+TraceId: 99d9fa49729032808ded6dee0fdc6c49
+ParentId: 0000000000000000
+ConnectionId: 0HNPMQSK5LNBB
+RequestId: 0HNPMQSK5LNBB:0000009B
+RequestPath: /Product
+ActionId: b3033b29-ebce-461d-bf46-2bd208cea419
+ActionName: WEB_453504_Поплыко.UI.Controllers.ProductController.Index (WEB_453504_Поплыко.UI)
+
+----> Не удалось получить данные. Error: Unauthorized
+"
+4642,"2026-10-30T22:43:33.334Z",".NET Runtime",2,"Error",1000,"Application","TEAlover","Category: WEB_453504_Поплыко.UI.Services.RoomService.ApiRoomService
+EventId: 0
+SpanId: b8aca98b6c9e8a82
+TraceId: 77aa5bb3f9404e633c9d79dafa297254
+ParentId: 0000000000000000
+ConnectionId: 0HNPMQSK5LNBB
+RequestId: 0HNPMQSK5LNBB:00000095
+RequestPath: /Product
+ActionId: b3033b29-ebce-461d-bf46-2bd208cea419
+ActionName: WEB_453504_Поплыко.UI.Controllers.ProductController.Index (WEB_453504_Поплыко.UI)
+
+----> Не удалось получить данные. Error: Unauthorized
+"
+4641,"2026-10-30T22:43:24.618Z",".NET Runtime",2,"Error",1000,"Application","TEAlover","Category: WEB_453504_Поплыко.UI.Services.RoomService.ApiRoomService
+EventId: 0
+SpanId: 758907363d2b69aa
+TraceId: 218031bb0fe067861e3567a15d668209
+ParentId: 0000000000000000
+ConnectionId: 0HNPMQSK5LNBB
+RequestId: 0HNPMQSK5LNBB:00000079
+RequestPath: /Product
+ActionId: b3033b29-ebce-461d-bf46-2bd208cea419
+ActionName: WEB_453504_Поплыко.UI.Controllers.ProductController.Index (WEB_453504_Поплыко.UI)
+
+----> Не удалось получить данные. Error: Unauthorized
+"
+4640,"2026-10-30T22:40:24.943Z",".NET Runtime",3,"Warning",1000,"Application","TEAlover","Category: Microsoft.EntityFrameworkCore.Query
+EventId: 10102
+SpanId: 8a9d87a7823c17e4
+TraceId: e4b5a6bc276b60fe1ead97a641fff5ba
+ParentId: 07ddfc21f42b14d1
+ConnectionId: 0HNPMQQU1JIMT
+RequestId: 0HNPMQQU1JIMT:00000001
+RequestPath: /api/Rooms
+ActionId: cd3d64e4-fe68-4c17-a96e-3d9f09818727
+ActionName: WEB_453504_Поплыко.API.Controllers.RoomsController.GetRooms (WEB_453504_Поплыко.API)
+
+The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+"
+4639,"2026-10-30T22:40:24.942Z",".NET Runtime",3,"Warning",1000,"Application","TEAlover","Category: Microsoft.EntityFrameworkCore.Query
+EventId: 10102
+SpanId: 8a9d87a7823c17e4
+TraceId: e4b5a6bc276b60fe1ead97a641fff5ba
+ParentId: 07ddfc21f42b14d1
+ConnectionId: 0HNPMQQU1JIMT
+RequestId: 0HNPMQQU1JIMT:00000001
+RequestPath: /api/Rooms
+ActionId: cd3d64e4-fe68-4c17-a96e-3d9f09818727
+ActionName: WEB_453504_Поплыко.API.Controllers.RoomsController.GetRooms (WEB_453504_Поплыко.API)
+
+The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+"
+4638,"2026-10-30T22:20:46.014Z",".NET Runtime",3,"Warning",1000,"Application","TEAlover","Category: Microsoft.EntityFrameworkCore.Query
+EventId: 10102
+SpanId: d0f86624377a2f8d
+TraceId: fc726354a257d20ed8fa41e4723eea95
+ParentId: 0199b451b4c9100d
+ConnectionId: 0HNPMQG5FTL4U
+RequestId: 0HNPMQG5FTL4U:00000001
+RequestPath: /api/Rooms
+ActionId: 355e33f5-4211-42f5-a23b-2df8136dd7c8
+ActionName: WEB_453504_Поплыко.API.Controllers.RoomsController.GetRooms (WEB_453504_Поплыко.API)
+
+The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+"
+4637,"2026-10-30T22:20:46.011Z",".NET Runtime",3,"Warning",1000,"Application","TEAlover","Category: Microsoft.EntityFrameworkCore.Query
+EventId: 10102
+SpanId: d0f86624377a2f8d
+TraceId: fc726354a257d20ed8fa41e4723eea95
+ParentId: 0199b451b4c9100d
+ConnectionId: 0HNPMQG5FTL4U
+RequestId: 0HNPMQG5FTL4U:00000001
+RequestPath: /api/Rooms
+ActionId: 355e33f5-4211-42f5-a23b-2df8136dd7c8
+ActionName: WEB_453504_Поплыко.API.Controllers.RoomsController.GetRooms (WEB_453504_Поплыко.API)
+
+The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+"
+4636,"2026-10-30T22:11:21.301Z",".NET Runtime",2,"Error",1000,"Application","TEAlover","Category: Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware
+EventId: 1
+SpanId: 0be659663f11b732
+TraceId: 492af89106b6db15d9ab4df6d8e562fe
+ParentId: 0000000000000000
+ConnectionId: 0HNPMQ1GJR13M
+RequestId: 0HNPMQ1GJR13M:00000002
+RequestPath: /Account/Login
+
+An unhandled exception has occurred while executing the request.
+
+Exception: 
+Microsoft.IdentityModel.Protocols.OpenIdConnect.OpenIdConnectProtocolException: Message contains error: 'invalid_request', error_description: 'Invalid parameter: redirect_uri', error_uri: 'error_uri is null'.
+   at Microsoft.AspNetCore.Authentication.OpenIdConnect.OpenIdConnectHandler.GetPushedAuthorizationRequestUri(HttpResponseMessage parResponseMessage)
+   at Microsoft.AspNetCore.Authentication.OpenIdConnect.OpenIdConnectHandler.PushAuthorizationRequest(OpenIdConnectMessage authorizeRequest, AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authentication.OpenIdConnect.OpenIdConnectHandler.HandleChallengeAsyncInternal(AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authentication.OpenIdConnect.OpenIdConnectHandler.HandleChallengeAsync(AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authentication.AuthenticationHandler`1.ChallengeAsync(AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.ChallengeAsync(HttpContext context, String scheme, AuthenticationProperties properties)
+   at WEB_453504_Поплыко.UI.Controllers.AccountController.Login() in C:\BSUIR\3 year\1 semester\СППР\LR1_3\LR1\WEB_453504_Поплыко\WEB_453504_Поплыко.UI\Controllers\AccountController.cs:line 11
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+"
+4635,"2026-10-30T22:11:21.274Z",".NET Runtime",2,"Error",1000,"Application","TEAlover","Category: Microsoft.AspNetCore.Authentication.OpenIdConnect.OpenIdConnectHandler
+EventId: 52
+SpanId: 0be659663f11b732
+TraceId: 492af89106b6db15d9ab4df6d8e562fe
+ParentId: 0000000000000000
+ConnectionId: 0HNPMQ1GJR13M
+RequestId: 0HNPMQ1GJR13M:00000002
+RequestPath: /Account/Login
+ActionId: 9b0f5327-e726-4a19-a44e-6d44a54026f5
+ActionName: WEB_453504_Поплыко.UI.Controllers.AccountController.Login (WEB_453504_Поплыко.UI)
+
+Message contains error: 'invalid_request', error_description: 'Invalid parameter: redirect_uri', error_uri: 'error_uri is null', status code '400'.
+"
+4634,"2026-10-30T22:10:09.108Z",".NET Runtime",2,"Error",1000,"Application","TEAlover","Category: Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware
+EventId: 1
+SpanId: 1d63b85ac56d0c30
+TraceId: 0ff81ebc2a463b436fc409a902a27a04
+ParentId: 0000000000000000
+ConnectionId: 0HNPMQ1GJR13L
+RequestId: 0HNPMQ1GJR13L:00000001
+RequestPath: /Admin/Rooms
+
+An unhandled exception has occurred while executing the request.
+
+Exception: 
+Microsoft.IdentityModel.Protocols.OpenIdConnect.OpenIdConnectProtocolException: Message contains error: 'invalid_request', error_description: 'Invalid parameter: redirect_uri', error_uri: 'error_uri is null'.
+   at Microsoft.AspNetCore.Authentication.OpenIdConnect.OpenIdConnectHandler.GetPushedAuthorizationRequestUri(HttpResponseMessage parResponseMessage)
+   at Microsoft.AspNetCore.Authentication.OpenIdConnect.OpenIdConnectHandler.PushAuthorizationRequest(OpenIdConnectMessage authorizeRequest, AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authentication.OpenIdConnect.OpenIdConnectHandler.HandleChallengeAsyncInternal(AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authentication.OpenIdConnect.OpenIdConnectHandler.HandleChallengeAsync(AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authentication.AuthenticationHandler`1.ChallengeAsync(AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.ChallengeAsync(HttpContext context, String scheme, AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.<>c__DisplayClass0_0.<<HandleAsync>g__Handle|0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+"
+4633,"2026-10-30T22:10:09.105Z",".NET Runtime",2,"Error",1000,"Application","TEAlover","Category: Microsoft.AspNetCore.Authentication.OpenIdConnect.OpenIdConnectHandler
+EventId: 52
+SpanId: 1d63b85ac56d0c30
+TraceId: 0ff81ebc2a463b436fc409a902a27a04
+ParentId: 0000000000000000
+ConnectionId: 0HNPMQ1GJR13L
+RequestId: 0HNPMQ1GJR13L:00000001
+RequestPath: /Admin/Rooms
+
+Message contains error: 'invalid_request', error_description: 'Invalid parameter: redirect_uri', error_uri: 'error_uri is null', status code '400'.
+"
+4630,"2026-10-30T21:57:32.658Z",".NET Runtime",2,"Error",1000,"Application","TEAlover","Category: Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware
+EventId: 1
+SpanId: acf901a56c4a9c5a
+TraceId: df66509c68f2e3c6fb474cd6cc47b532
+ParentId: 0000000000000000
+ConnectionId: 0HNPMQ1GJR13A
+RequestId: 0HNPMQ1GJR13A:00000009
+RequestPath: /Admin/Rooms
+
+An unhandled exception has occurred while executing the request.
+
+Exception: 
+Microsoft.IdentityModel.Protocols.OpenIdConnect.OpenIdConnectProtocolException: Message contains error: 'invalid_request', error_description: 'Invalid parameter: redirect_uri', error_uri: 'error_uri is null'.
+   at Microsoft.AspNetCore.Authentication.OpenIdConnect.OpenIdConnectHandler.GetPushedAuthorizationRequestUri(HttpResponseMessage parResponseMessage)
+   at Microsoft.AspNetCore.Authentication.OpenIdConnect.OpenIdConnectHandler.PushAuthorizationRequest(OpenIdConnectMessage authorizeRequest, AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authentication.OpenIdConnect.OpenIdConnectHandler.HandleChallengeAsyncInternal(AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authentication.OpenIdConnect.OpenIdConnectHandler.HandleChallengeAsync(AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authentication.AuthenticationHandler`1.ChallengeAsync(AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.ChallengeAsync(HttpContext context, String scheme, AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.<>c__DisplayClass0_0.<<HandleAsync>g__Handle|0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+"
+4629,"2026-10-30T21:57:32.616Z",".NET Runtime",2,"Error",1000,"Application","TEAlover","Category: Microsoft.AspNetCore.Authentication.OpenIdConnect.OpenIdConnectHandler
+EventId: 52
+SpanId: acf901a56c4a9c5a
+TraceId: df66509c68f2e3c6fb474cd6cc47b532
+ParentId: 0000000000000000
+ConnectionId: 0HNPMQ1GJR13A
+RequestId: 0HNPMQ1GJR13A:00000009
+RequestPath: /Admin/Rooms
+
+Message contains error: 'invalid_request', error_description: 'Invalid parameter: redirect_uri', error_uri: 'error_uri is null', status code '400'.
+"
+4628,"2026-10-30T21:54:32.454Z",".NET Runtime",3,"Warning",1000,"Application","TEAlover","Category: Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware
+EventId: 3
+SpanId: 056ed4d329918087
+TraceId: c49dbaf26cfeacbfe100dac0c2d3bbf1
+ParentId: 0000000000000000
+ConnectionId: 0HNPMQ1GJR12H
+RequestId: 0HNPMQ1GJR12H:00000001
+RequestPath: /
+
+Failed to determine the https port for redirect.
+"

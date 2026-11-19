@@ -42,3 +42,150 @@
 [18:57:01.787] ERROR FILE_OPEN file=Z:\no\such\dir\x.json
 [18:57:01.787] EXPORT_DONE time_ms=0.533
 [18:57:01.787] END status=FAIL rc=5
+[19:14:19.708] START log=Application max=300 format=both level=0 xpath=*
+[19:14:19.708] EVT_QUERY status=OK
+[19:14:19.826] WARN EvtOpenPublisherMetadata provider=Microsoft-Windows-AppXDeploymentServer/Operational code=2 (текст сообщения недоступен)
+[19:14:19.905] WARN EvtOpenPublisherMetadata provider=ASUSSystemAnalysis code=2 (текст сообщения недоступен)
+[19:14:20.030] WARN EvtOpenPublisherMetadata provider=RtkAudioUniversalService code=2 (текст сообщения недоступен)
+[19:14:20.031] WARN EvtOpenPublisherMetadata provider=AsusAppService code=2 (текст сообщения недоступен)
+[19:14:20.063] READ count=300 time_ms=353.814
+[19:14:20.063] EXPORT file=C:\Else\ossp-labs\lab06-system\scripts\..\data\events_V.csv bytes=128626
+[19:14:20.071] EXPORT file=C:\Else\ossp-labs\lab06-system\scripts\..\data\events_V.json bytes=165355
+[19:14:20.071] EXPORT_DONE time_ms=5.100
+[19:14:20.071] END status=OK rc=0
+[19:14:20.118] START log=Application max=300 format=both level=0 xpath=*
+[19:14:20.118] EVT_QUERY status=OK
+[19:14:20.214] WARN EvtOpenPublisherMetadata provider=Microsoft-Windows-AppXDeploymentServer/Operational code=2 (текст сообщения недоступен)
+[19:14:20.240] WARN EvtOpenPublisherMetadata provider=ASUSSystemAnalysis code=2 (текст сообщения недоступен)
+[19:14:20.283] WARN EvtOpenPublisherMetadata provider=RtkAudioUniversalService code=2 (текст сообщения недоступен)
+[19:14:20.283] WARN EvtOpenPublisherMetadata provider=AsusAppService code=2 (текст сообщения недоступен)
+[19:14:20.315] READ count=300 time_ms=194.015
+[19:14:20.317] EXPORT file=C:\Else\ossp-labs\lab06-system\scripts\..\data\events_V.csv bytes=128626
+[19:14:20.321] EXPORT file=C:\Else\ossp-labs\lab06-system\scripts\..\data\events_V.json bytes=165355
+[19:14:20.321] EXPORT_DONE time_ms=5.943
+[19:14:20.321] END status=OK rc=0
+[19:14:20.358] START log=Application max=300 format=both level=0 xpath=*
+[19:14:20.360] EVT_QUERY status=OK
+[19:14:20.443] WARN EvtOpenPublisherMetadata provider=Microsoft-Windows-AppXDeploymentServer/Operational code=2 (текст сообщения недоступен)
+[19:14:20.465] WARN EvtOpenPublisherMetadata provider=ASUSSystemAnalysis code=2 (текст сообщения недоступен)
+[19:14:20.506] WARN EvtOpenPublisherMetadata provider=RtkAudioUniversalService code=2 (текст сообщения недоступен)
+[19:14:20.506] WARN EvtOpenPublisherMetadata provider=AsusAppService code=2 (текст сообщения недоступен)
+[19:14:20.522] READ count=300 time_ms=178.590
+[19:14:20.537] EXPORT file=C:\Else\ossp-labs\lab06-system\scripts\..\data\events_V.csv bytes=128626
+[19:14:20.541] EXPORT file=C:\Else\ossp-labs\lab06-system\scripts\..\data\events_V.json bytes=165355
+[19:14:20.541] EXPORT_DONE time_ms=4.577
+[19:14:20.541] END status=OK rc=0
+[19:14:20.587] START log=Application max=100 format=both level=0 xpath=*
+[19:14:20.587] EVT_QUERY status=OK
+[19:14:20.680] WARN EvtOpenPublisherMetadata provider=Microsoft-Windows-AppXDeploymentServer/Operational code=2 (текст сообщения недоступен)
+[19:14:20.680] READ count=100 time_ms=93.488
+[19:14:20.680] EXPORT file=C:\Else\ossp-labs\lab06-system\scripts\..\data\events_B.csv bytes=47729
+[19:14:20.684] EXPORT file=C:\Else\ossp-labs\lab06-system\scripts\..\data\events_B.json bytes=59845
+[19:14:20.684] EXPORT_DONE time_ms=3.789
+[19:14:20.684] END status=OK rc=0
+[19:14:20.713] START log=Application max=100 format=both level=0 xpath=*
+[19:14:20.716] EVT_QUERY status=OK
+[19:14:20.789] WARN EvtOpenPublisherMetadata provider=Microsoft-Windows-AppXDeploymentServer/Operational code=2 (текст сообщения недоступен)
+[19:14:20.789] READ count=100 time_ms=87.875
+[19:14:20.789] EXPORT file=C:\Else\ossp-labs\lab06-system\scripts\..\data\events_B.csv bytes=47729
+[19:14:20.789] EXPORT file=C:\Else\ossp-labs\lab06-system\scripts\..\data\events_B.json bytes=59845
+[19:14:20.789] EXPORT_DONE time_ms=1.784
+[19:14:20.789] END status=OK rc=0
+[19:14:20.827] START log=Application max=100 format=both level=0 xpath=*
+[19:14:20.827] EVT_QUERY status=OK
+[19:14:20.916] WARN EvtOpenPublisherMetadata provider=Microsoft-Windows-AppXDeploymentServer/Operational code=2 (текст сообщения недоступен)
+[19:14:20.916] READ count=100 time_ms=88.991
+[19:14:20.917] EXPORT file=C:\Else\ossp-labs\lab06-system\scripts\..\data\events_B.csv bytes=47729
+[19:14:20.919] EXPORT file=C:\Else\ossp-labs\lab06-system\scripts\..\data\events_B.json bytes=59845
+[19:14:20.919] EXPORT_DONE time_ms=1.960
+[19:14:20.919] END status=OK rc=0
+[19:14:20.942] START log=Application max=130 format=both level=0 xpath=*
+[19:14:20.945] EVT_QUERY status=OK
+[19:14:21.040] WARN EvtOpenPublisherMetadata provider=Microsoft-Windows-AppXDeploymentServer/Operational code=2 (текст сообщения недоступен)
+[19:14:21.054] READ count=130 time_ms=120.728
+[19:14:21.054] EXPORT file=C:\Else\ossp-labs\lab06-system\scripts\..\data\events_IND.csv bytes=60345
+[19:14:21.070] EXPORT file=C:\Else\ossp-labs\lab06-system\scripts\..\data\events_IND.json bytes=76102
+[19:14:21.070] EXPORT_DONE time_ms=5.795
+[19:14:21.071] END status=OK rc=0
+[19:14:21.115] START log=Application max=130 format=both level=0 xpath=*
+[19:14:21.115] EVT_QUERY status=OK
+[19:14:21.206] WARN EvtOpenPublisherMetadata provider=Microsoft-Windows-AppXDeploymentServer/Operational code=2 (текст сообщения недоступен)
+[19:14:21.229] READ count=130 time_ms=111.026
+[19:14:21.230] EXPORT file=C:\Else\ossp-labs\lab06-system\scripts\..\data\events_IND.csv bytes=60345
+[19:14:21.230] EXPORT file=C:\Else\ossp-labs\lab06-system\scripts\..\data\events_IND.json bytes=76102
+[19:14:21.230] EXPORT_DONE time_ms=2.616
+[19:14:21.232] END status=OK rc=0
+[19:14:21.272] START log=Application max=130 format=both level=0 xpath=*
+[19:14:21.272] EVT_QUERY status=OK
+[19:14:21.366] WARN EvtOpenPublisherMetadata provider=Microsoft-Windows-AppXDeploymentServer/Operational code=2 (текст сообщения недоступен)
+[19:14:21.386] READ count=130 time_ms=110.392
+[19:14:21.386] EXPORT file=C:\Else\ossp-labs\lab06-system\scripts\..\data\events_IND.csv bytes=60345
+[19:14:21.386] EXPORT file=C:\Else\ossp-labs\lab06-system\scripts\..\data\events_IND.json bytes=76102
+[19:14:21.389] EXPORT_DONE time_ms=2.801
+[19:14:21.389] END status=OK rc=0
+[19:14:21.434] START log=Application max=20 format=both level=0 xpath=*
+[19:14:21.434] EVT_QUERY status=OK
+[19:14:21.460] READ count=20 time_ms=29.727
+[19:14:21.460] EXPORT file=C:\Else\ossp-labs\lab06-system\scripts\..\data\events_A.csv bytes=8559
+[19:14:21.468] EXPORT file=C:\Else\ossp-labs\lab06-system\scripts\..\data\events_A.json bytes=10934
+[19:14:21.468] EXPORT_DONE time_ms=4.393
+[19:14:21.468] END status=OK rc=0
+[19:14:21.500] START log=Application max=20 format=both level=0 xpath=*
+[19:14:21.500] EVT_QUERY status=OK
+[19:14:21.532] READ count=20 time_ms=30.308
+[19:14:21.533] EXPORT file=C:\Else\ossp-labs\lab06-system\scripts\..\data\events_A.csv bytes=8559
+[19:14:21.533] EXPORT file=C:\Else\ossp-labs\lab06-system\scripts\..\data\events_A.json bytes=10934
+[19:14:21.533] EXPORT_DONE time_ms=1.207
+[19:14:21.533] END status=OK rc=0
+[19:14:21.569] START log=Application max=20 format=both level=0 xpath=*
+[19:14:21.569] EVT_QUERY status=OK
+[19:14:21.602] READ count=20 time_ms=33.568
+[19:14:21.603] EXPORT file=C:\Else\ossp-labs\lab06-system\scripts\..\data\events_A.csv bytes=8559
+[19:14:21.603] EXPORT file=C:\Else\ossp-labs\lab06-system\scripts\..\data\events_A.json bytes=10934
+[19:14:21.603] EXPORT_DONE time_ms=1.197
+[19:14:21.603] END status=OK rc=0
+[19:14:21.644] START log=Application max=130 format=both level=3 xpath=*[System[(Level>=1 and Level<=3)]]
+[19:14:21.644] EVT_QUERY status=OK
+[19:14:21.706] WARN EvtOpenPublisherMetadata provider=VBScriptDeprecationAlert code=2 (текст сообщения недоступен)
+[19:14:21.722] READ count=130 time_ms=81.366
+[19:14:21.722] EXPORT file=C:\Else\ossp-labs\lab06-system\scripts\..\data\events_lvl3.csv bytes=101296
+[19:14:21.729] EXPORT file=C:\Else\ossp-labs\lab06-system\scripts\..\data\events_lvl3.json bytes=118905
+[19:14:21.729] EXPORT_DONE time_ms=3.396
+[19:14:21.731] END status=OK rc=0
+[19:14:21.755] START log=Application max=130 format=both level=3 xpath=*[System[(Level>=1 and Level<=3)]]
+[19:14:21.755] EVT_QUERY status=OK
+[19:14:21.794] WARN EvtOpenPublisherMetadata provider=VBScriptDeprecationAlert code=2 (текст сообщения недоступен)
+[19:14:21.815] READ count=130 time_ms=59.796
+[19:14:21.816] EXPORT file=C:\Else\ossp-labs\lab06-system\scripts\..\data\events_lvl3.csv bytes=101296
+[19:14:21.818] EXPORT file=C:\Else\ossp-labs\lab06-system\scripts\..\data\events_lvl3.json bytes=118905
+[19:14:21.818] EXPORT_DONE time_ms=3.713
+[19:14:21.820] END status=OK rc=0
+[19:14:21.862] START log=Application max=130 format=both level=3 xpath=*[System[(Level>=1 and Level<=3)]]
+[19:14:21.862] EVT_QUERY status=OK
+[19:14:21.914] WARN EvtOpenPublisherMetadata provider=VBScriptDeprecationAlert code=2 (текст сообщения недоступен)
+[19:14:21.927] READ count=130 time_ms=72.160
+[19:14:21.935] EXPORT file=C:\Else\ossp-labs\lab06-system\scripts\..\data\events_lvl3.csv bytes=101296
+[19:14:21.935] EXPORT file=C:\Else\ossp-labs\lab06-system\scripts\..\data\events_lvl3.json bytes=118905
+[19:14:21.935] EXPORT_DONE time_ms=3.313
+[19:14:21.938] END status=OK rc=0
+[19:15:38.875] START log=Application max=300 format=both level=0 xpath=*
+[19:15:38.891] EVT_QUERY status=OK
+[19:15:38.891] READ count=300 time_ms=10.454
+[19:15:38.891] EXPORT file=data\events_nomsg.csv bytes=32421
+[19:15:38.891] EXPORT file=data\events_nomsg.json bytes=67741
+[19:15:38.891] EXPORT_DONE time_ms=2.617
+[19:15:38.891] END status=OK rc=0
+[19:15:38.937] START log=Application max=300 format=both level=0 xpath=*
+[19:15:38.939] EVT_QUERY status=OK
+[19:15:38.947] READ count=300 time_ms=10.309
+[19:15:38.955] EXPORT file=data\events_nomsg.csv bytes=32421
+[19:15:38.962] EXPORT file=data\events_nomsg.json bytes=67741
+[19:15:38.962] EXPORT_DONE time_ms=14.467
+[19:15:38.962] END status=OK rc=0
+[19:15:38.985] START log=Application max=300 format=both level=0 xpath=*
+[19:15:38.986] EVT_QUERY status=OK
+[19:15:38.992] READ count=300 time_ms=7.551
+[19:15:39.002] EXPORT file=data\events_nomsg.csv bytes=32421
+[19:15:39.002] EXPORT file=data\events_nomsg.json bytes=67741
+[19:15:39.002] EXPORT_DONE time_ms=12.275
+[19:15:39.002] END status=OK rc=0
